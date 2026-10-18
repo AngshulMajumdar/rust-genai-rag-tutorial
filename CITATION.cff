@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+title: "Suryodaya Indic HR Multi-hop QA: a multilingual multi-hop RAG benchmark over HR policies in eight Indian languages"
+authors:
+  - family-names: Majumdar
+    given-names: Angshul
+    affiliation: "Indraprastha Institute of Information Technology Delhi"
+date-released: 2026-10-17
+version: "1.0.0"
+keywords:
+  - multilingual question answering
+  - multi-hop QA
+  - retrieval-augmented generation
+  - Indian languages
+  - HR policy
+  - benchmark
