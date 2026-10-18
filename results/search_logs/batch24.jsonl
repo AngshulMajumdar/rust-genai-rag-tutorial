@@ -1,0 +1,273 @@
+{"t": 1792141151.1889274, "query": "बाह्य-नगर यात्रा मुख्यालय से दूरी किलोमीटर", "get": null, "lang": "Hindi", "doc": null, "k": 3}
+{"t": 1792158995.2130713, "query": "test", "get": null, "lang": null, "doc": null, "k": 1}
+{"t": 1792159000.3538957, "query": "यात्रा", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159000.9041746, "query": "ప్రయాణ", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159001.5209465, "query": "తుది చెల్లింపు", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792159002.139219, "query": "পদত্যাগ", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159006.3433244, "query": null, "get": "TE:07_final_settlement_exit:0019", "lang": null, "doc": null, "k": 6}
+{"t": 1792159006.8945303, "query": null, "get": "TE:07_final_settlement_exit:0020", "lang": null, "doc": null, "k": 6}
+{"t": 1792159007.3887613, "query": null, "get": "TE:07_final_settlement_exit:0021", "lang": null, "doc": null, "k": 6}
+{"t": 1792159007.9299843, "query": null, "get": "TE:07_final_settlement_exit:0022", "lang": null, "doc": null, "k": 6}
+{"t": 1792159008.392289, "query": null, "get": "TE:07_final_settlement_exit:0023", "lang": null, "doc": null, "k": 6}
+{"t": 1792159013.5322926, "query": null, "get": "TE:07_final_settlement_exit:0000", "lang": null, "doc": null, "k": 6}
+{"t": 1792159014.1769264, "query": null, "get": "TE:07_final_settlement_exit:0001", "lang": null, "doc": null, "k": 6}
+{"t": 1792159014.8174841, "query": null, "get": "TE:07_final_settlement_exit:0002", "lang": null, "doc": null, "k": 6}
+{"t": 1792159015.4279501, "query": null, "get": "TE:07_final_settlement_exit:0003", "lang": null, "doc": null, "k": 6}
+{"t": 1792159015.8975687, "query": null, "get": "TE:07_final_settlement_exit:0004", "lang": null, "doc": null, "k": 6}
+{"t": 1792159016.4035964, "query": null, "get": "TE:07_final_settlement_exit:0005", "lang": null, "doc": null, "k": 6}
+{"t": 1792159017.0684252, "query": null, "get": "TE:07_final_settlement_exit:0006", "lang": null, "doc": null, "k": 6}
+{"t": 1792159017.96977, "query": null, "get": "TE:07_final_settlement_exit:0007", "lang": null, "doc": null, "k": 6}
+{"t": 1792159018.982769, "query": null, "get": "TE:07_final_settlement_exit:0008", "lang": null, "doc": null, "k": 6}
+{"t": 1792159019.6273978, "query": null, "get": "TE:07_final_settlement_exit:0009", "lang": null, "doc": null, "k": 6}
+{"t": 1792159020.1373463, "query": null, "get": "TE:07_final_settlement_exit:0010", "lang": null, "doc": null, "k": 6}
+{"t": 1792159020.7412643, "query": null, "get": "TE:07_final_settlement_exit:0011", "lang": null, "doc": null, "k": 6}
+{"t": 1792159021.318079, "query": null, "get": "TE:07_final_settlement_exit:0012", "lang": null, "doc": null, "k": 6}
+{"t": 1792159021.7958496, "query": null, "get": "TE:07_final_settlement_exit:0013", "lang": null, "doc": null, "k": 6}
+{"t": 1792159022.2670498, "query": null, "get": "TE:07_final_settlement_exit:0014", "lang": null, "doc": null, "k": 6}
+{"t": 1792159022.7725892, "query": null, "get": "TE:07_final_settlement_exit:0015", "lang": null, "doc": null, "k": 6}
+{"t": 1792159023.2296422, "query": null, "get": "TE:07_final_settlement_exit:0016", "lang": null, "doc": null, "k": 6}
+{"t": 1792159023.7133584, "query": null, "get": "TE:07_final_settlement_exit:0017", "lang": null, "doc": null, "k": 6}
+{"t": 1792159024.2630014, "query": null, "get": "TE:07_final_settlement_exit:0018", "lang": null, "doc": null, "k": 6}
+{"t": 1792159024.7712643, "query": null, "get": "TE:07_final_settlement_exit:0019", "lang": null, "doc": null, "k": 6}
+{"t": 1792159025.3104184, "query": null, "get": "TE:07_final_settlement_exit:0020", "lang": null, "doc": null, "k": 6}
+{"t": 1792159025.7910762, "query": null, "get": "TE:07_final_settlement_exit:0021", "lang": null, "doc": null, "k": 6}
+{"t": 1792159026.3532708, "query": null, "get": "TE:07_final_settlement_exit:0022", "lang": null, "doc": null, "k": 6}
+{"t": 1792159026.917997, "query": null, "get": "TE:07_final_settlement_exit:0023", "lang": null, "doc": null, "k": 6}
+{"t": 1792159027.4412584, "query": null, "get": "TE:07_final_settlement_exit:0024", "lang": null, "doc": null, "k": 6}
+{"t": 1792159028.0746899, "query": null, "get": "TE:07_final_settlement_exit:0025", "lang": null, "doc": null, "k": 6}
+{"t": 1792159028.6529062, "query": null, "get": "TE:07_final_settlement_exit:0026", "lang": null, "doc": null, "k": 6}
+{"t": 1792159029.2951477, "query": null, "get": "TE:07_final_settlement_exit:0027", "lang": null, "doc": null, "k": 6}
+{"t": 1792159029.9740713, "query": null, "get": "TE:07_final_settlement_exit:0028", "lang": null, "doc": null, "k": 6}
+{"t": 1792159030.6251752, "query": null, "get": "TE:07_final_settlement_exit:0029", "lang": null, "doc": null, "k": 6}
+{"t": 1792159031.4253924, "query": null, "get": "TE:07_final_settlement_exit:0030", "lang": null, "doc": null, "k": 6}
+{"t": 1792159032.2899144, "query": null, "get": "TE:07_final_settlement_exit:0031", "lang": null, "doc": null, "k": 6}
+{"t": 1792159033.3689327, "query": null, "get": "TE:07_final_settlement_exit:0032", "lang": null, "doc": null, "k": 6}
+{"t": 1792159034.0318599, "query": null, "get": "TE:07_final_settlement_exit:0033", "lang": null, "doc": null, "k": 6}
+{"t": 1792159034.66575, "query": null, "get": "TE:07_final_settlement_exit:0034", "lang": null, "doc": null, "k": 6}
+{"t": 1792159035.3178976, "query": null, "get": "TE:07_final_settlement_exit:0035", "lang": null, "doc": null, "k": 6}
+{"t": 1792159035.95336, "query": null, "get": "TE:07_final_settlement_exit:0036", "lang": null, "doc": null, "k": 6}
+{"t": 1792159036.5399015, "query": null, "get": "TE:07_final_settlement_exit:0037", "lang": null, "doc": null, "k": 6}
+{"t": 1792159037.155724, "query": null, "get": "TE:07_final_settlement_exit:0038", "lang": null, "doc": null, "k": 6}
+{"t": 1792159037.8132377, "query": null, "get": "TE:07_final_settlement_exit:0039", "lang": null, "doc": null, "k": 6}
+{"t": 1792159038.3907557, "query": null, "get": "TE:07_final_settlement_exit:0040", "lang": null, "doc": null, "k": 6}
+{"t": 1792159038.903324, "query": null, "get": "TE:07_final_settlement_exit:0041", "lang": null, "doc": null, "k": 6}
+{"t": 1792159039.4628954, "query": null, "get": "TE:07_final_settlement_exit:0042", "lang": null, "doc": null, "k": 6}
+{"t": 1792159039.9855514, "query": null, "get": "TE:07_final_settlement_exit:0043", "lang": null, "doc": null, "k": 6}
+{"t": 1792159040.541581, "query": null, "get": "TE:07_final_settlement_exit:0044", "lang": null, "doc": null, "k": 6}
+{"t": 1792159041.1547258, "query": null, "get": "TE:07_final_settlement_exit:0045", "lang": null, "doc": null, "k": 6}
+{"t": 1792159042.217032, "query": null, "get": "TE:07_final_settlement_exit:0046", "lang": null, "doc": null, "k": 6}
+{"t": 1792159043.239557, "query": null, "get": "TE:07_final_settlement_exit:0047", "lang": null, "doc": null, "k": 6}
+{"t": 1792159043.950882, "query": null, "get": "TE:07_final_settlement_exit:0048", "lang": null, "doc": null, "k": 6}
+{"t": 1792159044.8015256, "query": null, "get": "TE:07_final_settlement_exit:0049", "lang": null, "doc": null, "k": 6}
+{"t": 1792159045.562094, "query": null, "get": "TE:07_final_settlement_exit:0050", "lang": null, "doc": null, "k": 6}
+{"t": 1792159046.0629358, "query": null, "get": "TE:07_final_settlement_exit:0051", "lang": null, "doc": null, "k": 6}
+{"t": 1792159046.6538904, "query": null, "get": "TE:07_final_settlement_exit:0052", "lang": null, "doc": null, "k": 6}
+{"t": 1792159047.1695576, "query": null, "get": "TE:07_final_settlement_exit:0053", "lang": null, "doc": null, "k": 6}
+{"t": 1792159047.7683394, "query": null, "get": "TE:07_final_settlement_exit:0054", "lang": null, "doc": null, "k": 6}
+{"t": 1792159048.419107, "query": null, "get": "TE:07_final_settlement_exit:0055", "lang": null, "doc": null, "k": 6}
+{"t": 1792159048.9596426, "query": null, "get": "TE:07_final_settlement_exit:0056", "lang": null, "doc": null, "k": 6}
+{"t": 1792159049.515067, "query": null, "get": "TE:07_final_settlement_exit:0057", "lang": null, "doc": null, "k": 6}
+{"t": 1792159050.0834322, "query": null, "get": "TE:07_final_settlement_exit:0058", "lang": null, "doc": null, "k": 6}
+{"t": 1792159050.8117466, "query": null, "get": "TE:07_final_settlement_exit:0059", "lang": null, "doc": null, "k": 6}
+{"t": 1792159051.773689, "query": null, "get": "TE:07_final_settlement_exit:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1792159052.5705848, "query": null, "get": "TE:07_final_settlement_exit:0061", "lang": null, "doc": null, "k": 6}
+{"t": 1792159053.1904166, "query": null, "get": "TE:07_final_settlement_exit:0062", "lang": null, "doc": null, "k": 6}
+{"t": 1792159053.7022986, "query": null, "get": "TE:07_final_settlement_exit:0063", "lang": null, "doc": null, "k": 6}
+{"t": 1792159054.3257065, "query": null, "get": "TE:07_final_settlement_exit:0064", "lang": null, "doc": null, "k": 6}
+{"t": 1792159054.7828808, "query": null, "get": "TE:07_final_settlement_exit:0065", "lang": null, "doc": null, "k": 6}
+{"t": 1792159055.3211608, "query": null, "get": "TE:07_final_settlement_exit:0066", "lang": null, "doc": null, "k": 6}
+{"t": 1792159055.8456533, "query": null, "get": "TE:07_final_settlement_exit:0067", "lang": null, "doc": null, "k": 6}
+{"t": 1792159056.6179037, "query": null, "get": "TE:07_final_settlement_exit:0068", "lang": null, "doc": null, "k": 6}
+{"t": 1792159057.3685093, "query": null, "get": "TE:07_final_settlement_exit:0069", "lang": null, "doc": null, "k": 6}
+{"t": 1792159058.099284, "query": null, "get": "TE:07_final_settlement_exit:0070", "lang": null, "doc": null, "k": 6}
+{"t": 1792159059.162134, "query": null, "get": "TE:07_final_settlement_exit:0071", "lang": null, "doc": null, "k": 6}
+{"t": 1792159060.3074286, "query": null, "get": "TE:07_final_settlement_exit:0072", "lang": null, "doc": null, "k": 6}
+{"t": 1792159061.0559423, "query": null, "get": "TE:07_final_settlement_exit:0073", "lang": null, "doc": null, "k": 6}
+{"t": 1792159061.7364073, "query": null, "get": "TE:07_final_settlement_exit:0074", "lang": null, "doc": null, "k": 6}
+{"t": 1792159062.4450426, "query": null, "get": "TE:07_final_settlement_exit:0075", "lang": null, "doc": null, "k": 6}
+{"t": 1792159063.2892153, "query": null, "get": "TE:07_final_settlement_exit:0076", "lang": null, "doc": null, "k": 6}
+{"t": 1792159064.1136494, "query": null, "get": "TE:07_final_settlement_exit:0077", "lang": null, "doc": null, "k": 6}
+{"t": 1792159064.941602, "query": null, "get": "TE:07_final_settlement_exit:0078", "lang": null, "doc": null, "k": 6}
+{"t": 1792159065.8048084, "query": null, "get": "TE:07_final_settlement_exit:0079", "lang": null, "doc": null, "k": 6}
+{"t": 1792159066.592539, "query": null, "get": "TE:07_final_settlement_exit:0080", "lang": null, "doc": null, "k": 6}
+{"t": 1792159067.395902, "query": null, "get": "TE:07_final_settlement_exit:0081", "lang": null, "doc": null, "k": 6}
+{"t": 1792159068.5142655, "query": null, "get": "TE:07_final_settlement_exit:0082", "lang": null, "doc": null, "k": 6}
+{"t": 1792159069.2833428, "query": null, "get": "TE:07_final_settlement_exit:0083", "lang": null, "doc": null, "k": 6}
+{"t": 1792159069.9668672, "query": null, "get": "TE:07_final_settlement_exit:0084", "lang": null, "doc": null, "k": 6}
+{"t": 1792159070.5435014, "query": null, "get": "TE:07_final_settlement_exit:0085", "lang": null, "doc": null, "k": 6}
+{"t": 1792159071.0671217, "query": null, "get": "TE:07_final_settlement_exit:0086", "lang": null, "doc": null, "k": 6}
+{"t": 1792159071.6451807, "query": null, "get": "TE:07_final_settlement_exit:0087", "lang": null, "doc": null, "k": 6}
+{"t": 1792159072.141412, "query": null, "get": "TE:07_final_settlement_exit:0088", "lang": null, "doc": null, "k": 6}
+{"t": 1792159072.646195, "query": null, "get": "TE:07_final_settlement_exit:0089", "lang": null, "doc": null, "k": 6}
+{"t": 1792159073.154108, "query": null, "get": "TE:07_final_settlement_exit:0090", "lang": null, "doc": null, "k": 6}
+{"t": 1792159073.9268942, "query": null, "get": "TE:07_final_settlement_exit:0091", "lang": null, "doc": null, "k": 6}
+{"t": 1792159074.9199734, "query": null, "get": "TE:07_final_settlement_exit:0092", "lang": null, "doc": null, "k": 6}
+{"t": 1792159075.5702116, "query": null, "get": "TE:07_final_settlement_exit:0093", "lang": null, "doc": null, "k": 6}
+{"t": 1792159076.1254315, "query": null, "get": "TE:07_final_settlement_exit:0094", "lang": null, "doc": null, "k": 6}
+{"t": 1792159076.6833456, "query": null, "get": "TE:07_final_settlement_exit:0095", "lang": null, "doc": null, "k": 6}
+{"t": 1792159077.2120023, "query": null, "get": "TE:07_final_settlement_exit:0096", "lang": null, "doc": null, "k": 6}
+{"t": 1792159077.8378823, "query": null, "get": "TE:07_final_settlement_exit:0097", "lang": null, "doc": null, "k": 6}
+{"t": 1792159078.4868503, "query": null, "get": "TE:07_final_settlement_exit:0098", "lang": null, "doc": null, "k": 6}
+{"t": 1792159079.135377, "query": null, "get": "TE:07_final_settlement_exit:0099", "lang": null, "doc": null, "k": 6}
+{"t": 1792159079.7003057, "query": null, "get": "TE:07_final_settlement_exit:0100", "lang": null, "doc": null, "k": 6}
+{"t": 1792159080.2223115, "query": null, "get": "TE:07_final_settlement_exit:0101", "lang": null, "doc": null, "k": 6}
+{"t": 1792159080.774896, "query": null, "get": "TE:07_final_settlement_exit:0102", "lang": null, "doc": null, "k": 6}
+{"t": 1792159081.2999547, "query": null, "get": "TE:07_final_settlement_exit:0103", "lang": null, "doc": null, "k": 6}
+{"t": 1792159081.8603027, "query": null, "get": "TE:07_final_settlement_exit:0104", "lang": null, "doc": null, "k": 6}
+{"t": 1792159082.4470153, "query": null, "get": "TE:07_final_settlement_exit:0105", "lang": null, "doc": null, "k": 6}
+{"t": 1792159082.989589, "query": null, "get": "TE:07_final_settlement_exit:0106", "lang": null, "doc": null, "k": 6}
+{"t": 1792159083.4720423, "query": null, "get": "TE:07_final_settlement_exit:0107", "lang": null, "doc": null, "k": 6}
+{"t": 1792159084.0602062, "query": null, "get": "TE:07_final_settlement_exit:0108", "lang": null, "doc": null, "k": 6}
+{"t": 1792159084.5667398, "query": null, "get": "TE:07_final_settlement_exit:0109", "lang": null, "doc": null, "k": 6}
+{"t": 1792159085.1738567, "query": null, "get": "TE:07_final_settlement_exit:0110", "lang": null, "doc": null, "k": 6}
+{"t": 1792159085.734543, "query": null, "get": "TE:07_final_settlement_exit:0111", "lang": null, "doc": null, "k": 6}
+{"t": 1792159086.2461822, "query": null, "get": "TE:07_final_settlement_exit:0112", "lang": null, "doc": null, "k": 6}
+{"t": 1792159086.7375531, "query": null, "get": "TE:07_final_settlement_exit:0113", "lang": null, "doc": null, "k": 6}
+{"t": 1792159087.2796564, "query": null, "get": "TE:07_final_settlement_exit:0114", "lang": null, "doc": null, "k": 6}
+{"t": 1792159087.7862577, "query": null, "get": "TE:07_final_settlement_exit:0115", "lang": null, "doc": null, "k": 6}
+{"t": 1792159088.2897077, "query": null, "get": "TE:07_final_settlement_exit:0116", "lang": null, "doc": null, "k": 6}
+{"t": 1792159088.7645738, "query": null, "get": "TE:07_final_settlement_exit:0117", "lang": null, "doc": null, "k": 6}
+{"t": 1792159089.2256076, "query": null, "get": "TE:07_final_settlement_exit:0118", "lang": null, "doc": null, "k": 6}
+{"t": 1792159089.7213242, "query": null, "get": "TE:07_final_settlement_exit:0119", "lang": null, "doc": null, "k": 6}
+{"t": 1792159090.232103, "query": null, "get": "TE:07_final_settlement_exit:0120", "lang": null, "doc": null, "k": 6}
+{"t": 1792159090.7576208, "query": null, "get": "BE:04_separation:0000", "lang": null, "doc": null, "k": 6}
+{"t": 1792159091.2919288, "query": null, "get": "BE:04_separation:0001", "lang": null, "doc": null, "k": 6}
+{"t": 1792159091.8282044, "query": null, "get": "BE:04_separation:0002", "lang": null, "doc": null, "k": 6}
+{"t": 1792159092.3735898, "query": null, "get": "BE:04_separation:0003", "lang": null, "doc": null, "k": 6}
+{"t": 1792159092.883832, "query": null, "get": "BE:04_separation:0004", "lang": null, "doc": null, "k": 6}
+{"t": 1792159093.4240363, "query": null, "get": "BE:04_separation:0005", "lang": null, "doc": null, "k": 6}
+{"t": 1792159093.9651902, "query": null, "get": "BE:04_separation:0006", "lang": null, "doc": null, "k": 6}
+{"t": 1792159094.4652402, "query": null, "get": "BE:04_separation:0007", "lang": null, "doc": null, "k": 6}
+{"t": 1792159095.0165133, "query": null, "get": "BE:04_separation:0008", "lang": null, "doc": null, "k": 6}
+{"t": 1792159095.5119877, "query": null, "get": "BE:04_separation:0009", "lang": null, "doc": null, "k": 6}
+{"t": 1792159096.1444924, "query": null, "get": "BE:04_separation:0010", "lang": null, "doc": null, "k": 6}
+{"t": 1792159096.8877032, "query": null, "get": "BE:04_separation:0011", "lang": null, "doc": null, "k": 6}
+{"t": 1792159097.3851051, "query": null, "get": "BE:04_separation:0012", "lang": null, "doc": null, "k": 6}
+{"t": 1792159097.967075, "query": null, "get": "BE:04_separation:0013", "lang": null, "doc": null, "k": 6}
+{"t": 1792159098.4612296, "query": null, "get": "BE:04_separation:0014", "lang": null, "doc": null, "k": 6}
+{"t": 1792159098.9342854, "query": null, "get": "BE:04_separation:0015", "lang": null, "doc": null, "k": 6}
+{"t": 1792159099.4596796, "query": null, "get": "BE:04_separation:0016", "lang": null, "doc": null, "k": 6}
+{"t": 1792159099.9571934, "query": null, "get": "BE:04_separation:0017", "lang": null, "doc": null, "k": 6}
+{"t": 1792159100.48191, "query": null, "get": "BE:04_separation:0018", "lang": null, "doc": null, "k": 6}
+{"t": 1792159101.046534, "query": null, "get": "BE:04_separation:0019", "lang": null, "doc": null, "k": 6}
+{"t": 1792159101.5430298, "query": null, "get": "BE:04_separation:0020", "lang": null, "doc": null, "k": 6}
+{"t": 1792159102.1022484, "query": null, "get": "BE:04_separation:0021", "lang": null, "doc": null, "k": 6}
+{"t": 1792159102.6283958, "query": null, "get": "BE:04_separation:0022", "lang": null, "doc": null, "k": 6}
+{"t": 1792159103.1635625, "query": null, "get": "BE:04_separation:0023", "lang": null, "doc": null, "k": 6}
+{"t": 1792159103.82906, "query": null, "get": "BE:04_separation:0024", "lang": null, "doc": null, "k": 6}
+{"t": 1792159104.4980307, "query": null, "get": "BE:04_separation:0025", "lang": null, "doc": null, "k": 6}
+{"t": 1792159105.0971723, "query": null, "get": "BE:04_separation:0026", "lang": null, "doc": null, "k": 6}
+{"t": 1792159105.6823533, "query": null, "get": "BE:04_separation:0027", "lang": null, "doc": null, "k": 6}
+{"t": 1792159106.2055953, "query": null, "get": "BE:04_separation:0028", "lang": null, "doc": null, "k": 6}
+{"t": 1792159106.8252075, "query": null, "get": "BE:04_separation:0029", "lang": null, "doc": null, "k": 6}
+{"t": 1792159107.4159455, "query": null, "get": "BE:04_separation:0030", "lang": null, "doc": null, "k": 6}
+{"t": 1792159107.928593, "query": null, "get": "BE:04_separation:0031", "lang": null, "doc": null, "k": 6}
+{"t": 1792159108.3816822, "query": null, "get": "BE:04_separation:0032", "lang": null, "doc": null, "k": 6}
+{"t": 1792159108.9191499, "query": null, "get": "BE:04_separation:0033", "lang": null, "doc": null, "k": 6}
+{"t": 1792159109.53213, "query": null, "get": "BE:04_separation:0034", "lang": null, "doc": null, "k": 6}
+{"t": 1792159109.9789093, "query": null, "get": "BE:04_separation:0035", "lang": null, "doc": null, "k": 6}
+{"t": 1792159110.5216806, "query": null, "get": "BE:04_separation:0036", "lang": null, "doc": null, "k": 6}
+{"t": 1792159111.0726986, "query": null, "get": "BE:04_separation:0037", "lang": null, "doc": null, "k": 6}
+{"t": 1792159111.593208, "query": null, "get": "BE:04_separation:0038", "lang": null, "doc": null, "k": 6}
+{"t": 1792159112.0966856, "query": null, "get": "BE:04_separation:0039", "lang": null, "doc": null, "k": 6}
+{"t": 1792159112.6172721, "query": null, "get": "BE:04_separation:0040", "lang": null, "doc": null, "k": 6}
+{"t": 1792159113.2190714, "query": null, "get": "BE:04_separation:0041", "lang": null, "doc": null, "k": 6}
+{"t": 1792159113.8097236, "query": null, "get": "BE:04_separation:0042", "lang": null, "doc": null, "k": 6}
+{"t": 1792159114.4542491, "query": null, "get": "BE:04_separation:0043", "lang": null, "doc": null, "k": 6}
+{"t": 1792159115.0663142, "query": null, "get": "BE:04_separation:0044", "lang": null, "doc": null, "k": 6}
+{"t": 1792159115.8419607, "query": null, "get": "BE:04_separation:0045", "lang": null, "doc": null, "k": 6}
+{"t": 1792159116.98129, "query": null, "get": "BE:04_separation:0046", "lang": null, "doc": null, "k": 6}
+{"t": 1792159117.5610943, "query": null, "get": "BE:04_separation:0047", "lang": null, "doc": null, "k": 6}
+{"t": 1792159118.0362833, "query": null, "get": "BE:04_separation:0048", "lang": null, "doc": null, "k": 6}
+{"t": 1792159118.4987192, "query": null, "get": "BE:04_separation:0049", "lang": null, "doc": null, "k": 6}
+{"t": 1792159118.9572678, "query": null, "get": "BE:04_separation:0050", "lang": null, "doc": null, "k": 6}
+{"t": 1792159119.4138424, "query": null, "get": "BE:04_separation:0051", "lang": null, "doc": null, "k": 6}
+{"t": 1792159119.8697445, "query": null, "get": "BE:04_separation:0052", "lang": null, "doc": null, "k": 6}
+{"t": 1792159120.327973, "query": null, "get": "BE:04_separation:0053", "lang": null, "doc": null, "k": 6}
+{"t": 1792159120.7906199, "query": null, "get": "BE:04_separation:0054", "lang": null, "doc": null, "k": 6}
+{"t": 1792159121.3082228, "query": null, "get": "BE:04_separation:0055", "lang": null, "doc": null, "k": 6}
+{"t": 1792159122.0788631, "query": null, "get": "BE:04_separation:0056", "lang": null, "doc": null, "k": 6}
+{"t": 1792159122.8936164, "query": null, "get": "BE:04_separation:0057", "lang": null, "doc": null, "k": 6}
+{"t": 1792159123.6564271, "query": null, "get": "BE:04_separation:0058", "lang": null, "doc": null, "k": 6}
+{"t": 1792159124.2118566, "query": null, "get": "BE:04_separation:0059", "lang": null, "doc": null, "k": 6}
+{"t": 1792159124.77106, "query": null, "get": "BE:04_separation:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1792159125.3387372, "query": null, "get": "BE:04_separation:0061", "lang": null, "doc": null, "k": 6}
+{"t": 1792159125.989052, "query": null, "get": "BE:04_separation:0062", "lang": null, "doc": null, "k": 6}
+{"t": 1792159126.640957, "query": null, "get": "BE:04_separation:0063", "lang": null, "doc": null, "k": 6}
+{"t": 1792159127.284808, "query": null, "get": "BE:04_separation:0064", "lang": null, "doc": null, "k": 6}
+{"t": 1792159127.7339275, "query": null, "get": "BE:04_separation:0065", "lang": null, "doc": null, "k": 6}
+{"t": 1792159128.1812444, "query": null, "get": "BE:04_separation:0066", "lang": null, "doc": null, "k": 6}
+{"t": 1792159128.7488928, "query": null, "get": "BE:04_separation:0067", "lang": null, "doc": null, "k": 6}
+{"t": 1792159129.2601206, "query": null, "get": "BE:04_separation:0068", "lang": null, "doc": null, "k": 6}
+{"t": 1792159129.839474, "query": null, "get": "BE:04_separation:0069", "lang": null, "doc": null, "k": 6}
+{"t": 1792159130.9083507, "query": null, "get": "BE:04_separation:0070", "lang": null, "doc": null, "k": 6}
+{"t": 1792159131.930352, "query": null, "get": "BE:04_separation:0071", "lang": null, "doc": null, "k": 6}
+{"t": 1792159132.7141078, "query": null, "get": "BE:04_separation:0072", "lang": null, "doc": null, "k": 6}
+{"t": 1792159133.407168, "query": null, "get": "BE:04_separation:0073", "lang": null, "doc": null, "k": 6}
+{"t": 1792159138.3297203, "query": "ESOP ఎక్సర్‌సైజ్ విండో సాధారణ నిష్క్రమణ పదవీ విరమణ మరణం", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 3}
+{"t": 1792159138.8719835, "query": "గ్రూప్ మెడికల్ ఇన్సూరెన్స్ కన్వర్షన్ కవరేజ్ ముగుస్తుంది", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 3}
+{"t": 1792159144.9071627, "query": null, "get": "TE:07_final_settlement_exit:0036", "lang": null, "doc": null, "k": 6}
+{"t": 1792159145.5822387, "query": null, "get": "TE:07_final_settlement_exit:0043", "lang": null, "doc": null, "k": 6}
+{"t": 1792159146.100977, "query": "రుణ రికవరీ వాయిదా ప్రణాళిక గరిష్ట వ్యవధి తుది చెల్లింపు మించిన", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792159146.5684252, "query": "తిరిగి ఇవ్వని కంపెనీ సొత్తు రికవరీ మొత్తం గణన ఆధారం", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792159151.3861513, "query": "F&F వివాదం ప్రాథమిక పేరోల్ సమీక్ష పని దినాలు సెటిల్‌మెంట్ రివ్యూ కమిటీ", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792159151.8985682, "query": "సర్వీసులో మరణం గ్రాట్యుటీ నామినీలకు చెల్లింపు", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792159152.5226765, "query": "సేల్స్ ఇన్సెంటివ్ క్లాబాక్ విండో", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792159153.1348073, "query": "రికార్డుల నిలుపుదల 8 సంవత్సరాలు", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792159159.0032673, "query": "পদত্যাগপত্র গ্রহণের সিদ্ধান্ত প্রাপ্তিস্বীকারের তারিখ থেকে কার্যদিবসের মধ্যে প্রস্থান শাখা", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159159.5372853, "query": "নোটিশ পিরিয়ড ম্যানেজার বিভাগীয় প্রধান দিন", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159163.2139716, "query": null, "get": "BE:04_separation:0027", "lang": null, "doc": null, "k": 6}
+{"t": 1792159163.79883, "query": null, "get": "BE:04_separation:0035", "lang": null, "doc": null, "k": 6}
+{"t": 1792159164.2998676, "query": "প্রস্থান সাক্ষাৎকার ন্যূনতম মিনিট", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159168.0877967, "query": null, "get": "BE:04_separation:0038", "lang": null, "doc": null, "k": 6}
+{"t": 1792159168.5874767, "query": null, "get": "BE:04_separation:0039", "lang": null, "doc": null, "k": 6}
+{"t": 1792159169.0772114, "query": "ছায়াকাল ঊর্ধ্বতন ব্যবস্থাপক কার্যদিবস দায়িত্ব হস্তান্তর", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159174.2981193, "query": "সম্পদ নির্ধারিত ব্যবহারকাল শতাংশ অতিক্রম দায় নির্ধারিত হবে না", "get": null, "lang": null, "doc": "04_separation", "k": 1}
+{"t": 1792159174.918865, "query": "ছাড়পত্র বিবাদ নিষ্পত্তি সুপারিশ কার্যদিবস", "get": null, "lang": null, "doc": "04_separation", "k": 1}
+{"t": 1792159175.530618, "query": "চূড়ান্ত নিষ্পত্তি সমগ্র অর্থ শেষ কর্মদিবসের পরবর্তী দিনের মধ্যে ব্যাঙ্ক হিসাবে বিবাদরহিত অংশ", "get": null, "lang": null, "doc": "04_separation", "k": 1}
+{"t": 1792159175.9910293, "query": "সেবা সনদ কার্যদিবসের মধ্যে প্রদান", "get": null, "lang": null, "doc": "04_separation", "k": 1}
+{"t": 1792159179.530251, "query": null, "get": "BE:04_separation:0068", "lang": null, "doc": null, "k": 6}
+{"t": 1792159180.0723913, "query": null, "get": "BE:04_separation:0070", "lang": null, "doc": null, "k": 6}
+{"t": 1792159183.8603354, "query": "পুনরায় যোগদান ন্যূনতম ব্যবধান দিন পুনর্নিয়োগ অগ্রাধিকার পদসংকোচন মাস", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159184.3693821, "query": "গ্রাহক যোগাযোগ নিষেধ মাস", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159188.3681474, "query": null, "get": "BE:04_separation:0082", "lang": null, "doc": null, "k": 6}
+{"t": 1792159188.9721525, "query": null, "get": "BE:04_separation:0098", "lang": null, "doc": null, "k": 6}
+{"t": 1792159189.5793765, "query": null, "get": "BE:04_separation:0099", "lang": null, "doc": null, "k": 6}
+{"t": 1792159194.5720499, "query": "গ্রাহক সংযোগ নিষেধ প্রস্থানের পর মাস ১৬.৩", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159195.0931182, "query": "মৃত্যু আসন কর্মস্থান অপরিবর্তিত ঋণ পুনরুদ্ধার স্থগিত", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159195.6031399, "query": "আপিল প্রস্থানের তারিখ থেকে দিনের মধ্যে", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159196.10638, "query": "প্রস্থান নথি সংরক্ষণ বছর", "get": null, "lang": null, "doc": "04_separation", "k": 2}
+{"t": 1792159199.2912986, "query": null, "get": "BE:04_separation:0104", "lang": null, "doc": null, "k": 6}
+{"t": 1792159214.418619, "query": "बाह्य-नगर यात्रा मुख्यालय से न्यूनतम दूरी किलोमीटर", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159214.9985206, "query": "नगर-श्रेणी सूची वित्त नियंत्रक प्रतिवर्ष पुनः समीक्षा तिथि", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159221.5026023, "query": "यात्रा अग्रिम अनुमानित व्यय प्रतिशत घरेलू अधिकतम विदेश यात्रा अग्रिम वेतन खाते कार्यदिवस", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159222.0711434, "query": "अव्ययित विदेशी मुद्रा लेखा विभाग लौटाना", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159222.712179, "query": "दावा प्रस्तुत करने की समय-सीमा बाह्य-नगर यात्रा से लौटने कार्यदिवस", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159226.9339266, "query": "अग्रिम अनुमोदन के पश्चात कार्यदिवसों के भीतर वेतन खाते में", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159227.4733562, "query": "दल-भोजन प्रति व्यक्ति सीमा", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159228.1135063, "query": "धुलाई-सेवा लगातार रात्रि", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159232.5234058, "query": "धुलाई सेवा व्यय रात्रियों से अधिक प्रवास", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159233.1223066, "query": "विदेश-श्रेणी एक आवास सीमा प्रति रात्रि ग-१ ग-३", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159233.7765872, "query": "निष्पादन संकेतक औसत अवधि दावा प्रस्तुत भुगतान लक्ष्य समय-सीमा के भीतर प्रस्तुत दावों का अनुपात", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159238.3547192, "query": "व्यय प्रबंधन प्रणाली दावे रसीदें अनुमोदन टिप्पणियाँ भुगतान विवरण सुरक्षित वर्ष", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159239.0696537, "query": "तात्कालिक पर्यवेक्षक अनुमोदनकर्ता रुपये तक के दावे", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159239.6529007, "query": "संशोधन कर्मचारियों को प्रभावी होने से पूर्व कैलेंडर दिवस सूचना", "get": null, "lang": null, "doc": "03_travel_expense", "k": 2}
+{"t": 1792159246.1641479, "query": "G3-G4 విమాన ప్రయాణ అర్హత కిలోమీటర్లు రైలు ప్రయాణ సమయం గంటలు", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159246.6921222, "query": "గ్లోబల్ ట్రావెలర్ ప్రొటెక్షన్ పాలసీ పునరుద్ధరణ తేదీ వైద్య అత్యవసర కవరేజ్", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159251.9742572, "query": null, "get": "TE:04_travel_policy:0030", "lang": null, "doc": null, "k": 6}
+{"t": 1792159252.5331023, "query": "వీసా దరఖాస్తు ప్రక్రియ బయలుదేరే తేదీకి కనీసం పనిదినాల ముందు ఫారెక్స్ కార్డ్ లోడ్", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159253.1372492, "query": "eSIM డేటా ప్యాక్ ప్రతి ట్రిప్ గరిష్ట పరిమితి", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159257.2796814, "query": null, "get": "TE:04_travel_policy:0025", "lang": null, "doc": null, "k": 6}
+{"t": 1792159258.303795, "query": null, "get": "TE:04_travel_policy:0026", "lang": null, "doc": null, "k": 6}
+{"t": 1792159259.0090997, "query": null, "get": "TE:04_travel_policy:0027", "lang": null, "doc": null, "k": 6}
+{"t": 1792159263.9438791, "query": "మొదటి శ్రేణి రెండవ శ్రేణి ట్రిప్ ఆమోదం అంచనా వ్యయం రిపోర్టింగ్ మేనేజర్ విభాగాధిపతి", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792159264.6332192, "query": "ట్రిప్ ఆమోదం చెల్లుబాటు క్యాలెండర్ రోజులు", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792159269.8156984, "query": "సమూహ ప్రయాణం గ్రూప్ ట్రావెల్ కనీసం ఉద్యోగులు పరిమాణ రాయితీ శాతం", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159270.3493166, "query": "హైదరాబాద్ గోవా సేల్స్ కిక్-ఆఫ్ 60 మంది", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159270.971855, "query": "ఆమోదం జారీ అయిన తేదీ నుండి రోజులు చెల్లుబాటు గడువు ముగిసిన తర్వాత కొత్త అభ్యర్థన", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159276.058873, "query": null, "get": "TE:04_travel_policy:0039", "lang": null, "doc": null, "k": 6}
+{"t": 1792159276.6338334, "query": "KPI అధికారిక ట్రావెల్ ఛానల్ బుకింగ్ రేటు అంతర్జాతీయ వీసా ప్రాసెసింగ్ సగటు సమయం లక్ష్యం", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159277.3904922, "query": "వీసా దరఖాస్తు పత్రాలు బీమా క్లెయిమ్ రికార్డులు నిలుపుదల సంవత్సరాలు", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792159282.487423, "query": "ఆమోదం చెల్లుబాటు క్యాలెండర్ రోజులు ఆమోదం గడువు", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792159282.9863958, "query": "ట్రిప్ ఆమోదం గరిష్టంగా రోజులు చెల్లుబాటు అవుతుంది తిరిగి ఆమోదం", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792159286.0638666, "query": null, "get": "TE:04_travel_policy:0011", "lang": null, "doc": null, "k": 6}

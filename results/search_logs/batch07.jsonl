@@ -1,0 +1,187 @@
+{"t": 1791702635.9895976, "query": "प्रसूती रजा कार्यकाळ पदोन्नती पात्रता", "get": null, "lang": "Marathi", "doc": null, "k": 4}
+{"t": 1791702641.4684768, "query": null, "get": "MA:01_promotion:0040", "lang": null, "doc": null, "k": 6}
+{"t": 1791702641.9002485, "query": null, "get": "MA:01_promotion:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1791702642.3493845, "query": null, "get": "MA:01_promotion:0080", "lang": null, "doc": null, "k": 6}
+{"t": 1791702642.7742765, "query": null, "get": "MA:01_promotion:0100", "lang": null, "doc": null, "k": 6}
+{"t": 1791702643.1803515, "query": null, "get": "MA:02_transfer:0040", "lang": null, "doc": null, "k": 6}
+{"t": 1791702643.6106892, "query": null, "get": "MA:02_transfer:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1791702644.1432097, "query": null, "get": "MA:02_transfer:0080", "lang": null, "doc": null, "k": 6}
+{"t": 1791702644.659726, "query": null, "get": "MA:02_transfer:0100", "lang": null, "doc": null, "k": 6}
+{"t": 1791702645.1445851, "query": null, "get": "MA:03_sick_maternity_leave:0040", "lang": null, "doc": null, "k": 6}
+{"t": 1791702645.8069265, "query": null, "get": "MA:03_sick_maternity_leave:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1791702646.2706656, "query": null, "get": "MA:03_sick_maternity_leave:0080", "lang": null, "doc": null, "k": 6}
+{"t": 1791702646.742407, "query": null, "get": "MA:03_sick_maternity_leave:0100", "lang": null, "doc": null, "k": 6}
+{"t": 1791702647.2095542, "query": null, "get": "MA:04_overtime_shift:0040", "lang": null, "doc": null, "k": 6}
+{"t": 1791702647.7120676, "query": null, "get": "MA:04_overtime_shift:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1791702648.1831913, "query": null, "get": "MA:04_overtime_shift:0080", "lang": null, "doc": null, "k": 6}
+{"t": 1791702648.6485875, "query": null, "get": "MA:04_overtime_shift:0100", "lang": null, "doc": null, "k": 6}
+{"t": 1791702649.1330583, "query": null, "get": "MA:05_grievance_redressal:0040", "lang": null, "doc": null, "k": 6}
+{"t": 1791702649.8047228, "query": null, "get": "MA:05_grievance_redressal:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1791702650.2879803, "query": null, "get": "MA:05_grievance_redressal:0080", "lang": null, "doc": null, "k": 6}
+{"t": 1791702650.7817974, "query": null, "get": "MA:05_grievance_redressal:0100", "lang": null, "doc": null, "k": 6}
+{"t": 1791702651.282105, "query": null, "get": "MA:06_contract_outsourced_workers:0040", "lang": null, "doc": null, "k": 6}
+{"t": 1791702651.727007, "query": null, "get": "MA:06_contract_outsourced_workers:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1791702652.1557293, "query": null, "get": "MA:06_contract_outsourced_workers:0080", "lang": null, "doc": null, "k": 6}
+{"t": 1791702652.6270764, "query": null, "get": "MA:06_contract_outsourced_workers:0100", "lang": null, "doc": null, "k": 6}
+{"t": 1791702657.8317993, "query": "पहिल्या दोन अपत्यांसाठी प्रसूती रजा आठवडे पूर्ण वेतन", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791702658.3260438, "query": "विस्तारित आजारपण रजा वार्षिक कमाल दिवस", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791702658.8670075, "query": "परिवीक्षा कालावधीत रजा परिवीक्षा वाढवली", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702663.4758894, "query": "५.१ विस्तारित आजारपण रजा शिल्लक संपल्यानंतर नव्वद दिवस", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791702663.9310212, "query": "वरिष्ठ श्रेणी पदोन्नती मागील १२ महिने उपस्थिती टक्के वैद्यकीय रजा वगळून", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702669.051209, "query": "अंतर्गत बदली नवीन विभाग नामनिर्देशनापूर्वी किमान सलग सेवा महिने", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702669.674335, "query": "प्रसूती रजेवरून परतल्यानंतर घरून काम लवचिक वेळापत्रक मागण्याचा अधिकार", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791702675.1825402, "query": "वेतन-निर्धारण त्रुटी अपील दिवसांच्या आत", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702675.766812, "query": "नामंजूर रजा अर्ज पुनरावलोकन दिवसांच्या आत", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791702676.219368, "query": "पगारपावती तफावत प्रश्न उपस्थित दिवसांच्या आत", "get": null, "lang": "Marathi", "doc": null, "k": 4}
+{"t": 1791702681.7774372, "query": "वेतन-निर्धारणातील त्रुटी कर्मचारी अपील कार्यरत दिवस मानव संसाधन", "get": null, "lang": null, "doc": "01_promotion", "k": 4}
+{"t": 1791702682.2089968, "query": "বেতন স্লিপে অসঙ্গতি প্রশ্ন উত্থাপন দিনের মধ্যে", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 4}
+{"t": 1791702687.4903748, "query": "বেতন বিবরণী অসঙ্গতি অভিযোগ দাখিলের সময়সীমা দিনের মধ্যে", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 4}
+{"t": 1791702687.919524, "query": "पगारपावती वेतन चिठ्ठी तफावत दिवसांत कळवावे", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702693.7278194, "query": "पगारपावती वेतन तफावत प्रश्न उपस्थित करण्याची मुदत दिवस", "get": null, "lang": "Marathi", "doc": null, "k": 6}
+{"t": 1791702694.1878734, "query": "বেতন বিবরণী প্রাপ্তির পর অভিযোগ দাখিল দিনের মধ্যে সময়সীমা", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 4}
+{"t": 1791702698.4747221, "query": "वेतन पगार तक्रार कालमर्यादा दिवसांच्या आत उपस्थित", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 5}
+{"t": 1791702698.948535, "query": null, "get": "BE:02_compensation_payroll:0090", "lang": null, "doc": null, "k": 6}
+{"t": 1791702705.7759485, "query": "ਤਨਖਾਹ ਸਲਿੱਪ ਅੰਤਰ ਸਵਾਲ ਉਠਾਉਣ ਦਿਨਾਂ ਦੇ ਅੰਦਰ", "get": null, "lang": "Punjabi", "doc": null, "k": 4}
+{"t": 1791702706.3008337, "query": "पे-स्लिप वेतन विवरण तफावत आढळल्यास दिवसांच्या आत", "get": null, "lang": null, "doc": null, "k": 6}
+{"t": 1791702706.8128176, "query": "বেতন বিবরণী ত্রুটি পশ্চাৎমুখী সীমা মাস", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 3}
+{"t": 1791702710.7418144, "query": null, "get": "MA:04_overtime_shift:0058", "lang": null, "doc": null, "k": 6}
+{"t": 1791702711.1888437, "query": null, "get": "MA:04_overtime_shift:0084", "lang": null, "doc": null, "k": 6}
+{"t": 1791702716.423428, "query": "पगारपावती", "get": null, "lang": "Marathi", "doc": null, "k": 6}
+{"t": 1791702716.8832717, "query": "salary slip pay slip discrepancy", "get": null, "lang": "Marathi", "doc": null, "k": 6}
+{"t": 1791702717.3488338, "query": "वेतनपत्रक तफावत ३० दिवसांच्या आत कळवावे", "get": null, "lang": "Marathi", "doc": null, "k": 6}
+{"t": 1791702717.7807386, "query": "वेतन-निर्धारण त्रुटी अपील", "get": null, "lang": "Marathi", "doc": null, "k": 6}
+{"t": 1791702722.901898, "query": null, "get": "MA:01_promotion:0103", "lang": null, "doc": null, "k": 6}
+{"t": 1791702723.3686786, "query": "ਤਨਖਾਹ ਪਰਚੀ ਗਲਤੀ ਇਤਰਾਜ਼ ਦਿਨ", "get": null, "lang": null, "doc": null, "k": 4}
+{"t": 1791702727.5222833, "query": null, "get": "PU:02_salary_revision_increments:0062", "lang": null, "doc": null, "k": 6}
+{"t": 1791702732.9016552, "query": "पगार पावती तफावत", "get": null, "lang": null, "doc": null, "k": 8}
+{"t": 1791702733.3914351, "query": "वेतन पावती चूक प्रश्न विचारण्याची मुदत", "get": null, "lang": null, "doc": null, "k": 8}
+{"t": 1791702733.8039975, "query": "मासिक वेतन विवरणात चूक आढळल्यास कर्मचाऱ्याने दिवसांच्या आत", "get": null, "lang": null, "doc": null, "k": 8}
+{"t": 1791702737.271046, "query": null, "get": "MA:04_overtime_shift:0082", "lang": null, "doc": null, "k": 6}
+{"t": 1791702737.7147067, "query": null, "get": "MA:04_overtime_shift:0079", "lang": null, "doc": null, "k": 6}
+{"t": 1791702738.1705384, "query": null, "get": "MA:05_grievance_redressal:0065", "lang": null, "doc": null, "k": 6}
+{"t": 1791702738.6640236, "query": null, "get": "MA:01_promotion:0054", "lang": null, "doc": null, "k": 6}
+{"t": 1791702742.5495975, "query": "५३ वेतन पावती तफावत तीस दिवसांच्या आत वेतन व लाभ विभाग", "get": null, "lang": null, "doc": "04_overtime_shift", "k": 3}
+{"t": 1791702748.4676042, "query": "प्रसूती रजा कामगिरी मूल्यांकन संरक्षण प्रमाणानुसार प्रतिकूल", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791702748.9301271, "query": "सामान्य ताशी दर सूत्र मूळ वेतन महागाई भत्ता भागिले तास", "get": null, "lang": null, "doc": "04_overtime_shift", "k": 3}
+{"t": 1791702749.4169364, "query": "श्रेणी ३ वेतन-पट्टा किमान कमाल", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702756.331885, "query": "वेतन-निर्धारण सूत्र पायरी १ ८ टक्के पायरी २ जवळच्या १०० च्या पटीत पूर्णांकन ५० रुपये", "get": null, "lang": null, "doc": "01_promotion", "k": 4}
+{"t": 1791702762.9387383, "query": "निर्देशिकेचे नियतकालिक पुनरावलोकन दर वर्षांनी", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702763.4000585, "query": "पाळी फेरबदल वारंवारता दर आठवड्यांनी फिरती पाळी", "get": null, "lang": null, "doc": "04_overtime_shift", "k": 3}
+{"t": 1791702763.856398, "query": "वाढ-व्यवस्था पातळी-१ पातळी-२ दिवस", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702764.269545, "query": "जादा वेळ तक्रार पर्यवेक्षक HR व्यवसाय भागीदार दिवस वाढ", "get": null, "lang": null, "doc": "04_overtime_shift", "k": 3}
+{"t": 1791702773.4009757, "query": null, "get": "MA:01_promotion:0051", "lang": null, "doc": null, "k": 6}
+{"t": 1791702773.8866615, "query": "तक्रार समिती रचना सदस्य संख्या अध्यक्ष", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791702780.8498716, "query": "एकंदर निराकरण लक्ष्य कार्यदिवस तक्रार दाखल झाल्यापासून अंतिम", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791702781.251898, "query": "अभिलेख जतन वर्षे अंतिम अपील प्रकरणे औपचारिक तक्रार", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791702781.6478825, "query": "पदोन्नती अपील प्रक्रियेनंतर तक्रार निवारण कक्षेबाहेर", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791702790.7597642, "query": "टप्पा २ औपचारिक लेखी तक्रार पोचपावती तपास १५ कार्यदिवस निर्णय एकूण", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791702791.2303503, "query": "४५ कार्यदिवस एकंदर निराकरण लक्ष्य", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 2}
+{"t": 1791702798.2888763, "query": "बदली अपील तक्रार निवारण समिती सदस्य समसमान मते निर्णय दिवसांत अंतिम निर्णय", "get": null, "lang": null, "doc": "02_transfer", "k": 3}
+{"t": 1791702798.8057547, "query": "टप्पा ४ अंतिम अपील निर्णय कार्यदिवसांच्या आत वरिष्ठ प्राधिकारी", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 2}
+{"t": 1791702804.223528, "query": "मोठी प्रशासकीय पुनर्रचना एकाच वेळी कर्मचाऱ्यांवर परिणाम बदली पुनरावलोकन समिती स्थापन", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791702804.7101874, "query": "सामूहिक तक्रार कर्मचाऱ्यांवर परिणाम थेट तक्रार समितीकडे टप्पा ३ वर्ग", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 2}
+{"t": 1791702810.5974321, "query": "सामूहिक तक्रार किमान कर्मचारी मानव संसाधन प्रमुख थेट समितीकडे", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 4}
+{"t": 1791702814.1604426, "query": null, "get": "MA:05_grievance_redressal:0044", "lang": null, "doc": null, "k": 6}
+{"t": 1791702819.9330287, "query": "किमान कार्यकाळ-श्रेणीत श्रेणी १ ते २ वर्षे श्रेणीनिहाय सरासरी गुणांक किमान", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791702825.9699082, "query": "सामावून घेणे निकष मूल्यांकन गुण पाच-बिंदू किमान वेतन पदोन्नती निर्देशिका", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 2}
+{"t": 1791702826.452368, "query": "रूपांतरण कंत्राटी सेवा स्थायी ज्येष्ठता श्रेय टक्के", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 2}
+{"t": 1791702827.0115414, "query": "निश्चित-मुदतीचे कंत्राट कमाल कार्यकाळ महिने", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 2}
+{"t": 1791702827.465295, "query": "एका स्थळावर तैनाती कमाल महिने बाह्यस्रोत", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 2}
+{"t": 1791702827.945538, "query": "एजन्सी काळी यादी संयुक्त निर्णय पुन्हा मान्यताप्राप्ती वर्षे", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 2}
+{"t": 1791702835.8393354, "query": "बाह्यस्रोत कामगाराला सामावून घेणे निकष किमान गुण वेतन निश्चित पदोन्नती निर्देशिका तत्त्वे", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1791702836.3392928, "query": "श्रेणी ७ व ८ पदोन्नती अंतिम मंजुरी मानव संसाधन प्रमुख मुख्य कार्यकारी अधिकारी", "get": null, "lang": null, "doc": "01_promotion", "k": 2}
+{"t": 1791702839.9782784, "query": null, "get": "MA:06_contract_outsourced_workers:0045", "lang": null, "doc": null, "k": 6}
+{"t": 1791702846.10771, "query": "दुर्गम प्रकल्प-स्थळ गर्भवती मुख्य कार्यालयाजवळ तात्पुरती बदली प्रसूती तारखेच्या आधी", "get": null, "lang": null, "doc": null, "k": 4}
+{"t": 1791702853.9173539, "query": "४.५ पुढे ढकलणे वैद्यकीय कारण कमाल ९० दिवस", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791702854.3977125, "query": "परस्पर बदली किमान कार्यकाळ महिने", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719590.919251, "query": "कार्यकाळ-श्रेणीत प्रसूती रजा गणना", "get": null, "lang": "Marathi", "doc": null, "k": 6}
+{"t": 1791719597.1193352, "query": "पहिल्या दोन अपत्यांसाठी प्रसूती रजा २६ आठवडे", "get": null, "lang": "Marathi", "doc": null, "k": 5}
+{"t": 1791719597.659541, "query": "विस्तारित आजारपण रजा वार्षिक कमाल दिवस", "get": null, "lang": "Marathi", "doc": null, "k": 5}
+{"t": 1791719598.199602, "query": "परिविक्षा कालावधी रजा मुदतवाढ पदोन्नती", "get": null, "lang": "Marathi", "doc": null, "k": 5}
+{"t": 1791719604.2903183, "query": null, "get": "MA:01_promotion:0003", "lang": null, "doc": null, "k": 6}
+{"t": 1791719604.8420255, "query": "परिवीक्षा कालावधीत दीर्घ रजा घेतल्यास परिवीक्षा कालावधी वाढवला जातो", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 5}
+{"t": 1791719605.4992063, "query": "विस्तारित आजारपण रजा नव्वद दिवस शिल्लक संपल्यानंतर", "get": null, "lang": "Marathi", "doc": "03_sick_maternity_leave", "k": 4}
+{"t": 1791719609.9051802, "query": null, "get": "MA:01_promotion:0037", "lang": null, "doc": null, "k": 6}
+{"t": 1791719615.1474285, "query": "मागील १२ महिन्यांतील उपस्थिती टक्के वरिष्ठ श्रेणी पदोन्नती वैद्यकीय रजा वगळून", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 5}
+{"t": 1791719615.7219708, "query": "अंतर्गत बदली नवीन विभाग नामनिर्देशनापूर्वी किमान सलग सेवा", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 4}
+{"t": 1791719616.322215, "query": "प्रसूती रजेवरून परतल्यानंतर घरून काम लवचिक वेळापत्रक", "get": null, "lang": "Marathi", "doc": "03_sick_maternity_leave", "k": 4}
+{"t": 1791719626.5595086, "query": "वेतन-निर्धारण त्रुटी अपील दिवसांच्या आत", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 3}
+{"t": 1791719627.2113824, "query": "रजा अर्ज नामंजूर पुनरावलोकन दिवसांच्या आत", "get": null, "lang": "Marathi", "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791719627.8038597, "query": "जलद-मार्ग पदोन्नती दोन सलग चक्र गुणांक किमान", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 3}
+{"t": 1791719628.3706355, "query": "प्रसूती रजा कामगिरी मूल्यांकन संरक्षण वेतनवाढ पदोन्नती", "get": null, "lang": "Marathi", "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791719634.059688, "query": "वेतन-निर्धारणाविरुद्ध अपील पदोन्नती अपील मुदत कार्यरत दिवस", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 4}
+{"t": 1791719634.812095, "query": "प्रसूती रजेच्या कालावधीमुळे वार्षिक कामगिरी मूल्यांकन प्रतिकूल परिणाम नाही", "get": null, "lang": "Marathi", "doc": "03_sick_maternity_leave", "k": 4}
+{"t": 1791719643.0089772, "query": "श्रेणी ३ वेतन-पट्टा किमान कमाल रुपये", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 4}
+{"t": 1791719643.7115288, "query": "वेतन-निर्धारण सूत्र पायरी ८ टक्के पूर्णांकन जवळच्या १०० किमान-मर्यादा ५००", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 3}
+{"t": 1791719644.384452, "query": "सामान्य ताशी दर सूत्र मूळ वेतन महागाई भत्ता भागिले तास", "get": null, "lang": "Marathi", "doc": "04_overtime_shift", "k": 3}
+{"t": 1791719651.4041643, "query": "निर्देशिकेचे नियतकालिक पुनरावलोकन दर वर्षांनी", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 3}
+{"t": 1791719652.0382922, "query": "पाळी फेरबदल वारंवारता दर आठवड्यांनी फिरती पाळी", "get": null, "lang": "Marathi", "doc": "04_overtime_shift", "k": 3}
+{"t": 1791719652.645235, "query": "वाढ-व्यवस्था पातळी-१ पातळी-२ दिवस", "get": null, "lang": "Marathi", "doc": "01_promotion", "k": 3}
+{"t": 1791719653.2341847, "query": "जादा वेळ तक्रार पर्यवेक्षक HR व्यवसाय भागीदार दिवसांत", "get": null, "lang": "Marathi", "doc": "04_overtime_shift", "k": 3}
+{"t": 1791719666.2425895, "query": "तक्रार समिती सदस्य संख्या रचना", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719666.895038, "query": "समितीकडे अपील दाखल करण्याची मुदत दिवसांच्या आत", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719667.5268564, "query": "एकंदर निराकरण लक्ष्य दिवस औपचारिक तक्रार", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719668.1225297, "query": "अभिलेख जतन वर्षे अंतिम अपील प्रकरणे", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719676.3181477, "query": "संपूर्ण तक्रार निवारण प्रक्रिया एकूण कार्यदिवसांत पूर्ण लक्ष्य", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719676.9606073, "query": "सामूहिक तक्रार कर्मचाऱ्यांवर परिणाम थेट टप्पा ३", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 2}
+{"t": 1791719677.6079001, "query": "सदस्य अनुपस्थित पर्यायी सदस्य नेमणूक दिवसांत", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 2}
+{"t": 1791719678.3230293, "query": "पदोन्नती निर्णय तक्रार निवारण प्रक्रियेच्या कक्षेबाहेर वगळलेले विषय", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719687.7758133, "query": "४५ कार्यदिवस सर्वसाधारण लक्ष्य तक्रार दाखल ते अंतिम निराकरण", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719688.33455, "query": "टप्पा २ तपास पूर्ण निर्णय लेखी कळवेल कार्यदिवस एकूण", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 2}
+{"t": 1791719688.9521449, "query": "स्वतंत्र निर्देशिकेत अपील प्रक्रिया असलेल्या बाबी पदोन्नती शिस्तभंग या प्रक्रियेत येत नाहीत", "get": null, "lang": "Marathi", "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719693.0844417, "query": null, "get": "MA:05_grievance_redressal:0003", "lang": null, "doc": null, "k": 6}
+{"t": 1791719693.650605, "query": "पदोन्नती प्रक्रिया नामनिर्देशनापासून निर्णयापर्यंत जास्तीत जास्त कार्यरत दिवस", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791719700.2196937, "query": "पगारपावती तफावत प्रश्न उपस्थित दिवसांच्या आत", "get": null, "lang": "Marathi", "doc": null, "k": 4}
+{"t": 1791719700.9114327, "query": "পে-স্লিপ অসঙ্গতি দিনের মধ্যে জানাতে হবে", "get": null, "lang": "Bengali", "doc": null, "k": 3}
+{"t": 1791719707.1282475, "query": "বেতন স্লিপে ভুল বা অসঙ্গতি প্রশ্ন তোলার সময়সীমা দিন", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 3}
+{"t": 1791719707.8099122, "query": "वेतन तफावत पगार चिठ्ठी तक्रार दिवस", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 3}
+{"t": 1791719708.3903055, "query": "ਤਨਖਾਹ ਪਰਚੀ ਗਲਤੀ ਦਿਨਾਂ ਦੇ ਅੰਦਰ", "get": null, "lang": null, "doc": "02_salary_revision_increments", "k": 2}
+{"t": 1791719714.124877, "query": null, "get": "BE:02_compensation_payroll:0091", "lang": null, "doc": null, "k": 6}
+{"t": 1791719714.675643, "query": "বেতন বিবরণী পাওয়ার পর কত দিনের মধ্যে অভিযোগ দাখিল করতে হবে", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 3}
+{"t": 1791719720.1714253, "query": "पे-स्लिप वेतन चिठ्ठी चूक आढळल्यास दिवसांच्या आत कळवावे", "get": null, "lang": "Marathi", "doc": null, "k": 4}
+{"t": 1791719720.7071671, "query": "পশ্চাৎমুখী সংশোধন সীমা মাস বেতন ভুল", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 2}
+{"t": 1791719725.8428867, "query": "वेतन पर्ची में विसंगति दिनों के भीतर प्रश्न उठाएं", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1791719726.4158075, "query": "ਤਨਖਾਹ ਸਲਿੱਪ ਵਿੱਚ ਅੰਤਰ ਸਵਾਲ ਉਠਾਉਣ ਦੀ ਮਿਆਦ ਦਿਨ", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1791719727.0472276, "query": "payslip discrepancy query within days", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1791719734.8015115, "query": "बाह्यस्रोत कामगार स्थायी पदावर सामावून घेणे किमान मूल्यांकन गुण पाच-बिंदू", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1791719735.389129, "query": "पूर्णांकन जवळच्या १०० रुपयांच्या पटीत ५० उंबरठा", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791719736.0018706, "query": "नियमित पदोन्नतीसाठी किमान सरासरी गुणांक मागील दोन चक्र", "get": null, "lang": null, "doc": "01_promotion", "k": 2}
+{"t": 1791719740.42626, "query": "कलम १० सामावून घेणे पात्रता सरासरी गुण किमान ३", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1791719741.083366, "query": "गुणांक-मर्यादा किमान सरासरी ३.५ पाच-बिंदू पदोन्नती पात्रता कार्यकाळ श्रेणीनिहाय", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791719747.7866433, "query": null, "get": "MA:01_promotion:0012", "lang": null, "doc": null, "k": 6}
+{"t": 1791719748.452018, "query": "सामावून घेण्यासाठी किमान सरासरी मूल्यांकन गुण तैनाती महिने", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1791719749.1182659, "query": "रूपांतरण स्थायी पद कंत्राटी सेवा ज्येष्ठता श्रेय टक्के", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1791719749.7165809, "query": "निश्चित-मुदतीच्या कराराची कमाल संचयी कार्यकाळ महिने", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 2}
+{"t": 1791719756.3242495, "query": null, "get": "MA:06_contract_outsourced_workers:0043", "lang": null, "doc": null, "k": 6}
+{"t": 1791719756.9229379, "query": null, "get": "MA:06_contract_outsourced_workers:0044", "lang": null, "doc": null, "k": 6}
+{"t": 1791719757.4699042, "query": null, "get": "MA:06_contract_outsourced_workers:0039", "lang": null, "doc": null, "k": 6}
+{"t": 1791719762.7397747, "query": "त्रैमासिक मूल्यांकन सरासरी गुण पाच पैकी किमान साडेतीन सामावून", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 4}
+{"t": 1791719763.3312907, "query": "समाधानकारक अभिप्राय म्हणजे गुण पाच-बिंदू मापनपट्टी", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1791719769.9465864, "query": "श्रेणी ७ व ८ पदोन्नती अंतिम मंजुरी मंजुरी-अधिकारी", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1791719770.6428413, "query": "एजन्सी काळ्या यादीत टाकणे संयुक्त निर्णय पुन्हा मान्यता अर्ज वर्षे", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1791719774.7731843, "query": null, "get": "MA:06_contract_outsourced_workers:0019", "lang": null, "doc": null, "k": 6}
+{"t": 1791719775.3882852, "query": "काळ्या यादीत टाकण्याचा निर्णय VMC आणि मनुष्यबळ प्रमुख संयुक्तपणे", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1791719845.9787302, "query": "दुर्गम प्रकल्प-स्थळ गर्भवती कर्मचारी मुख्य कार्यालयाजवळ तात्पुरती बदली प्रसूती तारखेच्या आधी", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791719846.4792333, "query": "प्रतिकूल बदली बदली निर्देशिका कलम संदर्भ", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791719847.0491915, "query": "बदली आदेशाविरुद्ध अपील कामकाजाच्या दिवसांत सादर", "get": null, "lang": null, "doc": "02_transfer", "k": 3}
+{"t": 1791719854.5772579, "query": "नोटीस कालावधी कार्यालयांतर्गत आंतरशहरीय आंतरराज्यीय कामकाजाचे दिवस", "get": null, "lang": null, "doc": "02_transfer", "k": 3}
+{"t": 1791719855.1538246, "query": "आपत्कालीन बदली नोटीस कालावधी कमी करता येतो", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719855.834151, "query": "रुजू कालावधी आंतरशहरीय आंतरराज्यीय दिनदर्शिका दिवस", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719864.4890382, "query": "आपत्कालीन जादा वेळ पूर्वपरवानगीशिवाय पूर्वलक्षी मान्यता तासांच्या आत", "get": null, "lang": null, "doc": "04_overtime_shift", "k": 2}
+{"t": 1791719865.1124525, "query": "अवलंबित भत्ता प्रति अवलंबित कमाल स्थलांतर भत्ता", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719865.7438042, "query": "एकल पालक बालसंगोपन भत्ता बदली", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719866.3190484, "query": "पाळणाघर सुविधा किमान महिला कर्मचारी संख्या कार्यालय", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 2}
+{"t": 1791719873.0519545, "query": "राजीनामा नोटीस कालावधीच्या अंतिम दिवसांत बदली विनंती स्वीकारली जात नाही", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719873.5866916, "query": "वैद्यकीय कारणास्तव बदली पुढे ढकलणे जास्तीत जास्त महिने", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719874.140469, "query": "परस्पर बदली किमान कार्यकाळ महिने पात्रता", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719874.791992, "query": "वैध बदली आदेश न पाळल्यास शिस्तभंग समितीकडे दिवसांनंतर", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719882.662, "query": "प्रसूती रजेदरम्यान राजीनामा उर्वरित प्रसूती रजा लाभ", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1791719883.3537157, "query": "दत्तक रजा किमान सेवा कालावधी महिने पितृत्व रजा सहा महिने", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 2}
+{"t": 1791719884.0645235, "query": "जादा वेळ सातत्याने नाकारल्यास अनौपचारिक चर्चा नकार वेळा", "get": null, "lang": null, "doc": "04_overtime_shift", "k": 2}
+{"t": 1791719890.1549282, "query": "कर्मचाऱ्याने स्वेच्छेने राजीनामा दिल्यास प्रसूती रजा सेवासमाप्तीच्या तारखेपर्यंत", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 4}
+{"t": 1791719895.1395345, "query": "बडी मेंटॉर नवीन ठिकाणी दिवसांसाठी", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719895.7428281, "query": "समसमान मते अध्यक्ष निर्णायक मत तक्रार निवारण समिती बदली", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719896.2592595, "query": "प्रशासकीय पुनर्रचना एकाच वेळी कर्मचाऱ्यांवर परिणाम बदली पुनरावलोकन समिती स्थापन", "get": null, "lang": null, "doc": "02_transfer", "k": 2}
+{"t": 1791719901.5459254, "query": "buddy mentor नव्या ठिकाणी स्थिरावण्यासाठी सहकारी नेमला जातो ६० दिवस", "get": null, "lang": null, "doc": "02_transfer", "k": 3}
+{"t": 1791719902.1319747, "query": "नव्या कार्यालयात रुजू झाल्यानंतर एकात्मता सहाय्य स्थानिक परिचय", "get": null, "lang": null, "doc": "02_transfer", "k": 3}
+{"t": 1791719905.575034, "query": null, "get": "MA:02_transfer:0073", "lang": null, "doc": null, "k": 6}

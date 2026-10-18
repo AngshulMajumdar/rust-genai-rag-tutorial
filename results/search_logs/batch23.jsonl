@@ -1,0 +1,104 @@
+{"t": 1792141147.394066, "query": "IO ಪ್ರಮಾಣೀಕರಣ ತರಬೇತಿ ಗಂಟೆಗಳ ಮಾಡ್ಯೂಲ್", "get": null, "lang": "Kannada", "doc": null, "k": 5}
+{"t": 1792141151.2756135, "query": "IO ಪ್ರಮಾಣೀಕರಣ ಪೂರ್ವ-ಅಗತ್ಯ", "get": null, "lang": null, "doc": "01_disciplinary_inquiry", "k": 4}
+{"t": 1792158986.3080764, "query": "IO ಪ್ರಮಾಣೀಕರಣ ತರಬೇತಿ ಗಂಟೆ ಮಾಡ್ಯೂಲ್ ಪೂರ್ವ-ಅಗತ್ಯ", "get": null, "lang": null, "doc": "01_disciplinary_inquiry", "k": 4}
+{"t": 1792158991.7684922, "query": "ಪ್ರಮಾಣೀಕರಣಕ್ಕೆ ಪೂರ್ವ-ಅಗತ್ಯ ವೀಕ್ಷಕ ಪ್ರಮಾಣೀಕರಣ ಪೂರ್ಣಗೊಳ್ಳದ ಅಧಿಕಾರಿ IO ಆಗಲು ಸಾಧ್ಯವಿಲ್ಲ", "get": null, "lang": null, "doc": "01_disciplinary_inquiry", "k": 5}
+{"t": 1792158998.3474402, "query": "ಪ್ರತಿ ಪಕ್ಷಕ್ಕೆ ಗರಿಷ್ಠ ಮುಂದೂಡಿಕೆಗಳು ಪ್ರತಿ ಮುಂದೂಡಿಕೆ ಗರಿಷ್ಠ ದಿನಗಳು", "get": null, "lang": null, "doc": "01_disciplinary_inquiry", "k": 3}
+{"t": 1792158998.9094682, "query": "ಅನುಬಂಧ-ಎಚ್ ಗೋದಾಮು ವ್ಯವಸ್ಥಾಪಕ ದಾಖಲೆ ಪರಿಶೀಲನೆ ವಿವಾದ ಮೊದಲ ಸಭೆ ಮುಂದೂಡಲಾಯಿತು", "get": null, "lang": null, "doc": "01_disciplinary_inquiry", "k": 3}
+{"t": 1792159002.484852, "query": null, "get": "KA:01_disciplinary_inquiry:0051", "lang": null, "doc": null, "k": 6}
+{"t": 1792159008.5980248, "query": "ROI ಲೆಕ್ಕಾಚಾರ ಕಡ್ಡಾಯ ಕನಿಷ್ಠ ಕಾರ್ಯಕ್ರಮ ವೆಚ್ಚ ಮಿತಿ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 3}
+{"t": 1792159009.204619, "query": "ಹಿರಿಯ ಮಾರಾಟ ಮಾತುಕತೆ ಕಾರ್ಯಕ್ರಮ ವೆಚ್ಚ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 3}
+{"t": 1792159009.6980405, "query": "KPI 4 ತರಬೇತಿ ROI ಮಿತಿ-ಸಾಧನೆ ದರ ಗುರಿ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 3}
+{"t": 1792159010.1969676, "query": "ಸಂವೇದನಾ ವಿಶ್ಲೇಷಣೆ ಲಾಭ ಅಂದಾಜು ಶೇಕಡಾ ಕಡಿಮೆ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 3}
+{"t": 1792159016.7540572, "query": "ROI ಲೆಕ್ಕಾಚಾರ ಕಡ್ಡಾಯ ಕನಿಷ್ಠ ಕಾರ್ಯಕ್ರಮ ವೆಚ್ಚ ಮಿತಿ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159017.6528387, "query": "ಹಿರಿಯ ಮಾರಾಟ ಮಾತುಕತೆ ಕಾರ್ಯಕ್ರಮ ವೆಚ್ಚ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159018.5029993, "query": "ಸಂವೇದನಾ ವಿಶ್ಲೇಷಣೆ ಲಾಭ ಅಂದಾಜು ಶೇಕಡಾ ಕಡಿಮೆ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159023.1854815, "query": null, "get": "KA:02_training_evaluation:0026", "lang": null, "doc": null, "k": 6}
+{"t": 1792159030.4970431, "query": "ಪ್ರಮಾಣಪತ್ರ ಅವಧಿ ಮುಗಿಯುವ ಮೊದಲು ಸ್ವಯಂಚಾಲಿತ ಸೂಚನೆ ದಿನ ಮುಂಚಿತ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159031.2137334, "query": "ಪ್ರಮಾಣಪತ್ರ ಆಕ್ಷೇಪಣೆ ಫಲಿತಾಂಶ ಪ್ರಕಟಣೆ ದಿನ ಒಳಗೆ ಅರ್ಜಿ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159032.013762, "query": "ಆಂತರಿಕ ತರಬೇತುದಾರ ಸತತ ತ್ರೈಮಾಸಿಕ ಸ್ಕೋರ್‌ಕಾರ್ಡ್ ಅಂಕ ಕಡಿಮೆ ಮೊದಲ ಹಂತದ ಸಲಹಾ ಸಂಭಾಷಣೆ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159032.894283, "query": "ಮೌಲ್ಯಮಾಪನ ಕ್ಯಾಲಿಬ್ರೇಶನ್ ಸಮಿತಿ ಅಧಿವೇಶನ ಅರ್ಧ-ವಾರ್ಷಿಕ ತಿಂಗಳು", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159041.438181, "query": "ಕೌಶಲ್ಯ-ಅಂತರ ಮುಚ್ಚುವಿಕೆ ಮರು-ಅಂಕನ ದಿನದ ನಂತರ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159042.471362, "query": "ಅನುಸರಣಾ ಮೌಲ್ಯಮಾಪನ ಪರಿಶೀಲನಾ ಬಿಂದುಗಳು 30 60 90 ದಿನ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159043.6153753, "query": "ವ್ಯಕ್ತಿಗತ ಮಟ್ಟದ ತರಬೇತಿ ದತ್ತಾಂಶ ಧಾರಣೆ ವರ್ಷ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159044.7229354, "query": "ROI ಲೆಕ್ಕಾಚಾರ ಹಾಳೆ ಮೌ-೪ ನಮೂನೆ ಧಾರಣೆ", "get": null, "lang": null, "doc": "02_training_evaluation", "k": 4}
+{"t": 1792159051.0624292, "query": "ನವೀಕರಣ ಮೌಲ್ಯಮಾಪನ ಗುತ್ತಿಗೆ ಮುಗಿಯುವ ದಿನ ಮೊದಲು ಆರಂಭ ಅಂತಿಮ ನಿರ್ಧಾರ ತಿಳಿಸಬೇಕು", "get": null, "lang": null, "doc": "03_contract_renewal", "k": 4}
+{"t": 1792159052.023978, "query": "ಎಚ್‌ಆರ್‌ಬಿಪಿ ಅಂತಿಮ ಶಿಫಾರಸು ಕಳುಹಿಸಬೇಕು ದಿನ ಮೊದಲು", "get": null, "lang": null, "doc": "03_contract_renewal", "k": 4}
+{"t": 1792159058.4757276, "query": null, "get": "KA:03_contract_renewal:0115", "lang": null, "doc": null, "k": 6}
+{"t": 1792159059.5144403, "query": "ಗರಿಷ್ಠ ನವೀಕರಣಗಳು ಒಟ್ಟು ಗುತ್ತಿಗೆ ಅವಧಿಗಳು ಖಾಯಂ ಪರಿವರ್ತನೆ ಸಂಚಿತ ಸೇವೆ ತಿಂಗಳು ಪೂರ್ಣಗೊಂಡ ಅವಧಿಗಳು", "get": null, "lang": null, "doc": "03_contract_renewal", "k": 4}
+{"t": 1792159067.1172411, "query": "ವೃತ್ತಿ ಪರಿವರ್ತನಾ ಬೆಂಬಲ ಕನಿಷ್ಠ ಮಾಸಗಳ ಸೇವೆ", "get": null, "lang": null, "doc": "03_contract_renewal", "k": 4}
+{"t": 1792159068.0155978, "query": "ಸಿಆರ್‌ಆರ್‌ಸಿ ತ್ರೈಮಾಸಿಕ ಅನುಪಾಲನಾ ಆಡಿಟ್ ಮಾದರಿ ಗಾತ್ರ ಅಪಾಯ", "get": null, "lang": null, "doc": "03_contract_renewal", "k": 4}
+{"t": 1792159068.8390043, "query": "ಗುತ್ತಿಗೆ ನವೀಕರಣ ಇತಿಹಾಸ ದಾಖಲೆ ನಿರ್ಗಮನದ ನಂತರ 8 ವರ್ಷ ಸಂಗ್ರಹ", "get": null, "lang": null, "doc": "03_contract_renewal", "k": 4}
+{"t": 1792159073.2325053, "query": null, "get": "KA:03_contract_renewal:0091", "lang": null, "doc": null, "k": 6}
+{"t": 1792159074.1516945, "query": null, "get": "KA:03_contract_renewal:0067", "lang": null, "doc": null, "k": 6}
+{"t": 1792159078.32121, "query": null, "get": "KA:03_contract_renewal:0068", "lang": null, "doc": null, "k": 6}
+{"t": 1792159084.6299832, "query": "ಗ್ರೇಡ್-ಬ್ಯಾಂಡ್ ಕೋಷ್ಟಕ ಬ್ಯಾಂಡ್ 4 ಗುರಿ ಬೋನಸ್ ಶೇಕಡಾ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 4}
+{"t": 1792159085.2133741, "query": "ರೋಹಿತ್ ವ್ಯವಸ್ಥಾಪಕ ಮೂಲ ವೇತನ ಕಂಪನಿ ಗುಣಕ ವೈಯಕ್ತಿಕ ಗುಣಕ ಅಂತಿಮ ಬೋನಸ್", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 4}
+{"t": 1792159091.7860084, "query": "ಉದಾಹರಣೆ 2 ಗಣನೆ ಮ್ಯಾನೇಜರ್ ಬ್ಯಾಂಡ್ 4 ಮೂಲ ವೇತನ ಗುಣಕ 1.0 ಅಂತಿಮ ಬೋನಸ್ ₹", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159092.2799351, "query": "ಮುಂದೂಡಿದ ಬೋನಸ್ ರಚನೆ ಬ್ಯಾಂಡ್ ತಕ್ಷಣ ಪಾವತಿ ಮುಂದೂಡಿಕೆ ವಿಕ್ರಮ್ ವೆಸ್ಟ್", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159097.8316262, "query": "ಬೋನಸ್ ಅರ್ಹತೆ ಕನಿಷ್ಠ ದಿನಗಳ ಸೇವೆ ಜನವರಿ 1 ಸೇರಿದ ಉದ್ಯೋಗಿ ಅನುಪಾತ ಅಂಶ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 4}
+{"t": 1792159098.4661162, "query": "ಬಜೆಟ್‌ಗೆ ಹೋಲಿಸಿದ ಕಂಪನಿ ಸಾಧನೆ ಮಿತಿಗಿಂತ ಕೆಳಗೆ ಬೋನಸ್ ಶೂನ್ಯ ಖಾತ್ರಿ ಕನಿಷ್ಠ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 4}
+{"t": 1792159102.8792872, "query": null, "get": "KA:04_performance_bonus:0067", "lang": null, "doc": null, "k": 6}
+{"t": 1792159108.9383225, "query": "ಯೋಜನೆ ಜಾರಿಗೆ ಬಂದಾಗಿನಿಂದ ಶೂನ್ಯ ಗುಣಕ ವರ್ಷ ಎಷ್ಟು ಬಾರಿ ಸಂಭವಿಸಿದೆ ಇತಿಹಾಸ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159109.4309685, "query": "ಐತಿಹಾಸಿಕ ಕಂಪನಿ ಗುಣಕ 100% ಕ್ಕಿಂತ ಕಡಿಮೆ ಶೂನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ವರ್ಷಗಳು", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159115.5854816, "query": "ಬೋನಸ್ ಪ್ರಕಟಣೆ ಪ್ರಶ್ನೆ ಟಿಕೆಟ್ ಸಲ್ಲಿಸಲು ಕಾರ್ಯ ದಿನಗಳ ಗಡುವು ಎಚ್‌ಆರ್ ಪರಿಹಾರ ತಂಡ ಪ್ರತಿಕ್ರಿಯೆ ಎಚ್‌ಆರ್ ಮುಖ್ಯಸ್ಥ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159116.4946647, "query": "ಬೋನಸ್ ಲೆಕ್ಕಾಚಾರ ಆಡಿಟ್ ದಾಖಲೆ ಧಾರಣೆ ವರ್ಷ ಅಲುಮ್ನಿ ಮಾಜಿ ಉದ್ಯೋಗಿ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159121.7087042, "query": null, "get": "KA:04_performance_bonus:0072", "lang": null, "doc": null, "k": 6}
+{"t": 1792159122.5674436, "query": "ಅಲುಮ್ನಿ ಮಾಜಿ ಉದ್ಯೋಗಿಗಳ ಬೋನಸ್ ದಾಖಲೆ ಧಾರಣೆ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159129.7970414, "query": null, "get": "KA:04_performance_bonus:0072", "lang": null, "doc": null, "k": 6}
+{"t": 1792159130.5848505, "query": "ಆಲುಮ್ನಿ ನಿರ್ಗಮಿಸಿದ ಉದ್ಯೋಗಿ ಬೋನಸ್ ದಾಖಲೆಗಳು ಎಷ್ಟು ವರ್ಷ ಸಂರಕ್ಷಣೆ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159131.3691359, "query": "alumni bonus records retention years", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 5}
+{"t": 1792159139.7254024, "query": "ಹ್ಯೂಮನ್ ರಿಸೋರ್ಸ್ ಮುಖ್ಯಸ್ಥರು ಎಸ್ಕಲೇಷನ್ ನಿರ್ಣಯ ಕಾರ್ಯ ದಿನಗಳ ಒಳಗೆ ಒಟ್ಟು ಗರಿಷ್ಠ ಪ್ರತಿಕ್ರಿಯೆ ಸಮಯ", "get": null, "lang": null, "doc": "04_performance_bonus", "k": 6}
+{"t": 1792159140.3296986, "query": null, "get": "KA:04_performance_bonus:0110", "lang": null, "doc": null, "k": 6}
+{"t": 1792159144.830375, "query": null, "get": "KA:04_performance_bonus:0073", "lang": null, "doc": null, "k": 6}
+{"t": 1792159249.3480217, "query": "পূর্বতন কর্মজীবন যাচাই প্রক্রিয়া সম্পন্ন সময়সীমা কার্যদিবস", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159249.9091702, "query": "నేపథ్య ధృవీకరణ సాధారణ కాలపరిమితి పనిదినాలు", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159250.582626, "query": "నేపథ్య ధృవీకరణ వృత్తిపరమైన రిఫరెన్స్‌లు నాయకత్వ పాత్రలు రిఫరెన్స్ తనిఖీలు", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159251.155125, "query": "তথ্যসূত্র যাচাই ন্যূনতম তথ্যসূত্রদাতা ব্যবস্থাপক ও তদূর্ধ্ব", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159256.8222377, "query": null, "get": "BE:01_recruitment:0063", "lang": null, "doc": null, "k": 6}
+{"t": 1792159257.7705579, "query": "దశ 4 గ్రూప్ వ్యాయామం అభ్యర్థుల బృందం సెక్షన్ 6.1", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159262.4804516, "query": null, "get": "BE:01_recruitment:0063", "lang": null, "doc": null, "k": 6}
+{"t": 1792159263.0021994, "query": "কর্মসংস্থান যাচাই সম্পূর্ণ করতে কার্যদিবস বরাদ্দ সময়", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 4}
+{"t": 1792159270.401685, "query": "সাক্ষাৎকার শুরুর আগে ন্যূনতম যোগ্য প্রার্থী চিহ্নিত", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159270.97361, "query": "షార్ట్‌లిస్ట్ పరిమాణం లక్ష్య పరిధి అభ్యర్థులు", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159271.543841, "query": "నో-షో ఆఫర్ ఉపసంహరణ రోజులు సెక్షన్ 9.6", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159272.092959, "query": "নিয়োগ সংস্থা বিনামূল্যে প্রতিস্থাপন দিন", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159276.7593894, "query": null, "get": "TE:03_recruitment_advertising_selection:0050", "lang": null, "doc": null, "k": 6}
+{"t": 1792159277.6102474, "query": "বহিঃস্থ নিয়োগ সংস্থা প্রার্থী যোগদানের পর চলে গেলে বিনা খরচে প্রতিস্থাপন", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 4}
+{"t": 1792159283.6524706, "query": null, "get": "BE:01_recruitment:0013", "lang": null, "doc": null, "k": 6}
+{"t": 1792159284.1697073, "query": "ఎంపిక కాని అభ్యర్థి డేటా నిలుపుదల గరిష్ట వ్యవధి నెలలు", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159284.686718, "query": "సెక్షన్ 4.2 అంతర్గత దరఖాస్తుదారు అర్హత ప్రస్తుత పాత్రలో కనీస పని వ్యవధి", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159285.2827919, "query": "అంతర్గత-ముందు విధానం తప్పనిసరి వ్యవధి పనిదినాలు", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159291.3559427, "query": "অভ্যন্তরীণ প্রার্থী যোগ্যতা বর্তমান পদে ন্যূনতম মাস", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159291.8530366, "query": "অভ্যন্তরীণ শূন্যপদ ঘোষণা কর্মী পোর্টালে কার্যদিবস খোলা", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159292.3901026, "query": "ప్రకటన టెంప్లేట్ లైబ్రరీ తాజాకరణ సెక్షన్ 44", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159292.9746313, "query": "পুরনো পদ-বিবরণ পুনর্ব্যবহার সর্বোচ্চ বয়স", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159299.8861148, "query": "একই সাক্ষাৎকার প্রশ্নগুচ্ছ একটানা সর্বোচ্চ মাস ব্যবহার", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159300.4616632, "query": "ఎంప్లాయర్ బ్రాండింగ్ ఆడిట్ ఫ్రీక్వెన్సీ", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159301.064509, "query": "దశ 1 ఆప్టిట్యూడ్ టెస్ట్ కనీస అర్హత స్కోరు శాతం", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159301.554969, "query": "নির্বাচনের সীমা ভারাঙ্কযুক্ত গড় ন্যূনতম নম্বর", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159307.3500988, "query": null, "get": "TE:03_recruitment_advertising_selection:0006", "lang": null, "doc": null, "k": 6}
+{"t": 1792159307.9986515, "query": null, "get": "TE:03_recruitment_advertising_selection:0024", "lang": null, "doc": null, "k": 6}
+{"t": 1792159308.59242, "query": "బ్రాండింగ్ ఆడిట్ ప్రతి నెలలకు ఒకసారి సమీక్ష", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 4}
+{"t": 1792159311.8892615, "query": null, "get": "TE:03_recruitment_advertising_selection:0006", "lang": null, "doc": null, "k": 6}
+{"t": 1792159317.8383934, "query": "প্রথম সাক্ষাৎকার থেকে চূড়ান্ত নির্বাচনী সিদ্ধান্ত সর্বোচ্চ কার্যদিবস", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159318.41485, "query": "సగటు నియామక కాలం గ్రేడ్ 1–3 లక్ష్యం KPI", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159319.0456603, "query": "ఉద్యోగ ప్రకటన డిఫాల్ట్ క్యాలెండర్ రోజులు పోస్ట్ సెక్షన్ 3.3", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159319.547383, "query": "শূন্যপদ অনুমোদন বৈধতা দিন ৪.৪", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159327.838607, "query": "ఉద్యోగ ప్రకటన ఆమోదం హైరింగ్ మేనేజర్ స్పందన గడువు పనిదినాలు", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159328.3884513, "query": "సెక్షన్ 11.1 ప్రారంభ స్క్రీనింగ్ ఫలితం పనిదినాల్లో తెలియజేయాలి", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159328.8602214, "query": "প্রাথমিক বাছাই সম্পন্ন সময় আবেদন সময়সীমা শেষ", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159334.9193025, "query": null, "get": "TE:03_recruitment_advertising_selection:0007", "lang": null, "doc": null, "k": 6}
+{"t": 1792159335.5864367, "query": null, "get": "TE:03_recruitment_advertising_selection:0059", "lang": null, "doc": null, "k": 6}
+{"t": 1792159336.3094378, "query": "প্রাথমিক বাছাইয়ে অনুত্তীর্ণ প্রার্থীকে সিদ্ধান্তের দিনের মধ্যে জানানো", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159336.8230054, "query": "తిరస్కరణ అభిప్రాయం అందించే గడువు", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159342.9279454, "query": null, "get": "TE:03_recruitment_advertising_selection:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1792159343.45307, "query": "సెక్షన్ 5.6 తుది దశలో తిరస్కరణ పునఃదరఖాస్తు కూలింగ్ పీరియడ్", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159344.0738535, "query": "পুনরায় আবেদন প্রত্যাখ্যাত প্রার্থী অপেক্ষার সময় গুরুতর অসঙ্গতি প্রার্থিতা বাতিল বছর", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159351.5155644, "query": null, "get": "TE:03_recruitment_advertising_selection:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1792159352.0914912, "query": "ఆన్‌లైన్ ప్రొక్టరింగ్ ఉల్లంఘన నిషేధ వ్యవధి", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159352.6891012, "query": "సెక్షన్ 17.1 మూల్యాంకనకర్తల రీ-సర్టిఫికేషన్", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792159353.287031, "query": "প্যানেল প্রশিক্ষণ নির্বাচন প্যানেল সদস্য প্রশিক্ষণ বৈধতা", "get": null, "lang": "Bengali", "doc": "01_recruitment", "k": 3}
+{"t": 1792159358.767585, "query": null, "get": "TE:03_recruitment_advertising_selection:0083", "lang": null, "doc": null, "k": 6}
+{"t": 1792159359.3662405, "query": null, "get": "TE:03_recruitment_advertising_selection:0083", "lang": null, "doc": null, "k": 6}
+{"t": 1792159359.906395, "query": "ప్రొక్టరింగ్ ఉల్లంఘన అభ్యర్థి నెలల పాటు నిషేధం మోసం ఆన్‌లైన్ పరీక్ష", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 4}
+{"t": 1792159363.5275722, "query": null, "get": "TE:03_recruitment_advertising_selection:0030", "lang": null, "doc": null, "k": 6}

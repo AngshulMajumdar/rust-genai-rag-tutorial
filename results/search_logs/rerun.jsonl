@@ -1,0 +1,67 @@
+{"t": 1792196419.6803155, "query": "নিট বেতন কর্মীর হিসাবে জমা সর্বশেষ তারিখ", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 4}
+{"t": 1792196420.2713013, "query": "চূড়ান্ত নিষ্পত্তি অর্থ পরিশোধ সময়সীমা প্রস্থানের তারিখ থেকে", "get": null, "lang": null, "doc": "04_separation", "k": 5}
+{"t": 1792196420.8570678, "query": "প্রস্থানের মাসের বেতন চূড়ান্ত নিষ্পত্তি", "get": null, "lang": null, "doc": null, "k": 5}
+{"t": 1792196428.173276, "query": "প্রস্থানের পর আপিল দাখিল দিনের মধ্যে", "get": null, "lang": null, "doc": "04_separation", "k": 4}
+{"t": 1792196428.744571, "query": "পরিবর্তনশীল পারিশ্রমিক ত্রৈমাসিক পরিশোধ পে-রোল মাস", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 4}
+{"t": 1792196433.345553, "query": "পরিবর্তনশীল পারিশ্রমিক পরিশোধের সময় ত্রৈমাসিক শেষ হওয়ার পরবর্তী মাসের বেতনে প্রস্থানকারী", "get": null, "lang": null, "doc": "02_compensation_payroll", "k": 4}
+{"t": 1792196439.1840777, "query": "अवकाश अभिलेख वर्षों तक संरक्षित रखे जाते हैं", "get": null, "lang": null, "doc": "02_leave", "k": 3}
+{"t": 1792196439.805365, "query": "अवकाश एवं उपस्थिति अभिलेख संरक्षण अवधि तालिका", "get": null, "lang": null, "doc": "06_records_privacy", "k": 3}
+{"t": 1792196444.1011822, "query": "अग्रिम अर्जित अवकाश न्यूनतम निरंतर सेवा", "get": null, "lang": null, "doc": "02_leave", "k": 3}
+{"t": 1792196444.72856, "query": "पेंशन पात्रता न्यूनतम अंशदायी सेवा वर्ष", "get": null, "lang": null, "doc": "09_retirement_pf", "k": 3}
+{"t": 1792196449.139159, "query": "समूह जीवन बीमा मुक्त आवरण सीमा", "get": null, "lang": null, "doc": "08_benefits_insurance", "k": 3}
+{"t": 1792196449.6965075, "query": "उपदान अधिकतम सीमा रुपये", "get": null, "lang": null, "doc": null, "k": 4}
+{"t": 1792196454.4100907, "query": "सेवानिवृत्ति-पूर्व आहरण निधि शेष प्रतिशत", "get": null, "lang": null, "doc": "09_retirement_pf", "k": 4}
+{"t": 1792196454.9834177, "query": "सभी अग्रिमों की समग्र अधिकतम सीमा प्रतिशत", "get": null, "lang": null, "doc": "09_retirement_pf", "k": 4}
+{"t": 1792196460.3420405, "query": "KPI ಡ್ಯಾಶ್‌ಬೋರ್ಡ್ ಶಿಸ್ತು ವಿಚಾರಣೆ ಕಾಲಮಿತಿ ಪೂರ್ಣಗೊಳಿಕೆ ದರ ಗುರಿ", "get": null, "lang": "Kannada", "doc": null, "k": 4}
+{"t": 1792196460.993538, "query": "ಪ್ರಮಾಣಪತ್ರ ನವೀಕರಣ ಅನುಪಾಲನಾ ದರ ಗುರಿ", "get": null, "lang": "Kannada", "doc": null, "k": 4}
+{"t": 1792196464.790651, "query": null, "get": "KA:01_disciplinary_inquiry:0053", "lang": null, "doc": null, "k": 6}
+{"t": 1792196469.8113835, "query": "वेतन-निर्धारण अपील मंडळ कमी वेतन फरक रक्कम मासिक हप्त्यांत कापली", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1792196470.4678233, "query": "अनामत रक्कम विनाव्याज अग्रिम मासिक हप्त्यांत वसूल", "get": null, "lang": null, "doc": "02_transfer", "k": 3}
+{"t": 1792196475.202622, "query": "कार्यकाळ-श्रेणीत व्याख्या सलग रजा दिवसांपेक्षा जास्त वगळली", "get": null, "lang": null, "doc": "01_promotion", "k": 3}
+{"t": 1792196475.823961, "query": "पहिल्या अपत्यासाठी प्रसूती रजा आठवडे", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1792196480.9625812, "query": "नवीन विभागप्रमुख पर्यवेक्षक पदभार स्वीकारल्यानंतर दिवसांत अनिवार्य प्रशिक्षण", "get": null, "lang": null, "doc": "03_sick_maternity_leave", "k": 3}
+{"t": 1792196481.5590305, "query": "औपचारिक तक्रार लेखी निर्णय कार्यदिवस मुदतवाढ मानव संसाधन प्रमुख", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 4}
+{"t": 1792196487.054053, "query": "रूपांतरण किंवा निर्गमन निर्णय कराराच्या समाप्तीच्या दिनदर्शिका दिवस आधी", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 3}
+{"t": 1792196487.6425846, "query": "निश्चित-मुदतीच्या कंत्राटी कर्मचारी राजीनामा किमान नोटीस दिवस सुलभीकृत", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 4}
+{"t": 1792196492.2320354, "query": "रूपांतरण-किंवा-निर्गमन निर्णय करार समाप्तीपूर्वी किमान दिवस आधी घेणे", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 5}
+{"t": 1792196497.818014, "query": "कमाल संचयी कार्यकाळ तेहतीस महिने साठ दिवस आधी निर्णय", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 5}
+{"t": 1792196498.4261703, "query": "गैरवर्तन सेवासमाप्ती चौकशी प्रक्रिया दिवसांत पूर्ण कंत्राटी", "get": null, "lang": null, "doc": "06_contract_outsourced_workers", "k": 4}
+{"t": 1792196510.6331277, "query": "गैरवर्तन चौकशी प्रक्रिया दिवसांत पूर्ण शिस्तभंग", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 4}
+{"t": 1792196517.1565113, "query": "जाँच सामान्यतः दिवसों के भीतर पूर्ण जाँच अधिकारी प्रतिवेदन", "get": null, "lang": null, "doc": "05_disciplinary", "k": 4}
+{"t": 1792196517.7487292, "query": "15 दिवस चौकशी पूर्ण गैरवर्तन कंत्राटी", "get": null, "lang": "Marathi", "doc": null, "k": 4}
+{"t": 1792196524.1717463, "query": "राजीनामा नोटीस कालावधीच्या शेवटच्या दिवसांत बदली विनंती स्वीकारली जात नाही", "get": null, "lang": null, "doc": "02_transfer", "k": 3}
+{"t": 1792196530.090112, "query": "तक्रारदार स्वतःच्या तक्रार प्रकरणाची प्रत मागितल्यास कार्यदिवसांत", "get": null, "lang": null, "doc": "05_grievance_redressal", "k": 3}
+{"t": 1792196568.6819277, "query": "ହାଜିରା ଆନୁଷ୍ଠାନିକ ଅଭିଯୋଗ ହାଜିରା ସେଲ୍ ପ୍ରାରମ୍ଭିକ ଉତ୍ତର", "get": null, "lang": null, "doc": "03_attendance_time_management", "k": 3}
+{"t": 1792196569.2884312, "query": "ଡିଭାଇସ୍ ହଜିବା ଦାୟିତ୍ୱ ନିଷ୍ପତ୍ତି ଆପିଲ", "get": null, "lang": null, "doc": "04_mobile_communication_allowance", "k": 3}
+{"t": 1792196572.938324, "query": null, "get": "OD:04_mobile_communication_allowance:0027", "lang": null, "doc": null, "k": 6}
+{"t": 1792196578.1859334, "query": "୨୦୨୬ ସର୍ବାଧିକ ସମାଲୋଚନାତ୍ମକ ପଦବୀ ମୁଖ୍ୟ ପଦବୀ", "get": null, "lang": null, "doc": "05_succession_planning", "k": 3}
+{"t": 1792196578.826713, "query": "ତିନି ସ୍ତରୀୟ ବର୍ଗୀକରଣ ଟାୟର-୧ ମୁଖ୍ୟ ପଦବୀ ମୋଟ", "get": null, "lang": null, "doc": "05_succession_planning", "k": 3}
+{"t": 1792196582.90858, "query": "ଟାୟର-୧ ଟାୟର-୨ ଟାୟର-୩ ପଦବୀ ସଂଖ୍ୟା ବର୍ଗୀକରଣ", "get": null, "lang": null, "doc": "05_succession_planning", "k": 4}
+{"t": 1792196586.5202012, "query": null, "get": "OD:05_succession_planning:0055", "lang": null, "doc": null, "k": 6}
+{"t": 1792196587.1319566, "query": null, "get": "OD:05_succession_planning:0007", "lang": null, "doc": null, "k": 6}
+{"t": 1792196592.4065154, "query": "ਵਾਧੇ ਦਾ ਪੱਤਰ ਸਵੀਕਾਰ ਕਰਨ ਦਿਨਾਂ ਦੇ ਅੰਦਰ", "get": null, "lang": null, "doc": "02_salary_revision_increments", "k": 3}
+{"t": 1792196593.0511713, "query": "ਫਿਸ਼ਿੰਗ ਈਮੇਲ ਰਿਪੋਰਟ ਘੰਟਿਆਂ ਦੇ ਅੰਦਰ", "get": null, "lang": null, "doc": "04_it_acceptable_use", "k": 3}
+{"t": 1792196598.3058753, "query": "ਅਪੀਲ ਮਿਲਣ ਤੋਂ ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਫ਼ੈਸਲਾ", "get": null, "lang": null, "doc": "02_salary_revision_increments", "k": 3}
+{"t": 1792196598.960772, "query": "ਅਪੀਲ ਸਮੀਖਿਆ ਕਾਰਜਕਾਰੀ ਦਿਨਾਂ ਵਿੱਚ ਪੂਰੀ", "get": null, "lang": null, "doc": "05_whistleblower_policy", "k": 3}
+{"t": 1792196602.7794912, "query": null, "get": "PU:02_salary_revision_increments:0027", "lang": null, "doc": null, "k": 6}
+{"t": 1792196608.2521284, "query": "JEC மதிப்பீடு மேல்முறையீடு மனித வள தலைவர் இறுதி முடிவு நாட்களுக்குள்", "get": null, "lang": null, "doc": "02_job_description_grading", "k": 3}
+{"t": 1792196608.8591437, "query": "இலக்கு ஒப்புதல் மூன்று படி மொத்த வேலைநாட்கள்", "get": null, "lang": null, "doc": "03_goal_setting", "k": 3}
+{"t": 1792196613.52836, "query": "ஊழியர் வரைவு சமர்ப்பிப்பு மேலாளர் ஒப்புதல் நாட்காட்டி நாட்கள் மூன்று படிகள் மொத்தம்", "get": null, "lang": null, "doc": "03_goal_setting", "k": 4}
+{"t": 1792196619.0022538, "query": "பணி விவர மொழிபெயர்ப்பு HRBP வழங்க வேண்டும் நாட்களுக்குள்", "get": null, "lang": null, "doc": "02_job_description_grading", "k": 3}
+{"t": 1792196619.6037037, "query": "தரவு பாதுகாப்பு அலுவலர் புகார் பதிலளிக்க நாட்களுக்குள்", "get": null, "lang": null, "doc": "10_alumni_relations", "k": 3}
+{"t": 1792196623.2802124, "query": null, "get": "TA:02_job_description_grading:0029", "lang": null, "doc": null, "k": 6}
+{"t": 1792196627.9507535, "query": "RTO ஊதிய தொடர்ச்சி பணி நாட்கள் HRMS அடிப்படை அணுகல் மணி நேரம்", "get": null, "lang": null, "doc": "09_business_continuity", "k": 4}
+{"t": 1792196633.759223, "query": "సబాటికల్ బ్యాక్‌ఫిల్ ఏర్పాటు ఖరారు రోజుల ముందు", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 3}
+{"t": 1792196634.396066, "query": "గ్రేడ్ 4 సగటు నియామక కాలం KPI లక్ష్యం రోజులు", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792196638.213046, "query": null, "get": "TE:01_long_leave_sabbatical:0032", "lang": null, "doc": null, "k": 6}
+{"t": 1792196643.3111386, "query": "PIP వర్తించడానికి కనీస సేవా కాలం నెలలు పూర్తి", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792196643.8805974, "query": "ఆఫర్ లెటర్ ప్రొబేషన్ వ్యవధి నెలలు", "get": null, "lang": "Telugu", "doc": null, "k": 3}
+{"t": 1792196648.3537686, "query": "ప్రొబేషన్ పూర్తి చేసిన ఉద్యోగులకు మాత్రమే PIP వర్తిస్తుంది కనీసం నెలల సేవ పరిధి", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 4}
+{"t": 1792196655.8761458, "query": "మధ్యంతర సమీక్ష PIP రోజున జరుగుతుంది", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792196656.4719656, "query": "PIP ప్రారంభ సమావేశం లిఖితపూర్వక నోటీసు పనిదినాల ముందస్తు", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792196662.9023132, "query": "తుది చెల్లింపు డిస్బర్స్‌మెంట్ గడువు రోజులు చివరి పని దినం", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 4}
+{"t": 1792196663.5077152, "query": "ఆలస్య వడ్డీ రేటు కంపెనీ వైపు ఆలస్యం సెక్షన్ 4.2", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 4}
+{"t": 1792196669.1029644, "query": null, "get": "BE:04_separation:0070", "lang": null, "doc": null, "k": 6}
+{"t": 1792196669.7129023, "query": "বিবাদরহিত অংশ বিতর্কিত অংশ নিষ্পত্তি দিনের মধ্যে মুক্ত", "get": null, "lang": null, "doc": "04_separation", "k": 3}
+{"t": 1792196676.5801423, "query": "সম্পদের অবস্থা মূল্যায়ন ব্যবহারকাল শতাংশ অতিক্রম দায় নির্ধারিত হয় না", "get": null, "lang": null, "doc": "04_separation", "k": 3}
+{"t": 1792196677.234391, "query": "చివరి పని దినం లోపు తిరిగి ఇవ్వని కంపెనీ సొత్తు రికవరీ డిప్రీసియేటెడ్ విలువ భర్తీ వ్యయం", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 3}

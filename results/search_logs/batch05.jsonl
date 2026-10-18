@@ -1,0 +1,90 @@
+{"t": 1791702319.6092691, "query": "पुनरीक्षा समिति निर्णय कार्यदिवस विस्तार", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 4}
+{"t": 1791702320.1436925, "query": "अपील निर्णय कार्यदिवस विस्तार", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 4}
+{"t": 1791702325.6944978, "query": "पुनरीक्षण समिति अभिलेख वर्ष तक रखे जाते", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 3}
+{"t": 1791702326.3019488, "query": "गुरु दंड अभिलेख प्रतिधारण वर्ष", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 3}
+{"t": 1791702326.7934558, "query": "मूल्यांकन अभिलेख प्रतिलिपि कार्यदिवस", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 3}
+{"t": 1791702327.2826982, "query": "अभिलेख तक पहुँच आवेदन उत्तर कार्यदिवस", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 3}
+{"t": 1791702331.680215, "query": "२१.४ संरक्षण अवधि गुरु दंड वर्ष", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 4}
+{"t": 1791702332.0869174, "query": "खंड क प्रतिधारण अवधि वर्ष", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 3}
+{"t": 1791702332.523086, "query": "अभिगम लॉग वर्ष संरक्षण", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702332.94978, "query": "पहुँच लॉग प्रतिधारण वर्ष", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 3}
+{"t": 1791702337.706006, "query": "प्रणाली लॉग पहुँच अभिलिखित वर्ष तक", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 4}
+{"t": 1791702338.1654592, "query": "प्रतिपुष्टिदाता अस्वीकार घंटे", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702338.6057918, "query": "उल्लंघन सक्षम प्राधिकरण घंटे सूचना", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 3}
+{"t": 1791702343.3820527, "query": "मूल्यांकनकर्ता अभिमुखीकरण प्रशिक्षण घंटे वर्ष दोहराया", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 3}
+{"t": 1791702343.8185036, "query": "सूचना सुरक्षा अनिवार्य प्रशिक्षण घंटे", "get": null, "lang": "Hindi", "doc": "07_training", "k": 3}
+{"t": 1791702344.2836683, "query": "प्रदाता सूची वैधता वर्ष", "get": null, "lang": "Hindi", "doc": "07_training", "k": 2}
+{"t": 1791702348.4268618, "query": "अनिवार्य कार्यक्रम सूचना सुरक्षा अवधि घंटे आवृत्ति तालिका", "get": null, "lang": "Hindi", "doc": "07_training", "k": 4}
+{"t": 1791702348.8867724, "query": "सूचना सुरक्षा प्रशिक्षण घंटे", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 2}
+{"t": 1791702353.9093053, "query": "अंशांकन समूह न्यूनतम कर्मचारी", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702354.3421068, "query": "कक्षा व्याख्यान अधिकतम प्रतिभागी", "get": null, "lang": "Hindi", "doc": "07_training", "k": 2}
+{"t": 1791702354.7557974, "query": "अधिकतम प्रतिपुष्टिदाता संख्या", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702355.2190392, "query": "प्रतीक्षा सूची अधिकतम नाम", "get": null, "lang": "Hindi", "doc": "07_training", "k": 2}
+{"t": 1791702358.5583458, "query": null, "get": "HI:07_training:0042", "lang": null, "doc": null, "k": 6}
+{"t": 1791702363.3518474, "query": "वार्षिक मूल्यांकन पात्रता न्यूनतम सेवा माह", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702363.7647119, "query": "कल्याण कोष पात्रता सेवा माह", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702364.2189643, "query": "दावा अभिलेख संरक्षण वर्ष", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702364.6558838, "query": "दावा अस्वीकृति प्रथम स्तरीय अपील दिन", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702370.037347, "query": null, "get": "HI:04_performance:0018", "lang": null, "doc": null, "k": 6}
+{"t": 1791702370.710015, "query": "दावा अभिलेख कितने वर्ष तक रखे जाएँगे अभिलेख संधारण", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 3}
+{"t": 1791702371.3349006, "query": "पुनरीक्षण आवेदन कार्यदिवस के भीतर रेटिंग संप्रेषण", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 3}
+{"t": 1791702376.5616488, "query": "अंशांकन बैठक कोरम मूल्यांकनकर्ता उपस्थित किसी भी स्थिति में न्यूनतम", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702377.1265025, "query": "भौतिक प्रतियाँ संरक्षण वर्ष", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 3}
+{"t": 1791702377.5938358, "query": "वार्षिक रिपोर्ट प्रस्तुत अंतिम तिथि", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702378.0778055, "query": "भविष्य निधि वार्षिक विवरण जारी तिथि", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 2}
+{"t": 1791702382.9729702, "query": "वार्षिक प्रतिवेदन निर्देशिका प्रणाली समीक्षा प्रस्तुत", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 3}
+{"t": 1791702383.4231849, "query": "पर्यवेक्षक बदल व्यापार-भागीदार समन्वय", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702384.0468776, "query": "न्यास मंडल कर्मचारी प्रतिनिधि कार्यकाल वर्ष", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 2}
+{"t": 1791702389.325197, "query": "चक्र के दौरान पर्यवेक्षक परिवर्तन एक से अधिक पर्यवेक्षक मानव संसाधन व्यापार-भागीदार समन्वय करेगा", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 4}
+{"t": 1791702389.97563, "query": "उच्च निष्पादन सूची विभाग प्रस्तुत कार्यदिवस", "get": null, "lang": "Hindi", "doc": "04_performance", "k": 2}
+{"t": 1791702390.6943893, "query": "पूर्व नियोक्ता भविष्य निधि अंतरण आरंभ दिन", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 2}
+{"t": 1791702396.0639262, "query": "निलंबन आदेश तामील उपकरण दस्तावेज़ लौटाने कार्यदिवस", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 2}
+{"t": 1791702396.5790129, "query": "तृतीय पक्ष प्रकटीकरण कर्मचारी को सूचना कार्यदिवस", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 3}
+{"t": 1791702397.1437466, "query": "पुलिस हिरासत घंटे मानित निलंबन", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 2}
+{"t": 1791702401.8791163, "query": "हिरासत ४८ घंटे से अधिक निरुद्ध", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 3}
+{"t": 1791702402.39556, "query": "दंड पुनरीक्षण आवेदन दिन", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 3}
+{"t": 1791702402.8879921, "query": "पुराने प्रपत्र संग्रहण डेटा सफाई दिन", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 2}
+{"t": 1791702407.9328635, "query": "सक्षम प्राधिकारी प्रशिक्षण माह दोहराया नए प्रबंधक दिन", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 3}
+{"t": 1791702408.3475437, "query": "ऐच्छिक कार्यक्रम नामांकन पात्रता उसी विषय माह के भीतर भाग न लिया", "get": null, "lang": "Hindi", "doc": "07_training", "k": 2}
+{"t": 1791702408.7936735, "query": "पदोन्नति समिति गुरु दंड वैधता समाप्त माह विचार", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 2}
+{"t": 1791702409.3189304, "query": "सेवा बंधन अधिकतम अवधि माह", "get": null, "lang": "Hindi", "doc": "07_training", "k": 2}
+{"t": 1791702414.2007577, "query": "बंधन अवधि लागत तालिका छत्तीस माह", "get": null, "lang": "Hindi", "doc": "07_training", "k": 3}
+{"t": 1791702414.700696, "query": "अनिवार्य प्रशिक्षण चूक साठ दिन विभागाध्यक्ष", "get": null, "lang": "Hindi", "doc": "07_training", "k": 2}
+{"t": 1791702419.1601887, "query": "७.३ अनुपालन न होने के परिणाम चरण विभागाध्यक्ष", "get": null, "lang": "Hindi", "doc": "07_training", "k": 3}
+{"t": 1791702419.6019785, "query": "झूठी शिकायत कार्रवाई आरंभ कार्यदिवस", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 2}
+{"t": 1791702420.0779412, "query": "संशोधन टिप्पणी अवधि कार्यदिवस", "get": null, "lang": "Hindi", "doc": "07_training", "k": 2}
+{"t": 1791702423.260374, "query": null, "get": "HI:05_disciplinary:0106", "lang": null, "doc": null, "k": 6}
+{"t": 1791702428.3390179, "query": "निर्वाह भत्ता प्रारंभिक दर प्रतिशत समीक्षा अंतराल दिन", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 3}
+{"t": 1791702428.8044662, "query": "रोबोट सहायित शल्यक्रिया आधुनिक उपचार बीमित राशि प्रतिशत", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702429.2669742, "query": "सेवानिवृत्त कर्मी स्वास्थ्य पॉलिसी प्रवेश खिड़की दिन", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702434.1934454, "query": "निलंबन समीक्षा प्रत्येक दिन स्वतः प्रत्याहृत कार्यदिवस", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 3}
+{"t": 1791702434.6651657, "query": "सेवानिवृत्त कर्मचारी स्वास्थ्य पॉलिसी सेवानिवृत्ति के दिन के भीतर विकल्प", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 3}
+{"t": 1791702435.1104252, "query": "दुर्घटना सूचना लाभ प्रशासन कक्ष दिन के भीतर", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702439.6849432, "query": "सेवानिवृत्ति के पश्चात स्वास्थ्य बीमा निरंतरता पॉलिसी प्रवेश", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 4}
+{"t": 1791702440.148001, "query": "सेवानिवृत्त कर्मी स्वास्थ्य पॉलिसी", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 4}
+{"t": 1791702444.0091827, "query": "सेवानिवृत्त कर्मचारियों के लिए स्वास्थ्य पॉलिसी अंशदान प्रवेश खिड़की ६० दिन", "get": null, "lang": "Hindi", "doc": null, "k": 5}
+{"t": 1791702448.5074918, "query": "सेवा-निवृत्ति पश्चात चिकित्सा आवरण सेवानिवृत्त कर्मी पॉलिसी", "get": null, "lang": "Hindi", "doc": null, "k": 6}
+{"t": 1791702448.9426517, "query": "सेवानिवृत्त कर्मियों के लिए समूह स्वास्थ्य पॉलिसी में प्रवेश", "get": null, "lang": "Hindi", "doc": null, "k": 6}
+{"t": 1791702449.4276469, "query": "सेवा समाप्ति पर बीमा आवरण निरंतरता व्यक्तिगत पॉलिसी रूपांतरण दिन", "get": null, "lang": "Hindi", "doc": null, "k": 6}
+{"t": 1791702452.5432146, "query": null, "get": "HI:08_benefits_insurance:0092", "lang": null, "doc": null, "k": 6}
+{"t": 1791702452.9523897, "query": null, "get": "HI:09_retirement_pf:0108", "lang": null, "doc": null, "k": 6}
+{"t": 1791702458.48055, "query": "निर्दोष दोषमुक्त बकाया वेतन भुगतान दिन", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 2}
+{"t": 1791702458.9326625, "query": "प्रतिपूर्ति दावा प्रस्तुत समय सीमा छुट्टी दिन", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702459.44889, "query": "त्यागपत्र लंबित वर्ग-ग प्रकरण अंतिम देयताएँ रोक दिन", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 2}
+{"t": 1791702459.993521, "query": "उपदान भुगतान सेवा समाप्ति दिन के भीतर", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 2}
+{"t": 1791702466.6098008, "query": "उपदान रोक अनुशासनिक कार्यवाही लंबित वैधानिक जब्ती", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 3}
+{"t": 1791702467.0707355, "query": "निलंबन अवधि निर्धारण दोषमुक्त पूर्ण वेतन अंतर भुगतान दिन के भीतर", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 3}
+{"t": 1791702473.5503092, "query": "अपील दायर समय सीमा दिन विलंब क्षमा", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 3}
+{"t": 1791702473.9588995, "query": "प्रथम स्तरीय अपील निर्णय दिन", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 2}
+{"t": 1791702474.3537242, "query": "कदाचार कार्यवाही आरंभ बाह्यतम सीमा वर्ष", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 2}
+{"t": 1791702474.7785661, "query": "उपदान अधिकतम सीमा पुनरीक्षा वर्ष", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 2}
+{"t": 1791702479.725333, "query": "वेतनवृद्धि रोक तामील वेतनवृद्धि चक्र अंतराल दिन से कम अगले चक्र", "get": null, "lang": "Hindi", "doc": "05_disciplinary", "k": 2}
+{"t": 1791702480.1821363, "query": "संशोधित समय सूची कुल विलंब मानव संसाधन प्रमुख के समक्ष", "get": null, "lang": "Hindi", "doc": "09_retirement_pf", "k": 3}
+{"t": 1791702485.0387251, "query": "निष्क्रियता सत्र स्वतः समाप्त मिनट", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 2}
+{"t": 1791702485.5903444, "query": "सत्र आरंभ मिनट बाद पहुँचने उपस्थित माना", "get": null, "lang": "Hindi", "doc": "07_training", "k": 2}
+{"t": 1791702486.291879, "query": "संचिका अभिलेख कक्ष बाहर लगातार कार्यदिवस", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 2}
+{"t": 1791702491.1581368, "query": "सहमति वापसी प्रभावी दिन", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 2}
+{"t": 1791702491.6952841, "query": "वेतन सत्यापन सहमति वैध दिन", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 2}
+{"t": 1791702492.1998572, "query": "जीवन घटना विवाह परिवर्तन आवेदन दिन", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702492.6558077, "query": "निर्दिष्ट प्रक्रियाओं प्रतीक्षा अवधि मास", "get": null, "lang": "Hindi", "doc": "08_benefits_insurance", "k": 2}
+{"t": 1791702496.8964632, "query": "वेतन सूचना सत्यापन सहमति विशिष्ट अनुरोध तक सीमित दिन तक वैध", "get": null, "lang": "Hindi", "doc": "06_records_privacy", "k": 4}

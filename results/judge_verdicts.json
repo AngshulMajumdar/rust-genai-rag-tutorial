@@ -1,0 +1,4002 @@
+{
+ "BN-001": {
+  "label": "correct",
+  "reason": "3 referees and HR head written consent (95-105 zone) match."
+ },
+ "BN-002": {
+  "label": "correct",
+  "reason": "165 days max, well under 18 months; no risk for fresh flag matches."
+ },
+ "BN-003": {
+  "label": "correct",
+  "reason": "6 days explanation, 45 days in quarter needed or ineligible; matches."
+ },
+ "BN-004": {
+  "label": "correct",
+  "reason": "14 working days; joining after 20th cut-off pushes pay to next cycle."
+ },
+ "BN-005": {
+  "label": "correct",
+  "reason": "Replacement right stays (90 days); flag lapses at 18 months, target falls to 55th."
+ },
+ "BN-006": {
+  "label": "correct",
+  "reason": "Both 18 months; JD revision and flag renewal needed together."
+ },
+ "BN-007": {
+  "label": "correct",
+  "reason": "Ratio 90 in normal 85-95 zone, no special approval, 20 working days easy."
+ },
+ "BN-008": {
+  "label": "correct",
+  "reason": "18 months; level 6 spread ±25% vs ±20%, wider."
+ },
+ "BN-009": {
+  "label": "correct",
+  "reason": "Panels of 3+ need a woman; no variable pay at level 2."
+ },
+ "BN-010": {
+  "label": "correct",
+  "reason": "3 referees; basic plus DA about ₹53,947 matches."
+ },
+ "BN-011": {
+  "label": "correct",
+  "reason": "14 working days; first 90 days office-based regardless of role."
+ },
+ "BN-012": {
+  "label": "correct",
+  "reason": "25% extra time; 78% below 80% threshold, not eligible."
+ },
+ "BN-013": {
+  "label": "correct",
+  "reason": "120 days, 18 months, independent conditions; matches."
+ },
+ "BN-014": {
+  "label": "correct",
+  "reason": "Different bases (6 months org vs 18 months role); both met at 18 months."
+ },
+ "BN-015": {
+  "label": "correct",
+  "reason": "Remote decision ends later by 1 working day (15 vs 14)."
+ },
+ "BN-016": {
+  "label": "correct",
+  "reason": "10 working days, 3 referees, unrelated processes."
+ },
+ "BN-017": {
+  "label": "correct",
+  "reason": "2 years vs 18 months; mismatch between JD and remote assessment explained."
+ },
+ "BN-018": {
+  "label": "correct",
+  "reason": "3 working days mandatory vs 3 days encouraged; matches."
+ },
+ "BN-019": {
+  "label": "correct",
+  "reason": "45 days vs 24 hours with sensible rationale."
+ },
+ "BN-020": {
+  "label": "correct",
+  "reason": "6 working days vs 1 working day; matches."
+ },
+ "BN-021": {
+  "label": "correct",
+  "reason": "5-year bar vs 12 months advance notice; matches."
+ },
+ "BN-022": {
+  "label": "correct",
+  "reason": "10 years vs 5 years; rehire flag review faster. Matches."
+ },
+ "BN-023": {
+  "label": "correct",
+  "reason": "Service bridged: ~150 days under 180 and redundancy exit."
+ },
+ "BN-024": {
+  "label": "correct",
+  "reason": "3 referees; at least 12 working days handover."
+ },
+ "BN-025": {
+  "label": "correct",
+  "reason": "Not possible, 25-day validity lapsed; garden leave (max 60) may continue."
+ },
+ "BN-026": {
+  "label": "correct",
+  "reason": "2 days notification; 3 working days absence triggers inquiry."
+ },
+ "BN-027": {
+  "label": "correct",
+  "reason": "112 vs 120 days, only 8-day gap, real risk; matches."
+ },
+ "BN-028": {
+  "label": "correct",
+  "reason": "Both 10 working days; matches."
+ },
+ "BN-029": {
+  "label": "correct",
+  "reason": "Both 90 days, unrelated; matches."
+ },
+ "BN-030": {
+  "label": "correct",
+  "reason": "8-year retention visible; outside 7-year verification scope."
+ },
+ "BN-031": {
+  "label": "correct",
+  "reason": "₹16,500 (15,000 + 1,500) matches."
+ },
+ "BN-032": {
+  "label": "correct",
+  "reason": "10 working days; 60% deducted, 40% cash."
+ },
+ "BN-033": {
+  "label": "correct",
+  "reason": "45 days; 8 days per month, prorated for partial month."
+ },
+ "BN-034": {
+  "label": "correct",
+  "reason": "Notice met (26 vs 21 days); new HRA from 1 May."
+ },
+ "BN-035": {
+  "label": "correct",
+  "reason": "No variable pay at levels 1-2; notify by 5th of next month."
+ },
+ "BN-036": {
+  "label": "correct",
+  "reason": "Declaration 30 April first, education allowance 30 June."
+ },
+ "BN-037": {
+  "label": "correct",
+  "reason": "Compensation committee approval; unrelated to remote eligibility."
+ },
+ "BN-038": {
+  "label": "correct",
+  "reason": "₹2,100 difference matches."
+ },
+ "BN-039": {
+  "label": "correct",
+  "reason": "15 April and 14 days before quarter end; matches."
+ },
+ "BN-040": {
+  "label": "correct",
+  "reason": "Normal 85-95 zone, no special approval; first 90 days office."
+ },
+ "BN-041": {
+  "label": "correct",
+  "reason": "37-day settlement comes first; variable pay handled in settlement."
+ },
+ "BN-042": {
+  "label": "correct",
+  "reason": "63 days; not eligible as not on payroll at quarter end."
+ },
+ "BN-043": {
+  "label": "correct",
+  "reason": "4.81% and 37 days match."
+ },
+ "BN-044": {
+  "label": "correct",
+  "reason": "₹15,000, 14 days, unrelated; matches."
+ },
+ "BN-045": {
+  "label": "correct",
+  "reason": "42 days minimum; not eligible (below 45 days)."
+ },
+ "BN-046": {
+  "label": "correct",
+  "reason": "2nd-of-month limit, 37 days, exit-month salary under final settlement all match."
+ },
+ "BN-047": {
+  "label": "correct",
+  "reason": "6 months; 12% of basic+DA matches."
+ },
+ "BN-048": {
+  "label": "correct",
+  "reason": "Both 15, independent and coincidental."
+ },
+ "BN-049": {
+  "label": "correct",
+  "reason": "6 working days; before 6 pm on 20th."
+ },
+ "BN-050": {
+  "label": "correct",
+  "reason": "60 days, 3 Sep 2025, August payroll, appeal not expired before month end all match."
+ },
+ "BN-051": {
+  "label": "correct",
+  "reason": "6 working days before, 5 after; two steps of one process."
+ },
+ "BN-052": {
+  "label": "correct",
+  "reason": "38.4 months (80% of 48) matches."
+ },
+ "BN-053": {
+  "label": "correct",
+  "reason": "90 days vs 60-day garden leave cap; no."
+ },
+ "BN-054": {
+  "label": "correct",
+  "reason": "45 days vs 25 days with reasonable rationale."
+ },
+ "BN-055": {
+  "label": "correct",
+  "reason": "8 working days handover, 10 office days; can coincide."
+ },
+ "BN-056": {
+  "label": "correct",
+  "reason": "5 working days vs 30 days; matches."
+ },
+ "BN-057": {
+  "label": "correct",
+  "reason": "2 working days wipe; 24 hours shredding."
+ },
+ "BN-058": {
+  "label": "correct",
+  "reason": "12 months lapsed so no; 2-year review not yet due."
+ },
+ "BN-059": {
+  "label": "correct",
+  "reason": "At least 45 days vs 2 consecutive months."
+ },
+ "BN-060": {
+  "label": "correct",
+  "reason": "12 vs 24 months; separate systems."
+ },
+ "BN-061": {
+  "label": "correct",
+  "reason": "3 more working days after reminder; 120 days validity."
+ },
+ "BN-062": {
+  "label": "correct",
+  "reason": "Gap 2 is significant, resolve first, then check average ≥3.4."
+ },
+ "BN-063": {
+  "label": "correct",
+  "reason": "22 days; no, 180-day wait."
+ },
+ "BN-064": {
+  "label": "correct",
+  "reason": "Specialist zone 110-125; compensation committee approval."
+ },
+ "BN-065": {
+  "label": "correct",
+  "reason": "₹20,000 cap, ₹2,400 contribution, floor irrelevant."
+ },
+ "BN-066": {
+  "label": "correct",
+  "reason": "80% multiplier; 45 days minimum."
+ },
+ "BN-067": {
+  "label": "correct",
+  "reason": "90 days office; then 8 working days monthly."
+ },
+ "BN-068": {
+  "label": "correct",
+  "reason": "₹36,000 maximum matches."
+ },
+ "BN-069": {
+  "label": "correct",
+  "reason": "2 gathering days, 1 meeting-free day; conflict possible, keep separate."
+ },
+ "BN-070": {
+  "label": "correct",
+  "reason": "63 days notice; 8 working days handover."
+ },
+ "BN-071": {
+  "label": "correct",
+  "reason": "97 days (60 + 37) matches."
+ },
+ "BN-072": {
+  "label": "correct",
+  "reason": "45 days; 90-day rejoin gap, double."
+ },
+ "HI-001": {
+  "label": "correct",
+  "reason": "1 day/month, cap 6, 3 days for associate; vs 12 annual."
+ },
+ "HI-002": {
+  "label": "correct",
+  "reason": "Eligible; 5 months probation remaining."
+ },
+ "HI-003": {
+  "label": "correct",
+  "reason": "Scheme at 12 months; 2 more years to encashment."
+ },
+ "HI-004": {
+  "label": "correct",
+  "reason": "Both 5 working days."
+ },
+ "HI-005": {
+  "label": "correct",
+  "reason": "Half of normal limit; ₹37,500."
+ },
+ "HI-006": {
+  "label": "correct",
+  "reason": "30 days notice, 15 working days claim; yes, claim deadline first."
+ },
+ "HI-007": {
+  "label": "correct",
+  "reason": "70% from day 31; 90 days cap; within 18 months."
+ },
+ "HI-008": {
+  "label": "correct",
+  "reason": "30 days basic pay; 7 working days; independent."
+ },
+ "HI-009": {
+  "label": "correct",
+  "reason": "90 days vs 4 months; not met."
+ },
+ "HI-010": {
+  "label": "correct",
+  "reason": "15 days before; 16 months max; cannot replace."
+ },
+ "HI-011": {
+  "label": "correct",
+  "reason": "Not optional; 3 months service exceeds 2-month threshold."
+ },
+ "HI-012": {
+  "label": "correct",
+  "reason": "10 working days; 3 months working together."
+ },
+ "HI-013": {
+  "label": "correct",
+  "reason": "5 working days vs 21-day observation; difference explained."
+ },
+ "HI-014": {
+  "label": "correct",
+  "reason": "No; 360 days vs 18 months."
+ },
+ "HI-015": {
+  "label": "correct",
+  "reason": "Yes, within 90-day limit (89 days elapsed)."
+ },
+ "HI-016": {
+  "label": "correct",
+  "reason": "90-day stay longer than 45 days added; independent."
+ },
+ "HI-017": {
+  "label": "correct",
+  "reason": "5 working days, 12 months, 8 years."
+ },
+ "HI-018": {
+  "label": "correct",
+  "reason": "Form approval 8 days longer than 7-day letter."
+ },
+ "HI-019": {
+  "label": "correct",
+  "reason": "Both 30 days; reminder vs security deactivation."
+ },
+ "HI-020": {
+  "label": "correct",
+  "reason": "Both 3 hours; biennial vs annual."
+ },
+ "HI-021": {
+  "label": "correct",
+  "reason": "30 min weekly, 3 hours total, 1/8 of 24."
+ },
+ "HI-022": {
+  "label": "correct",
+  "reason": "6 months after confirmation; 5 years; 4 years more."
+ },
+ "HI-023": {
+  "label": "correct",
+  "reason": "9 months; 15 working days; yes within probation."
+ },
+ "HI-024": {
+  "label": "correct",
+  "reason": "15 working days; 10 years."
+ },
+ "HI-025": {
+  "label": "correct",
+  "reason": "10-day threshold, 25-day extension, not enough for 90-day reduction."
+ },
+ "HI-026": {
+  "label": "correct",
+  "reason": "20 vs 15 working days; recommendation longer."
+ },
+ "HI-027": {
+  "label": "correct",
+  "reason": "3 months; 3 working days; insurance from day one."
+ },
+ "HI-028": {
+  "label": "correct",
+  "reason": "18 vs 24 months; not complete, ~6 months left."
+ },
+ "HI-029": {
+  "label": "correct",
+  "reason": "Probation 6 months, 12 months service, 6 months extra wait all match."
+ },
+ "HI-030": {
+  "label": "correct",
+  "reason": "90 days, 30 days, and no-blocking conclusion all match."
+ },
+ "HI-031": {
+  "label": "correct",
+  "reason": "12 months, 180-day break, cannot be counted; matches."
+ },
+ "HI-032": {
+  "label": "correct",
+  "reason": "2 vs 12 months, service extension 6 times longer; matches."
+ },
+ "HI-033": {
+  "label": "correct",
+  "reason": "15 and 10 working days, not counted; matches."
+ },
+ "HI-034": {
+  "label": "correct",
+  "reason": "10 days, adjustment not extension, 15 working days notice not applicable; matches."
+ },
+ "HI-035": {
+  "label": "correct",
+  "reason": "2 compensatory days, Rs 8,000 / Rs 12 ~ 666 km; matches."
+ },
+ "HI-036": {
+  "label": "correct",
+  "reason": "15 vs 10 working days, 10-day limit applies; matches."
+ },
+ "HI-037": {
+  "label": "correct",
+  "reason": "No advance leave (12 months), yes travel advance (2 nights); matches."
+ },
+ "HI-038": {
+  "label": "correct",
+  "reason": "Encashment 1-31 January first, then travel claims by 10 April; matches."
+ },
+ "HI-039": {
+  "label": "correct",
+  "reason": "Both 15 working days, same figure; matches."
+ },
+ "HI-040": {
+  "label": "correct",
+  "reason": "No; 20 days unpaid vs 30 working days threshold; matches."
+ },
+ "HI-041": {
+  "label": "correct",
+  "reason": "Quarterly record 10 days longer than 5-day decision; matches."
+ },
+ "HI-042": {
+  "label": "correct",
+  "reason": "Performance appeal 10 vs leave appeal 7, 3 days difference; matches."
+ },
+ "HI-043": {
+  "label": "correct",
+  "reason": "Reduced to 2 occasions; warning active 12 months; matches."
+ },
+ "HI-044": {
+  "label": "correct",
+  "reason": "3 months vs 1 year, one-quarter; matches."
+ },
+ "HI-045": {
+  "label": "correct",
+  "reason": "4 occasions, 5 working days, probation termination; matches."
+ },
+ "HI-046": {
+  "label": "correct",
+  "reason": "8 years, equal to major (8), more than minor (3); matches."
+ },
+ "HI-047": {
+  "label": "correct",
+  "reason": "8 years from leave-year end in both; consistent, matches reference."
+ },
+ "HI-048": {
+  "label": "correct",
+  "reason": "45 days vs 10 working days; restricted-period notice longer; matches."
+ },
+ "HI-049": {
+  "label": "correct",
+  "reason": "Both 10 working days, equal; matches."
+ },
+ "HI-050": {
+  "label": "correct",
+  "reason": "Both 5%; annual vs every 6 months; matches."
+ },
+ "HI-051": {
+  "label": "correct",
+  "reason": "20 vs 15 working days, leave notice first; matches."
+ },
+ "HI-052": {
+  "label": "correct",
+  "reason": "30 April vs calendar by 5 April at latest; yes; matches."
+ },
+ "HI-053": {
+  "label": "correct",
+  "reason": "Escalates to higher level 2 days after reminder; substitution 2 days prior; matches."
+ },
+ "HI-054": {
+  "label": "correct",
+  "reason": "Yes, note needed (>3 days); training within 30 days; matches."
+ },
+ "HI-055": {
+  "label": "correct",
+  "reason": "6 days, 1 June-31 July window, independent; matches."
+ },
+ "HI-056": {
+  "label": "correct",
+  "reason": "180 days, eligible for insurance, no advance leave (12 months); matches."
+ },
+ "HI-057": {
+  "label": "correct",
+  "reason": "4 hours, Rs 15,000 within 2 working days; matches."
+ },
+ "HI-058": {
+  "label": "correct",
+  "reason": "1 working day attendance, 12 days casual leave, not deducted; matches."
+ },
+ "HI-059": {
+  "label": "correct",
+  "reason": "3 vs 5 years, 2 years more; matches."
+ },
+ "HI-060": {
+  "label": "correct",
+  "reason": "20 days; make-up within 90 days of return; matches."
+ },
+ "HI-061": {
+  "label": "correct",
+  "reason": "12 months vs 10 years, difference 9 years matches."
+ },
+ "HI-062": {
+  "label": "correct",
+  "reason": "8 years; PF records 25 years; physical copies 7 years; matches."
+ },
+ "HI-063": {
+  "label": "correct",
+  "reason": "30 calendar days to 70% vs 30 working days; different concepts; matches."
+ },
+ "HI-064": {
+  "label": "correct",
+  "reason": "Travel claim 15 vs appeal 10, 5 working days; matches."
+ },
+ "HI-065": {
+  "label": "correct",
+  "reason": "10 April vs 1 April, 9 days; matches."
+ },
+ "HI-066": {
+  "label": "correct",
+  "reason": "15 vs 7 working days, 8 more; matches."
+ },
+ "HI-067": {
+  "label": "correct",
+  "reason": "25% net vs 20% basic; travel advance higher; matches."
+ },
+ "HI-068": {
+  "label": "correct",
+  "reason": "Fraud inquiry 15; disciplinary 10 plus 5 = 15; matches."
+ },
+ "HI-069": {
+  "label": "correct",
+  "reason": "24 months equals 2-year cumulative withholding; matches."
+ },
+ "HI-070": {
+  "label": "correct",
+  "reason": "10 working days vs 30 days; appeal much longer; matches."
+ },
+ "HI-071": {
+  "label": "correct",
+  "reason": "8 vs 9 years, 1-year difference; matches."
+ },
+ "HI-072": {
+  "label": "correct",
+  "reason": "12 vs 6 years, 6 more (double); matches."
+ },
+ "HI-073": {
+  "label": "correct",
+  "reason": "3 vs 5 working days, 2 less; matches."
+ },
+ "HI-074": {
+  "label": "correct",
+  "reason": "12% monthly vs 5% half-yearly; travel sampling higher; matches."
+ },
+ "HI-075": {
+  "label": "correct",
+  "reason": "Rs 75,000 vs Rs 1,00,000; single-source limit higher; matches."
+ },
+ "HI-076": {
+  "label": "correct",
+  "reason": "10 vs 5 working days, 5 more; matches."
+ },
+ "HI-077": {
+  "label": "correct",
+  "reason": "Rs 18,000 vs Rs 45,000, difference Rs 27,000; matches."
+ },
+ "HI-078": {
+  "label": "correct",
+  "reason": "7 working days vs 30 days; provider payment longer; matches."
+ },
+ "HI-079": {
+  "label": "correct",
+  "reason": "7-day waiting period; allowance at 70%; matches."
+ },
+ "HI-080": {
+  "label": "correct",
+  "reason": "Rs 150 vs Rs 110+70=180, Rs 30 more; matches."
+ },
+ "HI-081": {
+  "label": "correct",
+  "reason": "Rs 20,000 vs Rs 50,000; immediate-approval limit higher by Rs 30,000; matches."
+ },
+ "HI-082": {
+  "label": "correct",
+  "reason": "Both 8 years; matches."
+ },
+ "HI-083": {
+  "label": "correct",
+  "reason": "8 vs 25 years, 17-year difference; matches."
+ },
+ "HI-084": {
+  "label": "correct",
+  "reason": "12 vs 5 years, records 7 years longer; matches."
+ },
+ "HI-085": {
+  "label": "correct",
+  "reason": "Minimum 2 nights; up to 6 months' salary; basis contrast given; matches."
+ },
+ "HI-086": {
+  "label": "correct",
+  "reason": "Gratuity 30 days vs travel outer limit 90 working days; matches."
+ },
+ "HI-087": {
+  "label": "correct",
+  "reason": "5 working days; counselling record 6 months; matches."
+ },
+ "HI-088": {
+  "label": "correct",
+  "reason": "Both 3, same; matches."
+ },
+ "HI-089": {
+  "label": "correct",
+  "reason": "15+5=20 vs 45+20=65; disciplinary appeal longer; matches."
+ },
+ "HI-090": {
+  "label": "correct",
+  "reason": "Both 8 years; matches."
+ },
+ "HI-091": {
+  "label": "correct",
+  "reason": "Both 10 working days; matches."
+ },
+ "HI-092": {
+  "label": "correct",
+  "reason": "7 vs 8 years; Section A longer; matches."
+ },
+ "HI-093": {
+  "label": "correct",
+  "reason": "Both 72 hours; matches."
+ },
+ "HI-094": {
+  "label": "correct",
+  "reason": "5 vs 3 years; appraisal logs longer by 2; matches."
+ },
+ "HI-095": {
+  "label": "correct",
+  "reason": "Both 3 hours; matches."
+ },
+ "HI-096": {
+  "label": "correct",
+  "reason": "Both 3 years; matches."
+ },
+ "HI-097": {
+  "label": "correct",
+  "reason": "12 vs 24, 50%; matches."
+ },
+ "HI-098": {
+  "label": "correct",
+  "reason": "Both maximum 8; matches."
+ },
+ "HI-099": {
+  "label": "correct",
+  "reason": "4 vs 12 months, 8-month difference; matches."
+ },
+ "HI-100": {
+  "label": "correct",
+  "reason": "Both 5 years; matches."
+ },
+ "HI-101": {
+  "label": "correct",
+  "reason": "10 working days vs 21 days; insurance appeal longer; matches."
+ },
+ "HI-102": {
+  "label": "correct",
+  "reason": "Quorum 5 vs committee 3, 2 more; matches."
+ },
+ "HI-103": {
+  "label": "correct",
+  "reason": "Both 7 years; matches."
+ },
+ "HI-104": {
+  "label": "correct",
+  "reason": "31 August vs 30 June; PF statement first; matches."
+ },
+ "HI-105": {
+  "label": "correct",
+  "reason": "Both 3, coincidence; matches."
+ },
+ "HI-106": {
+  "label": "correct",
+  "reason": "5 vs 10 working days; PF transfer longer; matches."
+ },
+ "HI-107": {
+  "label": "correct",
+  "reason": "Both 2 working days; matches."
+ },
+ "HI-108": {
+  "label": "correct",
+  "reason": "7 vs 5 working days; disciplinary order longer; matches."
+ },
+ "HI-109": {
+  "label": "correct",
+  "reason": "Both 48 hours; matches."
+ },
+ "HI-110": {
+  "label": "correct",
+  "reason": "Both 180 days; matches."
+ },
+ "HI-111": {
+  "label": "correct",
+  "reason": "Both 24 months; matches."
+ },
+ "HI-112": {
+  "label": "correct",
+  "reason": "Both 60 days; matches."
+ },
+ "HI-113": {
+  "label": "correct",
+  "reason": "Both 36 months; matches."
+ },
+ "HI-114": {
+  "label": "correct",
+  "reason": "30 vs 15 working days; false-complaint action longer; matches."
+ },
+ "HI-115": {
+  "label": "correct",
+  "reason": "Both 50 percent; matches."
+ },
+ "HI-116": {
+  "label": "correct",
+  "reason": "Both 60 days; matches."
+ },
+ "HI-117": {
+  "label": "correct",
+  "reason": "Both 7, working vs calendar days; matches."
+ },
+ "HI-118": {
+  "label": "correct",
+  "reason": "Both 30 days; matches."
+ },
+ "HI-119": {
+  "label": "correct",
+  "reason": "120 days, statutory dues exempt, gratuity in 30 days; disputed-amount nuance not contradictory."
+ },
+ "HI-120": {
+  "label": "correct",
+  "reason": "45 vs 30 days, 15-day difference; matches."
+ },
+ "HI-121": {
+  "label": "correct",
+  "reason": "Both 3 years; matches."
+ },
+ "HI-122": {
+  "label": "correct",
+  "reason": "30 days vs 15 working days; 30 days longer; matches."
+ },
+ "HI-123": {
+  "label": "correct",
+  "reason": "Both 15 minutes; matches."
+ },
+ "HI-124": {
+  "label": "correct",
+  "reason": "Both 3 working days; matches."
+ },
+ "HI-125": {
+  "label": "correct",
+  "reason": "Both 30 days; matches."
+ },
+ "HI-126": {
+  "label": "correct",
+  "reason": "21 vs 15 days; access suspension 6 days longer; matches."
+ },
+ "HI-127": {
+  "label": "correct",
+  "reason": "14 vs 30 days; insurance change longer; matches."
+ },
+ "HI-128": {
+  "label": "correct",
+  "reason": "180 days vs 24 months; waiting period longer; matches."
+ },
+ "HI-129": {
+  "label": "correct",
+  "reason": "Both 5; matches reference."
+ },
+ "HI-130": {
+  "label": "correct",
+  "reason": "Both 7 working days; matches."
+ },
+ "HI-131": {
+  "label": "correct",
+  "reason": "12 vs 25 years, difference 13; matches."
+ },
+ "HI-132": {
+  "label": "correct",
+  "reason": "14 years, 11 less than 25; matches."
+ },
+ "HI-133": {
+  "label": "correct",
+  "reason": "Both 3 years; matches."
+ },
+ "HI-134": {
+  "label": "correct",
+  "reason": "Audit 6 months, board quarterly, board more frequent; matches."
+ },
+ "HI-135": {
+  "label": "correct",
+  "reason": "3 vs 2 years, difference 1; matches."
+ },
+ "HI-136": {
+  "label": "correct",
+  "reason": "45,000 vs 18,000, 27,000 more; matches."
+ },
+ "HI-137": {
+  "label": "correct",
+  "reason": "Both 90 days; matches."
+ },
+ "HI-138": {
+  "label": "correct",
+  "reason": "50% vs 60%, 10 points; matches."
+ },
+ "HI-139": {
+  "label": "correct",
+  "reason": "8 vs 25 years, 17 difference; matches."
+ },
+ "HI-140": {
+  "label": "correct",
+  "reason": "36 vs 24 months, bond longer by 12; matches."
+ },
+ "HI-141": {
+  "label": "correct",
+  "reason": "6 months vs 180 days, roughly equal; matches."
+ },
+ "HI-142": {
+  "label": "correct",
+  "reason": "30 April vs 30 June, April first; matches."
+ },
+ "HI-143": {
+  "label": "correct",
+  "reason": "Rs 75 lakh vs Rs 25 lakh, difference Rs 50 lakh matches."
+ },
+ "HI-144": {
+  "label": "correct",
+  "reason": "10 lakh vs 3.5 lakh, 6.5 lakh difference; matches."
+ },
+ "HI-145": {
+  "label": "correct",
+  "reason": "5 lakh vs 75,000, 4.25 lakh difference; matches."
+ },
+ "HI-146": {
+  "label": "correct",
+  "reason": "25,000, 90 days, ±60 days, 50%; all match."
+ },
+ "HI-147": {
+  "label": "correct",
+  "reason": "7 and 10 working days, 3-month suspension; matches."
+ },
+ "HI-148": {
+  "label": "correct",
+  "reason": "45 days, 30 days, 7 days, 6 months; all match."
+ },
+ "HI-149": {
+  "label": "correct",
+  "reason": "80%, Rs 75,000, 5 working days; matches."
+ },
+ "HI-150": {
+  "label": "correct",
+  "reason": "25% and 0.75% per month; matches."
+ },
+ "HI-151": {
+  "label": "correct",
+  "reason": "Max rating 3, 55%; matches."
+ },
+ "HI-152": {
+  "label": "correct",
+  "reason": "120, 12, 70; matches."
+ },
+ "HI-153": {
+  "label": "correct",
+  "reason": "180, 90-day blocks, 360, 12 months; matches."
+ },
+ "HI-154": {
+  "label": "correct",
+  "reason": "30/45 days, 10 working days; matches."
+ },
+ "HI-155": {
+  "label": "correct",
+  "reason": "2h, 48h, 72h, 20 working days; matches."
+ },
+ "HI-156": {
+  "label": "correct",
+  "reason": "5, 15, 10, 20 working days; matches."
+ },
+ "HI-157": {
+  "label": "correct",
+  "reason": "150%, 15 working days, 8 names; matches."
+ },
+ "HI-158": {
+  "label": "correct",
+  "reason": "1,15,000, 12 months, 36 months; matches."
+ },
+ "HI-159": {
+  "label": "correct",
+  "reason": "48h/6h planned, 24h/2h emergency; matches."
+ },
+ "HI-160": {
+  "label": "correct",
+  "reason": "24 months, 6 months, 45 days; matches."
+ },
+ "HI-161": {
+  "label": "correct",
+  "reason": "90%, 80% overall cap, cap not applicable to pre-retirement withdrawal; all match."
+ },
+ "HI-162": {
+  "label": "correct",
+  "reason": "1,800, 50%, 60%; matches."
+ },
+ "KA-001": {
+  "label": "correct",
+  "reason": "5 working days and 85% response rate, nature contrasted; matches."
+ },
+ "KA-002": {
+  "label": "correct",
+  "reason": "7 calendar days; 28 attended, 26 replied, 93%, 2 non-respondents; matches."
+ },
+ "KA-003": {
+  "label": "correct",
+  "reason": "15 working days vs 120 days; re-assessment longer; matches."
+ },
+ "KA-004": {
+  "label": "correct",
+  "reason": "90 calendar days; Rs 3 lakh ROI threshold; matches."
+ },
+ "KA-005": {
+  "label": "correct",
+  "reason": "8 vs 10 years; ROI sheet 2 years longer; matches."
+ },
+ "KA-006": {
+  "label": "correct",
+  "reason": "Panel 28, committee 7, ratio 4; matches."
+ },
+ "KA-007": {
+  "label": "correct",
+  "reason": "3 adjournments of 15 calendar days; RCA 15 working days; units differ; matches."
+ },
+ "KA-008": {
+  "label": "correct",
+  "reason": "73%, 12 points below 85%, 90% target, 5 points higher all match."
+ },
+ "KA-009": {
+  "label": "correct",
+  "reason": "5 working vs 30 calendar days; difference 25; matches."
+ },
+ "KA-010": {
+  "label": "correct",
+  "reason": "90 days; 3 renewals/4 terms; conversion or exit; no fifth term; matches."
+ },
+ "KA-011": {
+  "label": "correct",
+  "reason": "Both 8 years; coincidental equality; matches."
+ },
+ "KA-012": {
+  "label": "correct",
+  "reason": "15 working days; 35 days before expiry; contract process needs more lead; matches."
+ },
+ "KA-013": {
+  "label": "correct",
+  "reason": "Yes full inquiry; 11 months; cannot apply with pending case; matches."
+ },
+ "KA-014": {
+  "label": "correct",
+  "reason": "Below 75 serious deficiency, 6-month hold; 33 months or 3 terms, meets expectations; matches."
+ },
+ "KA-015": {
+  "label": "correct",
+  "reason": "10 working days; names valid HRBP question and lists the reference one too."
+ },
+ "KA-016": {
+  "label": "correct",
+  "reason": "Renewal assessment suspended; 30-day extension; final order 15 working days; matches."
+ },
+ "KA-017": {
+  "label": "correct",
+  "reason": "8 vs 7 years; disciplinary 1 year longer; matches."
+ },
+ "KA-018": {
+  "label": "correct",
+  "reason": "90 days; before June 1; May 30, before deadline; matches."
+ },
+ "KA-019": {
+  "label": "correct",
+  "reason": "Below 75, six-month hold; rating 1 or 2 even if plan completed; matches."
+ },
+ "KA-020": {
+  "label": "correct",
+  "reason": "Both 15 working days; equal but unrelated; matches."
+ },
+ "KA-021": {
+  "label": "correct",
+  "reason": "30 calendar days; 90 days service; no bonus; matches."
+ },
+ "KA-022": {
+  "label": "correct",
+  "reason": "Inquiry dropped; pro-rated bonus to nominee within ~30 days; matches."
+ },
+ "KA-023": {
+  "label": "correct",
+  "reason": "7 calendar days vs 3 working days; bonus dispute faster; matches."
+ },
+ "KA-024": {
+  "label": "correct",
+  "reason": "Pro-rated bonus, three exceptions; fixed per-sitting fee Band 7+, travel separate; matches."
+ },
+ "KA-025": {
+  "label": "correct",
+  "reason": "Rs 3 lakh and 50 calendar days; different units; matches."
+ },
+ "KA-026": {
+  "label": "correct",
+  "reason": "18 participants, Rs 3,33,000, ROI 548.6%; 45 days to HRBP; unrelated; matches."
+ },
+ "KA-027": {
+  "label": "correct",
+  "reason": "45 days left; not eligible, needs 1 more month; matches."
+ },
+ "KA-028": {
+  "label": "correct",
+  "reason": "30/60/90 days; every 6 months, 3 conversations; longer; matches."
+ },
+ "KA-029": {
+  "label": "correct",
+  "reason": "35% vs 75%; ROI target 40 points higher; matches."
+ },
+ "KA-030": {
+  "label": "correct",
+  "reason": "34 months, L3, dept head approval; 15 questions in 5 sections; unrelated; matches."
+ },
+ "KA-031": {
+  "label": "correct",
+  "reason": "Every 2 years; 90 calendar days before visa expiry; matches."
+ },
+ "KA-032": {
+  "label": "correct",
+  "reason": "80% steps independent; 50% credit capped at 3 months, 3-month probation; matches."
+ },
+ "KA-033": {
+  "label": "correct",
+  "reason": "Rs 3 lakh; Rohit Rs 2,25,000; 75%; matches."
+ },
+ "KA-034": {
+  "label": "correct",
+  "reason": "Rs 3,25,000, ROI 608.9%; Anita Rs 7,80,000; 2.4 times; matches."
+ },
+ "KA-035": {
+  "label": "correct",
+  "reason": "90% within 60 days; 90 days for bonus; not equal; matches."
+ },
+ "KA-036": {
+  "label": "correct",
+  "reason": "Removed after Q4 for at least 6 months; Bands 7-8, 30%, 2 years; matches."
+ },
+ "KA-037": {
+  "label": "correct",
+  "reason": "5 vs 7 years; bonus 2 years longer; matches."
+ },
+ "KA-038": {
+  "label": "correct",
+  "reason": "120 days vs 15 working days; re-assessment longer; matches."
+ },
+ "KA-039": {
+  "label": "correct",
+  "reason": "90 days; below 70% multiplier zero, no guaranteed minimum; optional vs automatic; matches."
+ },
+ "KA-040": {
+  "label": "correct",
+  "reason": "75%; about 14 months; no direct relation; matches."
+ },
+ "KA-041": {
+  "label": "correct",
+  "reason": "3 renewals/4 terms; Band 4 target 15%; matches."
+ },
+ "KA-042": {
+  "label": "correct",
+  "reason": "34 months, L3; bonus eligibility only from confirmation date; matches."
+ },
+ "KA-043": {
+  "label": "correct",
+  "reason": "3 terms or 30 months; 90 days; different units; matches."
+ },
+ "KA-044": {
+  "label": "correct",
+  "reason": "Both 30 days; independent rules; matches."
+ },
+ "KA-045": {
+  "label": "correct",
+  "reason": "90 days; before June 1; Sept 21, after deadline; matches."
+ },
+ "KA-046": {
+  "label": "correct",
+  "reason": "4,4,3,4 avg 3.75; 100%; nearer rating 4, 125%; matches."
+ },
+ "KA-047": {
+  "label": "correct",
+  "reason": "35%; 2019, multiplier zero once; matches."
+ },
+ "KA-048": {
+  "label": "correct",
+  "reason": "8 vs 7 years; contract records 1 year longer; matches."
+ },
+ "KA-049": {
+  "label": "correct",
+  "reason": "Both 5 working days; same number; matches."
+ },
+ "KA-050": {
+  "label": "correct",
+  "reason": "Both 7 calendar days; second stage limited to penalty quantum; matches."
+ },
+ "KA-051": {
+  "label": "correct",
+  "reason": "Target 90, average 102, exceeded by 12 days; matches."
+ },
+ "KA-052": {
+  "label": "correct",
+  "reason": "20% or 5 whichever higher; 22 completed, 5 audited, compliant; matches."
+ },
+ "KA-053": {
+  "label": "correct",
+  "reason": "16 hours, 4 modules; uncertified officer needs one observed case first; matches."
+ },
+ "KA-054": {
+  "label": "correct",
+  "reason": "3 adjournments of 15 days; 5-day delay not counted, administration's own delay; matches."
+ },
+ "KA-055": {
+  "label": "correct",
+  "reason": "Rs 3 lakh; Rs 3,33,000 exceeds threshold; matches."
+ },
+ "KA-056": {
+  "label": "correct",
+  "reason": "75% target; benefit estimate reduced by 25%; matches."
+ },
+ "KA-057": {
+  "label": "correct",
+  "reason": "45 days before; appeal within 5 working days; matches."
+ },
+ "KA-058": {
+  "label": "correct",
+  "reason": "2 consecutive quarters below 6.5; half-yearly September and March; matches."
+ },
+ "KA-059": {
+  "label": "correct",
+  "reason": "120 days; 30/60/90 checkpoints; no coincidence; matches."
+ },
+ "KA-060": {
+  "label": "correct",
+  "reason": "5 vs 10 years; 5-year difference; matches."
+ },
+ "KA-061": {
+  "label": "correct",
+  "reason": "50 and 30 days; 20-day gap; matches."
+ },
+ "KA-062": {
+  "label": "correct",
+  "reason": "35 and 30 days; 5-day gap; matches."
+ },
+ "KA-063": {
+  "label": "correct",
+  "reason": "3 renewals/4 terms; 33 months or 3 terms; 44 months, 11 over; matches."
+ },
+ "KA-064": {
+  "label": "correct",
+  "reason": "30 and 11 months; 20 months qualifies only for career support; matches."
+ },
+ "KA-065": {
+  "label": "correct",
+  "reason": "90 vs 50 days; 40 extra days; matches."
+ },
+ "KA-066": {
+  "label": "correct",
+  "reason": "8 years; 20% quarterly sample on disguised permanence and discrimination risks; matches."
+ },
+ "KA-067": {
+  "label": "correct",
+  "reason": "15%; Rohit Rs 2,25,000 equals target bonus; matches."
+ },
+ "KA-068": {
+  "label": "correct",
+  "reason": "Bands 7-8, 70/30; Rs 14 lakh June 2026, Rs 3 lakh 2027 and 2028; matches."
+ },
+ "KA-069": {
+  "label": "correct",
+  "reason": "90 days; factor 0.2466; eligible; matches."
+ },
+ "KA-070": {
+  "label": "correct",
+  "reason": "Below 70% zero bonus, no minimum; once since 2019; ~1/3 years 70-100%; matches."
+ },
+ "KA-071": {
+  "label": "correct",
+  "reason": "15 working days; max 10 working days (5+5); matches."
+ },
+ "KA-072": {
+  "label": "correct",
+  "reason": "7 years; alumni same 7-year rule; matches."
+ },
+ "MR-001": {
+  "label": "correct",
+  "reason": "Both 10 days filing; decision 15 vs 21 differ; matches."
+ },
+ "MR-002": {
+  "label": "correct",
+  "reason": "Not possible; probation 9 months; matches."
+ },
+ "MR-003": {
+  "label": "correct",
+  "reason": "6 vs 12 months, mutual transfer longer; matches."
+ },
+ "MR-004": {
+  "label": "correct",
+  "reason": "6 vs 12 months, promotion bar double; matches."
+ },
+ "MR-005": {
+  "label": "correct",
+  "reason": "3 instalments vs 12, ratio 4 matches."
+ },
+ "MR-006": {
+  "label": "correct",
+  "reason": "Promotion directive 01, 8%, nearest 100 rounding; matches."
+ },
+ "MR-007": {
+  "label": "partial",
+  "reason": "90 days and 26 weeks right, but says leave not counted; reference says counted via exception."
+ },
+ "MR-008": {
+  "label": "correct",
+  "reason": "Within 90-day cap; probation extended 65 days; matches."
+ },
+ "MR-009": {
+  "label": "correct",
+  "reason": "85%, extended sick leave, 90 days; matches."
+ },
+ "MR-010": {
+  "label": "correct",
+  "reason": "Both 6 months, can apply concurrently; matches."
+ },
+ "MR-011": {
+  "label": "correct",
+  "reason": "7 vs 5 days, leave review faster; matches."
+ },
+ "MR-012": {
+  "label": "correct",
+  "reason": "4.5 each cycle, clause 12.7 protection; matches."
+ },
+ "MR-013": {
+  "label": "correct",
+  "reason": "About Rs 264.42 per hour; matches."
+ },
+ "MR-014": {
+  "label": "partial",
+  "reason": "7 working days right; payslip 30-day window not found."
+ },
+ "MR-015": {
+  "label": "correct",
+  "reason": "Rs 56,200; rate up about Rs 20.19; matches."
+ },
+ "MR-016": {
+  "label": "correct",
+  "reason": "Both every 3 years, same cycle; matches."
+ },
+ "MR-017": {
+  "label": "correct",
+  "reason": "6 months, about 13 rotation cycles; matches."
+ },
+ "MR-018": {
+  "label": "correct",
+  "reason": "3/5 vs 5/10 days, promotion faster; matches."
+ },
+ "MR-019": {
+  "label": "correct",
+  "reason": "3 vs 5 members; matches."
+ },
+ "MR-020": {
+  "label": "correct",
+  "reason": "Both 10 working days; matches."
+ },
+ "MR-021": {
+  "label": "correct",
+  "reason": "Both 45 days, yes same; matches."
+ },
+ "MR-022": {
+  "label": "correct",
+  "reason": "Both 7 years; general complaints 5 years; matches."
+ },
+ "MR-023": {
+  "label": "correct",
+  "reason": "Yes, via general grievance process; matches."
+ },
+ "MR-024": {
+  "label": "correct",
+  "reason": "15 vs 20 working days, promotion appeal faster; matches."
+ },
+ "MR-025": {
+  "label": "correct",
+  "reason": "3.5 score, threshold 50; matches."
+ },
+ "MR-026": {
+  "label": "correct",
+  "reason": "3.4 vs 3.5, absorption stricter; matches."
+ },
+ "MR-027": {
+  "label": "correct",
+  "reason": "12 more months; matches."
+ },
+ "MR-028": {
+  "label": "correct",
+  "reason": "33 vs 36 months, promotion longer; matches."
+ },
+ "MR-029": {
+  "label": "correct",
+  "reason": "Both 48 months; matches."
+ },
+ "MR-030": {
+  "label": "correct",
+  "reason": "HR head + CEO; HR head + legal; 5-year bar; matches."
+ },
+ "MR-031": {
+  "label": "correct",
+  "reason": "6 weeks, not adverse transfer, 10 working days; matches."
+ },
+ "MR-032": {
+  "label": "correct",
+  "reason": "Rs 10,000 childcare aid; creche needs over 50 women; matches."
+ },
+ "MR-033": {
+  "label": "correct",
+  "reason": "No (last 30 days); remaining leave lapses uncashed; matches."
+ },
+ "MR-034": {
+  "label": "correct",
+  "reason": "30 working days vs 8 weeks; maternity notice earlier; matches."
+ },
+ "MR-035": {
+  "label": "correct",
+  "reason": "Both 90 days, usable concurrently; matches."
+ },
+ "MR-036": {
+  "label": "correct",
+  "reason": "12 vs 6 months, leave right earlier; matches."
+ },
+ "MR-037": {
+  "label": "correct",
+  "reason": "3 working days, 24 hours; matches."
+ },
+ "MR-038": {
+  "label": "correct",
+  "reason": "10 calendar days joining, 5 working days notice, sufficient; matches."
+ },
+ "MR-039": {
+  "label": "correct",
+  "reason": "Rs 1,01,000 vs Rs 300; matches."
+ },
+ "MR-040": {
+  "label": "correct",
+  "reason": "7 vs 5 working days, transfer needs more; matches."
+ },
+ "MR-041": {
+  "label": "correct",
+  "reason": "15 days vs 3 consecutive refusals; matches."
+ },
+ "MR-042": {
+  "label": "correct",
+  "reason": "Both 60 days; matches."
+ },
+ "MR-043": {
+  "label": "correct",
+  "reason": "21 vs 20 days, grievance appeal faster; matches."
+ },
+ "MR-044": {
+  "label": "correct",
+  "reason": "Both 5 members; matches."
+ },
+ "MR-045": {
+  "label": "correct",
+  "reason": "Chair casting vote; substitute within 3 working days; matches."
+ },
+ "MR-046": {
+  "label": "correct",
+  "reason": "Both more than ten employees; matches."
+ },
+ "MR-047": {
+  "label": "correct",
+  "reason": "Both 90 (days vs working days, guideline); matches."
+ },
+ "MR-048": {
+  "label": "correct",
+  "reason": "21 working days; 2-day acknowledgment; 15-day investigation; matches."
+ },
+ "MR-049": {
+  "label": "correct",
+  "reason": "13 more months; request not accepted during probation; matches."
+ },
+ "MR-050": {
+  "label": "correct",
+  "reason": "Gives 15 days notice, last 30 days, difference 15 days; all match reference."
+ },
+ "MR-051": {
+  "label": "correct",
+  "reason": "60 days; 30 working days notice fits; matches."
+ },
+ "MR-052": {
+  "label": "correct",
+  "reason": "33-month cap vs 12-month minimum; matches."
+ },
+ "MR-053": {
+  "label": "correct",
+  "reason": "3.5 score; spouses not same department/reporting line; matches."
+ },
+ "MR-054": {
+  "label": "correct",
+  "reason": "33 months unbroken; no re-transfer for 12 months; matches."
+ },
+ "MR-055": {
+  "label": "correct",
+  "reason": "Child age 6 months vs 6 months from return; different reference points; matches."
+ },
+ "MR-056": {
+  "label": "correct",
+  "reason": "Both 90 thresholds; matches."
+ },
+ "MR-057": {
+  "label": "correct",
+  "reason": "Over 55 on request with medical advice; 3 days leave; matches."
+ },
+ "MR-058": {
+  "label": "correct",
+  "reason": "75% hours full pay; 6-month night-shift exemption; matches."
+ },
+ "MR-059": {
+  "label": "correct",
+  "reason": "3-month average vs (basic+DA)/208; matches."
+ },
+ "MR-060": {
+  "label": "correct",
+  "reason": "8 weeks vs 7 working days, maternity earlier; matches."
+ },
+ "MR-061": {
+  "label": "correct",
+  "reason": "Both 15 working days, different start points; matches."
+ },
+ "MR-062": {
+  "label": "correct",
+  "reason": "5 vs 3 days, manager deadline shorter; matches."
+ },
+ "MR-063": {
+  "label": "correct",
+  "reason": "30 days vs 90 working days, grievance more lenient; matches."
+ },
+ "MR-064": {
+  "label": "correct",
+  "reason": "5 working days, yes, 3 working days; matches."
+ },
+ "MR-065": {
+  "label": "correct",
+  "reason": "Yes anonymous; about 30 working days; matches."
+ },
+ "MR-066": {
+  "label": "correct",
+  "reason": "30 days vs 20+10=30 working days; grievance longer on calendar matches."
+ },
+ "MR-067": {
+  "label": "correct",
+  "reason": "Scope, exclusions, does-not-apply conclusion and 33-month cap all match."
+ },
+ "MR-068": {
+  "label": "correct",
+  "reason": "10-day sick leave encashment cap and Rs 10,500 example match."
+ },
+ "MR-069": {
+  "label": "correct",
+  "reason": "3-month basic+DA average and Rs 30,000/30 = Rs 1,000 match; difference explained."
+ },
+ "MR-070": {
+  "label": "correct",
+  "reason": "90 days, not excluded, 33 months all match."
+ },
+ "MR-071": {
+  "label": "correct",
+  "reason": "50% (12 months) and 80 days worked in prior 12 months criterion match."
+ },
+ "MR-072": {
+  "label": "correct",
+  "reason": "8 weeks (56 days) vs 60 days and who notifies whom match."
+ },
+ "MR-073": {
+  "label": "correct",
+  "reason": "5+10=15 vs 20 days; overtime route faster, matches."
+ },
+ "MR-074": {
+  "label": "correct",
+  "reason": "Minimum 5% sample and above 10% reaching stage 4 match; purposes explained."
+ },
+ "MR-075": {
+  "label": "correct",
+  "reason": "3 consecutive refusals; 3 and 7 working days match."
+ },
+ "MR-076": {
+  "label": "correct",
+  "reason": "Both 7 days; yes, same."
+ },
+ "MR-077": {
+  "label": "correct",
+  "reason": "Both 30 (days/working days); employee vs company responsibility matches."
+ },
+ "MR-078": {
+  "label": "correct",
+  "reason": "24-hour reminder and 72-hour replacement match."
+ },
+ "MR-079": {
+  "label": "correct",
+  "reason": "33 months, Marathi manual 04, 2.0x multiplier match."
+ },
+ "MR-080": {
+  "label": "correct",
+  "reason": "2.0x direct vs minimum 1.5x outsourced match."
+ },
+ "MR-081": {
+  "label": "correct",
+  "reason": "Cash only, no comp-off; 3.5 score; comp-off available after absorption match."
+ },
+ "MR-082": {
+  "label": "correct",
+  "reason": "3.0x, minimum 1.5x, no separate holiday rate stated match."
+ },
+ "MR-083": {
+  "label": "correct",
+  "reason": "Rs 144.23 hourly and Rs 288.46 overtime rate match."
+ },
+ "MR-084": {
+  "label": "correct",
+  "reason": "45 hours, not directly applicable to outsourced, 1.5x minimum match."
+ },
+ "MR-085": {
+  "label": "correct",
+  "reason": "15 working days vs 15 days; not the same matches."
+ },
+ "MR-086": {
+  "label": "correct",
+  "reason": "60 days, 45 working days = 9 weeks, grievance target longer all match."
+ },
+ "MR-087": {
+  "label": "correct",
+  "reason": "3.5 score, can approach via HR, 5-member committee match."
+ },
+ "MR-088": {
+  "label": "correct",
+  "reason": "Both 5 years; same."
+ },
+ "MR-089": {
+  "label": "correct",
+  "reason": "2% tolerance band and over 25% quarterly rise match; purposes given."
+ },
+ "MR-090": {
+  "label": "correct",
+  "reason": "15 days notice, copy in 5 working days, obtainable within notice matches."
+ },
+ "MR-091": {
+  "label": "correct",
+  "reason": "Rs 55,000 starting basic and 3 years minimum match."
+ },
+ "MR-092": {
+  "label": "correct",
+  "reason": "3.4 average vs 4.5 each cycle match."
+ },
+ "MR-093": {
+  "label": "correct",
+  "reason": "12 months ineligibility and 10 working-day appeal match."
+ },
+ "MR-094": {
+  "label": "correct",
+  "reason": "21 working days notice and Rs 59,000 maximum match."
+ },
+ "MR-095": {
+  "label": "correct",
+  "reason": "12 months and 6 months match; purposes explained."
+ },
+ "MR-096": {
+  "label": "correct",
+  "reason": "Both 3 working days match."
+ },
+ "MR-097": {
+  "label": "correct",
+  "reason": "26 weeks and 3-month basic+DA average match."
+ },
+ "MR-098": {
+  "label": "correct",
+  "reason": "90 days vs 6 days per year match; reason given."
+ },
+ "MR-099": {
+  "label": "correct",
+  "reason": "30 days notice; two 15-minute breaks until 12 months match."
+ },
+ "MR-100": {
+  "label": "correct",
+  "reason": "More than 90 nights, every six months, no formula change match."
+ },
+ "MR-101": {
+  "label": "correct",
+  "reason": "12 hours, 60 days, cash conversion at normal rate match."
+ },
+ "MR-102": {
+  "label": "correct",
+  "reason": "12 hours rest and max 3 consecutive weeks match."
+ },
+ "MR-103": {
+  "label": "correct",
+  "reason": "7 + 20 = 27 working days match."
+ },
+ "MR-104": {
+  "label": "correct",
+  "reason": "15 working days; appeal to CEO within 7 working days match."
+ },
+ "MR-105": {
+  "label": "correct",
+  "reason": "Both provisions apply: direct to stage 3 and analysis requirement match."
+ },
+ "MR-106": {
+  "label": "correct",
+  "reason": "33 months, 50%, 16.5 months match."
+ },
+ "MR-107": {
+  "label": "correct",
+  "reason": "36 months deployment and 3.5 score match."
+ },
+ "MR-108": {
+  "label": "correct",
+  "reason": "1.5x, blacklisting with deposit forfeiture, Rs 5,00,000 match."
+ },
+ "OD-001": {
+  "label": "correct",
+  "reason": "Both 48 hours; same."
+ },
+ "OD-002": {
+  "label": "correct",
+  "reason": "Rs 30,000 safety spend needs higher joint HR/Admin approval, matches."
+ },
+ "OD-003": {
+  "label": "correct",
+  "reason": "Both 80%; same."
+ },
+ "OD-004": {
+  "label": "correct",
+  "reason": "48 vs 72 hours; compliance committee more urgent, matches."
+ },
+ "OD-005": {
+  "label": "correct",
+  "reason": "Safety refresher 2 hours, 75 minutes longer, matches."
+ },
+ "OD-006": {
+  "label": "correct",
+  "reason": "7 working days (extendable to 14) and 15 working days match."
+ },
+ "OD-007": {
+  "label": "correct",
+  "reason": "8 years and indefinite confidentiality match."
+ },
+ "OD-008": {
+  "label": "correct",
+  "reason": "15 minutes ambulance and 4-hour crisis media forwarding match."
+ },
+ "OD-009": {
+  "label": "correct",
+  "reason": "10 vs 2 working days; attendance correction shorter, matches."
+ },
+ "OD-010": {
+  "label": "correct",
+  "reason": "Attendance correction (3 working days) closes before 15-day COI, matches."
+ },
+ "OD-011": {
+  "label": "correct",
+  "reason": "10 vs 5 working days; code appeal longer, matches."
+ },
+ "OD-012": {
+  "label": "correct",
+  "reason": "Both 7 working days; same."
+ },
+ "OD-013": {
+  "label": "correct",
+  "reason": "First 7 working days exempt; under-6-month tenure, single entry declaration match."
+ },
+ "OD-014": {
+  "label": "correct",
+  "reason": "Both 7 years; same."
+ },
+ "OD-015": {
+  "label": "correct",
+  "reason": "15 working days total, less than 30, matches."
+ },
+ "OD-016": {
+  "label": "correct",
+  "reason": "Both 48 hours; same."
+ },
+ "OD-017": {
+  "label": "correct",
+  "reason": "Rs 5,000 monthly and gifts above Rs 10,000 match."
+ },
+ "OD-018": {
+  "label": "correct",
+  "reason": "Both quarterly; same."
+ },
+ "OD-019": {
+  "label": "correct",
+  "reason": "Media query 24 hours and SIM 48 hours match."
+ },
+ "OD-020": {
+  "label": "correct",
+  "reason": "7 years vs contract term + 5 years with comparison match."
+ },
+ "OD-021": {
+  "label": "correct",
+  "reason": "Both every 3 years; same."
+ },
+ "OD-022": {
+  "label": "correct",
+  "reason": "Both 10 working days; same."
+ },
+ "OD-023": {
+  "label": "correct",
+  "reason": "Rs 5 lakh vs Rs 10 lakh; due diligence 2x larger match."
+ },
+ "OD-024": {
+  "label": "correct",
+  "reason": "14-day notice vs 15 calendar days; disclosure longer match."
+ },
+ "OD-025": {
+  "label": "correct",
+  "reason": "5 vs 7 years; not same, matches."
+ },
+ "OD-026": {
+  "label": "correct",
+  "reason": "5 of 6 resolved at panel; 10 working-day appeal match."
+ },
+ "OD-027": {
+  "label": "correct",
+  "reason": "22 and 25 July 2026; indefinite confidentiality match."
+ },
+ "OD-028": {
+  "label": "correct",
+  "reason": "8 positions, 30 days, 48 hours match."
+ },
+ "OD-029": {
+  "label": "correct",
+  "reason": "Talent review 3-6 March comes before 30 April deadline, matches."
+ },
+ "OD-030": {
+  "label": "correct",
+  "reason": "3 hires and under-6-month intern tenure match."
+ },
+ "OD-031": {
+  "label": "correct",
+  "reason": "Near-miss 48 hours more urgent than 7 working days, matches."
+ },
+ "OD-032": {
+  "label": "correct",
+  "reason": "30 days and 3 working days match."
+ },
+ "OD-033": {
+  "label": "correct",
+  "reason": "Every 2 years and first 3 months match."
+ },
+ "OD-034": {
+  "label": "correct",
+  "reason": "8 hours and every 45 minutes match."
+ },
+ "OD-035": {
+  "label": "correct",
+  "reason": "4 hours vs 30 minutes; safety longer (8x) matches."
+ },
+ "OD-036": {
+  "label": "correct",
+  "reason": "3 meetings vs 8 late arrivals; 8 higher matches."
+ },
+ "OD-037": {
+  "label": "correct",
+  "reason": "7 working days and 3 working days match."
+ },
+ "OD-038": {
+  "label": "correct",
+  "reason": "95%, quarterly, 7 days match."
+ },
+ "OD-039": {
+  "label": "correct",
+  "reason": "Rs 25,000 vs Rs 10 lakh; bulk limit larger matches."
+ },
+ "OD-040": {
+  "label": "correct",
+  "reason": "At least 2 women and Rs 200 monthly match."
+ },
+ "OD-041": {
+  "label": "correct",
+  "reason": "48 hours vs 10 working days; safety approval more urgent matches."
+ },
+ "OD-042": {
+  "label": "correct",
+  "reason": "5 vs 7 years; mobile records longer matches."
+ },
+ "OD-043": {
+  "label": "correct",
+  "reason": "Both 20%; same."
+ },
+ "OD-044": {
+  "label": "correct",
+  "reason": "2 vs 3 years; audit more frequent matches."
+ },
+ "OD-045": {
+  "label": "correct",
+  "reason": "7 days, 14 days notice, yes within notice match."
+ },
+ "OD-046": {
+  "label": "correct",
+  "reason": "Both 2 years; same."
+ },
+ "OD-047": {
+  "label": "correct",
+  "reason": "48 hours and above Rs 5 lakh match."
+ },
+ "OD-048": {
+  "label": "correct",
+  "reason": "Both 2 years; same."
+ },
+ "OD-049": {
+  "label": "correct",
+  "reason": "Both 6 months; same."
+ },
+ "OD-050": {
+  "label": "correct",
+  "reason": "Both 3 years; same."
+ },
+ "OD-051": {
+  "label": "correct",
+  "reason": "10 Feb 2026 workshop before April report matches."
+ },
+ "OD-052": {
+  "label": "correct",
+  "reason": "93% vs 80%; 93% higher matches."
+ },
+ "OD-053": {
+  "label": "correct",
+  "reason": "26 weeks and 3 months match."
+ },
+ "OD-054": {
+  "label": "correct",
+  "reason": "5 days, 30 days, 6x match."
+ },
+ "OD-055": {
+  "label": "correct",
+  "reason": "Within 12 months 100% cost; over 15 days, not automatic denial match."
+ },
+ "OD-056": {
+  "label": "correct",
+  "reason": "4 hours vs 7 working days; IT more urgent matches."
+ },
+ "OD-057": {
+  "label": "correct",
+  "reason": "7 working days and 15 working days match."
+ },
+ "OD-058": {
+  "label": "correct",
+  "reason": "7 working days vs 7 days; same number, different unit, not equal; matches."
+ },
+ "OD-059": {
+  "label": "correct",
+  "reason": "Both 7 years, same; matches reference."
+ },
+ "OD-060": {
+  "label": "correct",
+  "reason": "5 working days; 6 disputes, 5 resolved at panel level."
+ },
+ "OD-061": {
+  "label": "correct",
+  "reason": "14 days notice, 7 working days exemption, half; matches."
+ },
+ "OD-062": {
+  "label": "correct",
+  "reason": "173.3 hours, 8 hours, about 4.6%; matches."
+ },
+ "OD-063": {
+  "label": "correct",
+  "reason": "5 working days and 4 months; matches."
+ },
+ "OD-064": {
+  "label": "correct",
+  "reason": "Both 7 years, same; matches."
+ },
+ "OD-065": {
+  "label": "correct",
+  "reason": "3 working days vs 30 days, audit longer; matches."
+ },
+ "OD-066": {
+  "label": "correct",
+  "reason": "Both 3 years, same; matches."
+ },
+ "OD-067": {
+  "label": "correct",
+  "reason": "10 working days; 31 March 2026, not met; extra new-deadline detail not decisive."
+ },
+ "OD-068": {
+  "label": "correct",
+  "reason": "14 days notice; suspended from 31st day after >30 days; matches."
+ },
+ "OD-069": {
+  "label": "correct",
+  "reason": "10 working days; above Rs 5 lakh; matches."
+ },
+ "OD-070": {
+  "label": "correct",
+  "reason": "Yes, both 7 years; matches."
+ },
+ "OD-071": {
+  "label": "correct",
+  "reason": "85% and up to 15%; matches."
+ },
+ "OD-072": {
+  "label": "correct",
+  "reason": "15 days vs 30 days, audit longer; matches."
+ },
+ "OD-073": {
+  "label": "correct",
+  "reason": "7 days appeal; review 2 days after resignation; matches."
+ },
+ "OD-074": {
+  "label": "correct",
+  "reason": "26 weeks vs 4 months, maternity longer; matches."
+ },
+ "OD-075": {
+  "label": "correct",
+  "reason": "Both 20%, same; matches."
+ },
+ "OD-076": {
+  "label": "correct",
+  "reason": "Rs 2,000 vs Rs 1,500, senior lower due to influence; matches."
+ },
+ "OD-077": {
+  "label": "correct",
+  "reason": "2% or more; Rs 10 lakh or more; matches."
+ },
+ "OD-078": {
+  "label": "correct",
+  "reason": "Up to Rs 10,000; appeal within 10 working days; matches."
+ },
+ "OD-079": {
+  "label": "correct",
+  "reason": "10 members, 5 management; twice a year; matches."
+ },
+ "OD-080": {
+  "label": "correct",
+  "reason": "5 minutes; sites over 500 employees; matches."
+ },
+ "OD-081": {
+  "label": "correct",
+  "reason": "One per 50 employees; at least 2 women; matches."
+ },
+ "OD-082": {
+  "label": "correct",
+  "reason": "15 minutes; 5-minute increase to 20; matches."
+ },
+ "OD-083": {
+  "label": "correct",
+  "reason": "12 mandatory, 3 optional; matches."
+ },
+ "OD-084": {
+  "label": "correct",
+  "reason": "8 late arrivals, 3 corrections/month, flag above 6; matches."
+ },
+ "OD-085": {
+  "label": "correct",
+  "reason": "Rs 600; 4 or more trips; matches."
+ },
+ "OD-086": {
+  "label": "correct",
+  "reason": "Rs 8,000 and Rs 90,000; matches."
+ },
+ "OD-087": {
+  "label": "correct",
+  "reason": "Rs 1,200; 10% (Rs 120) perquisite; matches."
+ },
+ "OD-088": {
+  "label": "correct",
+  "reason": "27, 112, Tier-1 18 all match."
+ },
+ "OD-089": {
+  "label": "correct",
+  "reason": "Minimum 16; score 17; matches."
+ },
+ "OD-090": {
+  "label": "correct",
+  "reason": "2.8, 1.81, meets 1.5 target; matches."
+ },
+ "PA-001": {
+  "label": "correct",
+  "reason": "30% women; Rs 22,00,001-35,00,000; matches."
+ },
+ "PA-002": {
+  "label": "correct",
+  "reason": "60 trainees; Rs 3-5 lakh; matches."
+ },
+ "PA-003": {
+  "label": "correct",
+  "reason": "Both 6 months; no policy link, coincidence; matches."
+ },
+ "PA-004": {
+  "label": "correct",
+  "reason": "2 renewals (36/18); matches."
+ },
+ "PA-005": {
+  "label": "correct",
+  "reason": "Hiring complaint longer by 15 days; matches."
+ },
+ "PA-006": {
+  "label": "correct",
+  "reason": "15% hiring target higher than 4-6%; matches."
+ },
+ "PA-007": {
+  "label": "correct",
+  "reason": "25/8 = 3.125, about 3.1; matches."
+ },
+ "PA-008": {
+  "label": "correct",
+  "reason": "Yes, both 12 months; matches."
+ },
+ "PA-009": {
+  "label": "correct",
+  "reason": "Yes, both 48 hours; matches."
+ },
+ "PA-010": {
+  "label": "correct",
+  "reason": "42% higher than 25%; matches."
+ },
+ "PA-011": {
+  "label": "correct",
+  "reason": "Both 30 days, neither longer; matches."
+ },
+ "PA-012": {
+  "label": "correct",
+  "reason": "3 vs 7 years, 4-year difference; matches."
+ },
+ "PA-013": {
+  "label": "correct",
+  "reason": "Yes, both 6; matches."
+ },
+ "PA-014": {
+  "label": "correct",
+  "reason": "17 times (85/5); matches."
+ },
+ "PA-015": {
+  "label": "correct",
+  "reason": "Both 24 hours; matches."
+ },
+ "PA-016": {
+  "label": "correct",
+  "reason": "Yes, both 7 days; matches."
+ },
+ "PA-017": {
+  "label": "correct",
+  "reason": "3 times (15/5); matches."
+ },
+ "PA-018": {
+  "label": "correct",
+  "reason": "Blind screening audit quarterly, more frequent than 6-monthly; matches."
+ },
+ "PA-019": {
+  "label": "correct",
+  "reason": "About 4.4 times (40/9); matches."
+ },
+ "PA-020": {
+  "label": "correct",
+  "reason": "6 months (18-12); matches."
+ },
+ "PA-021": {
+  "label": "correct",
+  "reason": "Numerically both 7, notes working days; matches."
+ },
+ "PA-022": {
+  "label": "correct",
+  "reason": "3 times (30/10 working days); matches."
+ },
+ "PA-023": {
+  "label": "correct",
+  "reason": "Yes, both 18 months; matches."
+ },
+ "PA-024": {
+  "label": "correct",
+  "reason": "D&I council 9 vs 4 meetings, 5 more; matches."
+ },
+ "PA-025": {
+  "label": "correct",
+  "reason": "Both 30 but 30% vs 30 days, not comparable; matches."
+ },
+ "PA-026": {
+  "label": "correct",
+  "reason": "5 vs 3 languages, difference 2; matches."
+ },
+ "PA-027": {
+  "label": "correct",
+  "reason": "Yes, both 7 working days; matches."
+ },
+ "PA-028": {
+  "label": "correct",
+  "reason": "3 vs 8 years, difference 5; matches."
+ },
+ "PA-029": {
+  "label": "correct",
+  "reason": "Rs 5,00,000; loan about Rs 2,50,000; matches."
+ },
+ "PA-030": {
+  "label": "correct",
+  "reason": "Yes, both 6 months; matches."
+ },
+ "PA-031": {
+  "label": "correct",
+  "reason": "Numerically both 7, loan in working days; matches."
+ },
+ "PA-032": {
+  "label": "correct",
+  "reason": "Increment pool 8% exceeds 7% interest; matches."
+ },
+ "PA-033": {
+  "label": "correct",
+  "reason": "Combined deduction 35% higher by 15 points than 20%; matches."
+ },
+ "PA-034": {
+  "label": "correct",
+  "reason": "Yes, both 3 members; matches."
+ },
+ "PA-035": {
+  "label": "correct",
+  "reason": "Yes, both 5%; matches."
+ },
+ "PA-036": {
+  "label": "correct",
+  "reason": "Yes, both 7 days; matches."
+ },
+ "PA-037": {
+  "label": "correct",
+  "reason": "Yes, both 3 years; matches."
+ },
+ "PA-038": {
+  "label": "correct",
+  "reason": "Yes, both 15; matches."
+ },
+ "PA-039": {
+  "label": "correct",
+  "reason": "Increment letter 168 h longer than 2 h phishing by 166 h matches."
+ },
+ "PA-040": {
+  "label": "correct",
+  "reason": "Yes, both 15 days; matches."
+ },
+ "PA-041": {
+  "label": "correct",
+  "reason": "Yes, second review in October, audit month; matches."
+ },
+ "PA-042": {
+  "label": "correct",
+  "reason": "IT re-acceptance 15 days, 8 days longer; matches."
+ },
+ "PA-043": {
+  "label": "correct",
+  "reason": "Salary appeal longer by 5 days numerically; matches."
+ },
+ "PA-044": {
+  "label": "correct",
+  "reason": "21 days vs 28 calendar days; whistleblower 7 days longer matches."
+ },
+ "PA-045": {
+  "label": "correct",
+  "reason": "Yes, both 3 years; matches."
+ },
+ "PA-046": {
+  "label": "correct",
+  "reason": "Yes, both 6 months; matches."
+ },
+ "PA-047": {
+  "label": "correct",
+  "reason": "Salary records 7 vs NDA 5, 2 years longer; matches."
+ },
+ "PA-048": {
+  "label": "correct",
+  "reason": "No; February not among Jan/Apr/Jul/Oct meetings; matches."
+ },
+ "PA-049": {
+  "label": "correct",
+  "reason": "Yes, both 7 days; matches."
+ },
+ "PA-050": {
+  "label": "correct",
+  "reason": "Yes, both 30 days; matches."
+ },
+ "PA-051": {
+  "label": "correct",
+  "reason": "Yes, both 48 hours; matches."
+ },
+ "PA-052": {
+  "label": "correct",
+  "reason": "24 vs 12 months, 12 longer, double; matches."
+ },
+ "PA-053": {
+  "label": "correct",
+  "reason": "70% pass score higher by 45 points than 25%; matches."
+ },
+ "PA-054": {
+  "label": "correct",
+  "reason": "Loan exception committee window 2 times longer; matches."
+ },
+ "PA-055": {
+  "label": "correct",
+  "reason": "Hardware 4 years double bond 2 years; matches."
+ },
+ "PA-056": {
+  "label": "correct",
+  "reason": "7 vs 5 years, difference 2; matches."
+ },
+ "PA-057": {
+  "label": "correct",
+  "reason": "Whistleblower Rs 2 lakh 4 times Rs 50,000; matches."
+ },
+ "PA-058": {
+  "label": "correct",
+  "reason": "Yes, both Rs 2,00,000; matches."
+ },
+ "PA-059": {
+  "label": "correct",
+  "reason": "Yes, both 2; matches."
+ },
+ "PA-060": {
+  "label": "correct",
+  "reason": "Yes, both 3 members; matches."
+ },
+ "PA-061": {
+  "label": "correct",
+  "reason": "Yes, both 3 years; matches."
+ },
+ "PA-062": {
+  "label": "correct",
+  "reason": "Yes, both 30 days; matches."
+ },
+ "PA-063": {
+  "label": "correct",
+  "reason": "Difference 1 (4 translations vs 3 hotline languages); matches."
+ },
+ "PA-064": {
+  "label": "correct",
+  "reason": "Phishing reporting (2 hours) stricter; matches."
+ },
+ "PA-065": {
+  "label": "correct",
+  "reason": "4 times (4 h vs 1 h); matches."
+ },
+ "PA-066": {
+  "label": "correct",
+  "reason": "8 vs 3 years, difference 5; matches."
+ },
+ "PA-067": {
+  "label": "correct",
+  "reason": "Yes, both 6 months; matches."
+ },
+ "PA-068": {
+  "label": "correct",
+  "reason": "10 times (60/6 months); matches."
+ },
+ "PA-069": {
+  "label": "correct",
+  "reason": "4 times (24h vs 6h) matches."
+ },
+ "PA-070": {
+  "label": "correct",
+  "reason": "Yes, both 7 days."
+ },
+ "PA-071": {
+  "label": "correct",
+  "reason": "4 panelists, 2 women (50%), exceeds 30% target; extra 42% detail fine."
+ },
+ "PA-072": {
+  "label": "correct",
+  "reason": "Target 60, selected 54, 90%."
+ },
+ "PA-073": {
+  "label": "correct",
+  "reason": "80% individual, 85% department, department higher by 5."
+ },
+ "PA-074": {
+  "label": "correct",
+  "reason": "30 days; 25% (3 of 12)."
+ },
+ "PA-075": {
+  "label": "correct",
+  "reason": "10-14%, Rs 10,84,800, within range."
+ },
+ "PA-076": {
+  "label": "correct",
+  "reason": "20% limit; 22% needed CHRO and CEO approval."
+ },
+ "PA-077": {
+  "label": "correct",
+  "reason": "5% threshold, ~6.2% gap, ~3.4% (Rs 55,000) remaining."
+ },
+ "PA-078": {
+  "label": "correct",
+  "reason": "Band and Rs 6,82,500 within band match."
+ },
+ "PA-079": {
+  "label": "correct",
+  "reason": "Rs 2 lakh; Rs 2,60,000 needs department head approval."
+ },
+ "PA-080": {
+  "label": "correct",
+  "reason": "Above Rs 5 lakh; Rs 5,50,000 eligible."
+ },
+ "PA-081": {
+  "label": "correct",
+  "reason": "Above Rs 50,000; Rs 24,700 not sent to legal."
+ },
+ "PA-082": {
+  "label": "correct",
+  "reason": "24 months; ~17 months, within limit."
+ },
+ "PA-083": {
+  "label": "correct",
+  "reason": "12 minimum; 14 characters; complies."
+ },
+ "PA-084": {
+  "label": "correct",
+  "reason": "Phishing window 8 times longer (120 vs 15 min)."
+ },
+ "PA-085": {
+  "label": "correct",
+  "reason": "1h and 6h, 5 hour difference."
+ },
+ "PA-086": {
+  "label": "correct",
+  "reason": "5 and 3 years, difference 2."
+ },
+ "PA-087": {
+  "label": "correct",
+  "reason": "Above Rs 25 lakh; Rs 27 lakh Level 3; 60 working days."
+ },
+ "PA-088": {
+  "label": "correct",
+  "reason": "25 working days; example also 25; matches."
+ },
+ "PA-089": {
+  "label": "correct",
+  "reason": "Rs 25 lakh threshold; Rs 2 lakh above."
+ },
+ "PA-090": {
+  "label": "correct",
+  "reason": "30 working days (10+20)."
+ },
+ "TA-001": {
+  "label": "correct",
+  "reason": "Yes, both 15 working days."
+ },
+ "TA-002": {
+  "label": "correct",
+  "reason": "Yes, both eight."
+ },
+ "TA-003": {
+  "label": "correct",
+  "reason": "No; JG4 below level six."
+ },
+ "TA-004": {
+  "label": "correct",
+  "reason": "About 16.7% (15/90)."
+ },
+ "TA-005": {
+  "label": "correct",
+  "reason": "About 150 days remain."
+ },
+ "TA-006": {
+  "label": "correct",
+  "reason": "Yes, six within 4-7."
+ },
+ "TA-007": {
+  "label": "correct",
+  "reason": "SVS higher by 12 points (82 vs 70)."
+ },
+ "TA-008": {
+  "label": "correct",
+  "reason": "Yes, both seven."
+ },
+ "TA-009": {
+  "label": "correct",
+  "reason": "Below 5% and eNPS +22, both KPIs."
+ },
+ "TA-010": {
+  "label": "correct",
+  "reason": "Yes, both six months."
+ },
+ "TA-011": {
+  "label": "correct",
+  "reason": "Later; ~June 21 vs IDP draft May 31."
+ },
+ "TA-012": {
+  "label": "correct",
+  "reason": "Induction records 3 years longer than STS 2 years, by one year."
+ },
+ "TA-013": {
+  "label": "correct",
+  "reason": "4 vs 6 per year, award more frequent, 35% performance criterion."
+ },
+ "TA-014": {
+  "label": "correct",
+  "reason": "Yes, both annual."
+ },
+ "TA-015": {
+  "label": "correct",
+  "reason": "Yes, both 24 months."
+ },
+ "TA-016": {
+  "label": "correct",
+  "reason": "Yes, both two hours."
+ },
+ "TA-017": {
+  "label": "correct",
+  "reason": "Induction 21 days shorter by 9 days."
+ },
+ "TA-018": {
+  "label": "correct",
+  "reason": "Yes, both eight years."
+ },
+ "TA-019": {
+  "label": "correct",
+  "reason": "Same four morning activities listed."
+ },
+ "TA-020": {
+  "label": "correct",
+  "reason": "Invention disclosure longer by 8 days."
+ },
+ "TA-021": {
+  "label": "correct",
+  "reason": "Yes, both 24 hours."
+ },
+ "TA-022": {
+  "label": "correct",
+  "reason": "3 employees (6/2)."
+ },
+ "TA-023": {
+  "label": "correct",
+  "reason": "7 days before joining; 2 hours."
+ },
+ "TA-024": {
+  "label": "correct",
+  "reason": "BCM twice yearly is more frequent."
+ },
+ "TA-025": {
+  "label": "correct",
+  "reason": "Yes, both 90 days."
+ },
+ "TA-026": {
+  "label": "correct",
+  "reason": "Buddy requirement one year, six months more."
+ },
+ "TA-027": {
+  "label": "correct",
+  "reason": "Yes, both two."
+ },
+ "TA-028": {
+  "label": "correct",
+  "reason": "15 working days vs 15 days; not same duration matches."
+ },
+ "TA-029": {
+  "label": "correct",
+  "reason": "Mid-cycle revision faster, 10 vs 15 working days."
+ },
+ "TA-030": {
+  "label": "correct",
+  "reason": "JEC training 4 times longer (16 vs 4 hours)."
+ },
+ "TA-031": {
+  "label": "correct",
+  "reason": "About 7.3 times (22/3)."
+ },
+ "TA-032": {
+  "label": "correct",
+  "reason": "About 13 HRBPs (1900/150)."
+ },
+ "TA-033": {
+  "label": "correct",
+  "reason": "Department head session longer by 15 minutes."
+ },
+ "TA-034": {
+  "label": "correct",
+  "reason": "Template library annual, more frequent than 3-yearly."
+ },
+ "TA-035": {
+  "label": "correct",
+  "reason": "SELC 2 years higher, four times JD-RR 6 months."
+ },
+ "TA-036": {
+  "label": "correct",
+  "reason": "Service obligation (12/18 months) longer than 6 months."
+ },
+ "TA-037": {
+  "label": "correct",
+  "reason": "Newcomer award window 12 months longer than 6."
+ },
+ "TA-038": {
+  "label": "correct",
+  "reason": "Three times (15 vs 5 years)."
+ },
+ "TA-039": {
+  "label": "correct",
+  "reason": "93.65, JG8; Rs 50,000 prize etc.; grade irrelevant."
+ },
+ "TA-040": {
+  "label": "correct",
+  "reason": "JEC appeal 15 working days faster than 30 days."
+ },
+ "TA-041": {
+  "label": "correct",
+  "reason": "IC 5 exceeds JEC minimum 3 by two."
+ },
+ "TA-042": {
+  "label": "correct",
+  "reason": "POSH appeal 90 days longer."
+ },
+ "TA-043": {
+  "label": "correct",
+  "reason": "Yes, both 7 years."
+ },
+ "TA-044": {
+  "label": "correct",
+  "reason": "10% sample; 5 years."
+ },
+ "TA-045": {
+  "label": "correct",
+  "reason": "Board of directors approval; quarterly; yes."
+ },
+ "TA-046": {
+  "label": "correct",
+  "reason": "Yes, both every two years."
+ },
+ "TA-047": {
+  "label": "correct",
+  "reason": "5,000 employees and Rs 5 lakh; digit 5 shared."
+ },
+ "TA-048": {
+  "label": "correct",
+  "reason": "Critical role analysis semi-annual, more frequent."
+ },
+ "TA-049": {
+  "label": "correct",
+  "reason": "Translation 10 working days longer than 5."
+ },
+ "TA-050": {
+  "label": "correct",
+  "reason": "10 working days = 14 days vs 15 days; DPO 1 day longer matches."
+ },
+ "TA-051": {
+  "label": "correct",
+  "reason": "Equal at six; caveat does not change main answer."
+ },
+ "TA-052": {
+  "label": "correct",
+  "reason": "Later (third Friday 15-21 vs April 15)."
+ },
+ "TA-053": {
+  "label": "correct",
+  "reason": "Goal-setting window April 16 first within FY."
+ },
+ "TA-054": {
+  "label": "correct",
+  "reason": "Yes, October; on last day or after review window."
+ },
+ "TA-055": {
+  "label": "correct",
+  "reason": "Yes, both seven years."
+ },
+ "TA-056": {
+  "label": "correct",
+  "reason": "Maximum two revisions."
+ },
+ "TA-057": {
+  "label": "correct",
+  "reason": "10 bonus points; 70% target."
+ },
+ "TA-058": {
+  "label": "correct",
+  "reason": "Yes, both two."
+ },
+ "TA-059": {
+  "label": "correct",
+  "reason": "~60% vs 45%, business goals higher by 15."
+ },
+ "TA-060": {
+  "label": "correct",
+  "reason": "Yes, proration concept; 6 months and Rs 2,500/year."
+ },
+ "TA-061": {
+  "label": "correct",
+  "reason": "Six times (90 vs 15 days)."
+ },
+ "TA-062": {
+  "label": "correct",
+  "reason": "Yes, 15 days shorter than monthly interval."
+ },
+ "TA-063": {
+  "label": "correct",
+  "reason": "Seven questions exceed five IC members by two."
+ },
+ "TA-064": {
+  "label": "correct",
+  "reason": "Goal records 7 years, longer by 2."
+ },
+ "TA-065": {
+  "label": "correct",
+  "reason": "IEC 45 days longer by 15."
+ },
+ "TA-066": {
+  "label": "correct",
+  "reason": "Yes, both 10 working days."
+ },
+ "TA-067": {
+  "label": "correct",
+  "reason": "AAR 30 days, twice as long."
+ },
+ "TA-068": {
+  "label": "correct",
+  "reason": "35% vs 30%, goal cap higher by 5."
+ },
+ "TA-069": {
+  "label": "correct",
+  "reason": "Training cohort 10-15 exceeds first-aid minimum 6."
+ },
+ "TA-070": {
+  "label": "correct",
+  "reason": "Newsletter first week of April comes first."
+ },
+ "TA-071": {
+  "label": "correct",
+  "reason": "Five goals vs four chapters, one more."
+ },
+ "TA-072": {
+  "label": "correct",
+  "reason": "Yes, both seven years."
+ },
+ "TA-073": {
+  "label": "correct",
+  "reason": "STS 24 months longer by 6."
+ },
+ "TA-074": {
+  "label": "correct",
+  "reason": "2.25 (45,000/20,000)."
+ },
+ "TA-075": {
+  "label": "correct",
+  "reason": "Both 3 hours; coincidence."
+ },
+ "TA-076": {
+  "label": "correct",
+  "reason": "About 16.7%."
+ },
+ "TA-077": {
+  "label": "correct",
+  "reason": "+35 and Rs 35,000; coincidence, not same purpose."
+ },
+ "TA-078": {
+  "label": "correct",
+  "reason": "30 days (90-60)."
+ },
+ "TA-079": {
+  "label": "correct",
+  "reason": "45 and 120 minutes, ratio ~2.67 matches reference."
+ },
+ "TA-080": {
+  "label": "correct",
+  "reason": "18 vs 36 months, 2x matches."
+ },
+ "TA-081": {
+  "label": "correct",
+  "reason": "Both 90 days, coincidence; matches."
+ },
+ "TA-082": {
+  "label": "correct",
+  "reason": "60 days (~2 months) vs 60 months, not comparable, ~30x; matches."
+ },
+ "TA-083": {
+  "label": "correct",
+  "reason": "45,000 + 25,000 = 70,000 matches."
+ },
+ "TA-084": {
+  "label": "correct",
+  "reason": "Both 15 days, coincidence; matches."
+ },
+ "TA-085": {
+  "label": "correct",
+  "reason": "Both 5 working days, different processes; matches."
+ },
+ "TA-086": {
+  "label": "correct",
+  "reason": "36 months, quarterly meetings, 12 times; matches."
+ },
+ "TA-087": {
+  "label": "correct",
+  "reason": "85% - 15% = 70 points matches."
+ },
+ "TA-088": {
+  "label": "correct",
+  "reason": "22/6 ~ 3.67 matches."
+ },
+ "TA-089": {
+  "label": "correct",
+  "reason": "90% - 70% = 20 points matches."
+ },
+ "TA-090": {
+  "label": "correct",
+  "reason": "eNPS 2021 earlier by 2 years; matches."
+ },
+ "TA-091": {
+  "label": "correct",
+  "reason": "1,20,000 - 1,00,000 = 20,000; matches."
+ },
+ "TA-092": {
+  "label": "correct",
+  "reason": "Both 20,000, different purposes; matches."
+ },
+ "TA-093": {
+  "label": "correct",
+  "reason": "Both 2 years, coincidence; matches."
+ },
+ "TA-094": {
+  "label": "correct",
+  "reason": "Both 95%, coincidence; matches main points."
+ },
+ "TA-095": {
+  "label": "correct",
+  "reason": "16 vs 8 hours, 2x; matches."
+ },
+ "TA-096": {
+  "label": "correct",
+  "reason": "7 vs 8 years, 1 year difference; matches."
+ },
+ "TA-097": {
+  "label": "correct",
+  "reason": "3 vs 7 years, 4 years; matches."
+ },
+ "TA-098": {
+  "label": "correct",
+  "reason": "Both 25,000, different purposes; matches."
+ },
+ "TA-099": {
+  "label": "correct",
+  "reason": "18/9 = 2x matches."
+ },
+ "TA-100": {
+  "label": "correct",
+  "reason": "Both 6 months, coincidence; matches."
+ },
+ "TA-101": {
+  "label": "correct",
+  "reason": "88% - 85% = 3 points matches."
+ },
+ "TA-102": {
+  "label": "correct",
+  "reason": "LDC 3, BCM 1 per quarter; matches."
+ },
+ "TA-103": {
+  "label": "correct",
+  "reason": "18 lakh / 3.5 lakh ~ 5.14 matches."
+ },
+ "TA-104": {
+  "label": "correct",
+  "reason": "Both 1,50,000, separate policies; matches."
+ },
+ "TA-105": {
+  "label": "correct",
+  "reason": "2016 to 2020, 4 years; matches."
+ },
+ "TA-106": {
+  "label": "correct",
+  "reason": "7,500 / 2,500 = 3x matches."
+ },
+ "TA-107": {
+  "label": "correct",
+  "reason": "HR Head vs Managing Director, not same; matches."
+ },
+ "TA-108": {
+  "label": "correct",
+  "reason": "90 - 30 = 60 days matches."
+ },
+ "TA-109": {
+  "label": "correct",
+  "reason": "24 - 18 = 6 months matches."
+ },
+ "TA-110": {
+  "label": "correct",
+  "reason": "1.8% vs 100% (98% floor), different bases; matches."
+ },
+ "TA-111": {
+  "label": "correct",
+  "reason": "1,00,000 / 20,000 = 5x matches."
+ },
+ "TA-112": {
+  "label": "correct",
+  "reason": "3 vs 2 per year, difference 1; matches."
+ },
+ "TA-113": {
+  "label": "correct",
+  "reason": "14 / 7 = 2x matches; extra alternative noted."
+ },
+ "TA-114": {
+  "label": "correct",
+  "reason": "10 - 1 = 9 days matches."
+ },
+ "TA-115": {
+  "label": "correct",
+  "reason": "25,000 - 7,500 = 17,500 matches."
+ },
+ "TA-116": {
+  "label": "correct",
+  "reason": "60,000 - 50,000 = 10,000 matches."
+ },
+ "TA-117": {
+  "label": "correct",
+  "reason": "15 / 1 = 15x matches."
+ },
+ "TA-118": {
+  "label": "correct",
+  "reason": "3 months vs 90 days, coincidence; matches."
+ },
+ "TA-119": {
+  "label": "correct",
+  "reason": "Both 8 years, legal-evidence preservation; matches."
+ },
+ "TA-120": {
+  "label": "correct",
+  "reason": "Main answer 12 meetings matches; alternative noted."
+ },
+ "TA-121": {
+  "label": "correct",
+  "reason": "Both 90 days, unrelated; matches."
+ },
+ "TA-122": {
+  "label": "correct",
+  "reason": "Both 48 hours, coincidence; matches."
+ },
+ "TA-123": {
+  "label": "correct",
+  "reason": "4 / 2 = 2x matches."
+ },
+ "TA-124": {
+  "label": "correct",
+  "reason": "Both 90 days, coincidence; matches."
+ },
+ "TA-125": {
+  "label": "correct",
+  "reason": "6 - 5 = 1 matches."
+ },
+ "TA-126": {
+  "label": "correct",
+  "reason": "Law 2013 precedes 2016 by 3 years; matches."
+ },
+ "TA-127": {
+  "label": "correct",
+  "reason": "Both 72 hours, not common policy; matches."
+ },
+ "TA-128": {
+  "label": "correct",
+  "reason": "Both twice yearly, semi-annual cycle; matches."
+ },
+ "TA-129": {
+  "label": "correct",
+  "reason": "18 / 6 = 3x matches."
+ },
+ "TA-130": {
+  "label": "correct",
+  "reason": "Both 30 days, 100% target, unrelated; matches."
+ },
+ "TA-131": {
+  "label": "correct",
+  "reason": "DPDP Act 2023, consent every two years, same law; matches."
+ },
+ "TA-132": {
+  "label": "correct",
+  "reason": "97% - 92% = 5 points matches."
+ },
+ "TA-133": {
+  "label": "correct",
+  "reason": "8 lakh / 75,000 ~ 10.67 matches."
+ },
+ "TA-134": {
+  "label": "correct",
+  "reason": "6 / 3 = 2x matches."
+ },
+ "TA-135": {
+  "label": "correct",
+  "reason": "Both twice yearly, coincidence; matches."
+ },
+ "TA-136": {
+  "label": "correct",
+  "reason": "7 calendar + 15 working days, ~4 weeks; matches."
+ },
+ "TA-137": {
+  "label": "correct",
+  "reason": "10 working days vs 30 days, numeric difference 20; matches."
+ },
+ "TA-138": {
+  "label": "correct",
+  "reason": "Both 2, coincidence; matches."
+ },
+ "TA-139": {
+  "label": "correct",
+  "reason": "90 / 30 = 3x matches."
+ },
+ "TA-140": {
+  "label": "correct",
+  "reason": "8 x 6 = 48 matches."
+ },
+ "TA-141": {
+  "label": "correct",
+  "reason": "30 days vs 10 working days, numeric 20; matches."
+ },
+ "TA-142": {
+  "label": "correct",
+  "reason": "1,400 x 25% = 350 words matches."
+ },
+ "TA-143": {
+  "label": "correct",
+  "reason": "4 sessions; MD board approval for JG8; matches."
+ },
+ "TA-144": {
+  "label": "correct",
+  "reason": "Average 5.5 goals, April 16-30 window; matches."
+ },
+ "TA-145": {
+  "label": "correct",
+  "reason": "Last 17 days, March 15-31; matches."
+ },
+ "TA-146": {
+  "label": "correct",
+  "reason": "Mid-year review only, October 1-15; matches."
+ },
+ "TA-147": {
+  "label": "correct",
+  "reason": "10 x 60% = 6 points matches."
+ },
+ "TA-148": {
+  "label": "correct",
+  "reason": "52 / 7 ~ 7.43 matches reference ~7.4."
+ },
+ "TA-149": {
+  "label": "correct",
+  "reason": "540 / 60 = 9x matches."
+ },
+ "TA-150": {
+  "label": "correct",
+  "reason": "1,20,000 / 45,000 ~ 2.67 matches."
+ },
+ "TA-151": {
+  "label": "correct",
+  "reason": "82%, eNPS<0 two cycles, Watch List with 60-day plan; matches."
+ },
+ "TA-152": {
+  "label": "correct",
+  "reason": "3 - 2 = 1 year matches."
+ },
+ "TA-153": {
+  "label": "correct",
+  "reason": "1,20,000 / 20,000 = 6x matches."
+ },
+ "TA-154": {
+  "label": "correct",
+  "reason": "6-9 and 6-12 months, overlap 6-9; matches."
+ },
+ "TA-155": {
+  "label": "correct",
+  "reason": "150 x 95% = 142.5, ~142-143; matches."
+ },
+ "TA-156": {
+  "label": "correct",
+  "reason": "50,000 / 20,000 = 2.5x matches."
+ },
+ "TA-157": {
+  "label": "correct",
+  "reason": "35,000 - 10,000 = 25,000 matches."
+ },
+ "TA-158": {
+  "label": "correct",
+  "reason": "7,500 / 1,000 = 7.5x matches."
+ },
+ "TA-159": {
+  "label": "correct",
+  "reason": "Both four weeks, coincidence; matches."
+ },
+ "TA-160": {
+  "label": "correct",
+  "reason": "3 months + 90 days, ~180 days; matches."
+ },
+ "TA-161": {
+  "label": "correct",
+  "reason": "8 reports, each due January 31; matches."
+ },
+ "TA-162": {
+  "label": "correct",
+  "reason": "At least 36 meetings matches."
+ },
+ "TA-163": {
+  "label": "correct",
+  "reason": "100 - 90 = 10 days matches."
+ },
+ "TA-164": {
+  "label": "correct",
+  "reason": "60 / 6 months = 10x matches."
+ },
+ "TA-165": {
+  "label": "correct",
+  "reason": "4 + 5 = 9 matches."
+ },
+ "TA-166": {
+  "label": "correct",
+  "reason": "72 hours vs 6 PM last day, not comparable; matches."
+ },
+ "TA-167": {
+  "label": "correct",
+  "reason": "40 x 45 = 1,800 days matches."
+ },
+ "TA-168": {
+  "label": "correct",
+  "reason": "4 + 3 = 7 matches."
+ },
+ "TA-169": {
+  "label": "correct",
+  "reason": "3 working days, 24 hours = 1 day, difference 2 matches."
+ },
+ "TA-170": {
+  "label": "correct",
+  "reason": "Both six, not common policy; matches."
+ },
+ "TA-171": {
+  "label": "correct",
+  "reason": "Both 45 minutes, not coincidental; matches."
+ },
+ "TA-172": {
+  "label": "correct",
+  "reason": "180 / 90 = 2x matches."
+ },
+ "TA-173": {
+  "label": "correct",
+  "reason": "18 + 8 = 26 lakh matches."
+ },
+ "TA-174": {
+  "label": "correct",
+  "reason": "70% - 38% = 32 points matches."
+ },
+ "TA-175": {
+  "label": "correct",
+  "reason": "Both 30 days, unrelated; matches."
+ },
+ "TA-176": {
+  "label": "correct",
+  "reason": "Numeric 15 with unit caveat; matches."
+ },
+ "TA-177": {
+  "label": "correct",
+  "reason": "1,400 / 8 = 175 words matches."
+ },
+ "TA-178": {
+  "label": "correct",
+  "reason": "90 / 10 = 9x numerically matches."
+ },
+ "TA-179": {
+  "label": "correct",
+  "reason": "About 40% (168/420), notes slightly less."
+ },
+ "TA-180": {
+  "label": "correct",
+  "reason": "180+ and 180; different programs."
+ },
+ "TE-001": {
+  "label": "correct",
+  "reason": "LOA 5 working days vs PIP 3; LOA longer by 2."
+ },
+ "TE-002": {
+  "label": "correct",
+  "reason": "About 14 days remaining, matches."
+ },
+ "TE-003": {
+  "label": "correct",
+  "reason": "365-105 = about 260 days."
+ },
+ "TE-004": {
+  "label": "correct",
+  "reason": "Subject to PIP; not LOA eligible (24 months needed)."
+ },
+ "TE-005": {
+  "label": "correct",
+  "reason": "30 days, KPI 50 days, 80 days advance matches."
+ },
+ "TE-006": {
+  "label": "correct",
+  "reason": "18 more months."
+ },
+ "TE-007": {
+  "label": "correct",
+  "reason": "30-day notice, 5 working days = 7 calendar days, notice longer by 23 days; matches reference."
+ },
+ "TE-008": {
+  "label": "correct",
+  "reason": "No; 7 years vs annual April review."
+ },
+ "TE-009": {
+  "label": "correct",
+  "reason": "About 194 days."
+ },
+ "TE-010": {
+  "label": "correct",
+  "reason": "Rs 20,000 reduction to 40,000; economy class."
+ },
+ "TE-011": {
+  "label": "correct",
+  "reason": "Sabbatical minimum longer by ~76 days."
+ },
+ "TE-012": {
+  "label": "correct",
+  "reason": "Trip approval expires first, ~320 days earlier."
+ },
+ "TE-013": {
+  "label": "correct",
+  "reason": "15 working days; notes number matches but working vs calendar differs."
+ },
+ "TE-014": {
+  "label": "correct",
+  "reason": "6 months; lactation room mandatory."
+ },
+ "TE-015": {
+  "label": "correct",
+  "reason": "Leave records longer by ~2,830 days."
+ },
+ "TE-016": {
+  "label": "correct",
+  "reason": "Yes, both every 2 years."
+ },
+ "TE-017": {
+  "label": "correct",
+  "reason": "90 days extension; EAP continues."
+ },
+ "TE-018": {
+  "label": "correct",
+  "reason": "30-day reintegration; smooth re-entry program not applicable."
+ },
+ "TE-019": {
+  "label": "correct",
+  "reason": "6 months extension; sessions within 6 months of return."
+ },
+ "TE-020": {
+  "label": "correct",
+  "reason": "EAP 30 days longer by 15 days."
+ },
+ "TE-021": {
+  "label": "correct",
+  "reason": "Both waive 5-year rule; consistent."
+ },
+ "TE-022": {
+  "label": "correct",
+  "reason": "4 more months."
+ },
+ "TE-023": {
+  "label": "correct",
+  "reason": "60 days encashed; no LOA/sabbatical encashment."
+ },
+ "TE-024": {
+  "label": "correct",
+  "reason": "50% repayment; 6-month instalment plan."
+ },
+ "TE-025": {
+  "label": "correct",
+  "reason": "Both 6 months, equal, PIP condition met at probation end matches."
+ },
+ "TE-026": {
+  "label": "correct",
+  "reason": "15-day notice; no new PIP."
+ },
+ "TE-027": {
+  "label": "correct",
+  "reason": "90 minutes; within 60 days."
+ },
+ "TE-028": {
+  "label": "correct",
+  "reason": "6-month cooling; 12 months in role."
+ },
+ "TE-029": {
+  "label": "correct",
+  "reason": "10 working days notice; trip before day-35 review."
+ },
+ "TE-030": {
+  "label": "correct",
+  "reason": "Both 3; coincidental, no relation."
+ },
+ "TE-031": {
+  "label": "correct",
+  "reason": "Next check-in day 19; insurance deadline earlier."
+ },
+ "TE-032": {
+  "label": "correct",
+  "reason": "About 6 check-ins; 1 re-briefing call."
+ },
+ "TE-033": {
+  "label": "correct",
+  "reason": "25%."
+ },
+ "TE-034": {
+  "label": "correct",
+  "reason": "PIP retention 3 years longer by 1 year."
+ },
+ "TE-035": {
+  "label": "correct",
+  "reason": "No new PIP; access deactivated at last day."
+ },
+ "TE-036": {
+  "label": "correct",
+  "reason": "Both twice yearly; coincidental."
+ },
+ "TE-037": {
+  "label": "correct",
+  "reason": "More than 3 days; 6 free sessions."
+ },
+ "TE-038": {
+  "label": "correct",
+  "reason": "Below 55%; referral possible, not mandatory."
+ },
+ "TE-039": {
+  "label": "correct",
+  "reason": "7 hours total."
+ },
+ "TE-040": {
+  "label": "correct",
+  "reason": "5 working days; 3 minutes."
+ },
+ "TE-041": {
+  "label": "correct",
+  "reason": "Unsatisfactory category; no bonus."
+ },
+ "TE-042": {
+  "label": "correct",
+  "reason": "6-month cooling; 90-day condition met."
+ },
+ "TE-043": {
+  "label": "correct",
+  "reason": "F&F 8 years longer by 5 years."
+ },
+ "TE-044": {
+  "label": "correct",
+  "reason": "Both 5%; coincidental."
+ },
+ "TE-045": {
+  "label": "correct",
+  "reason": "Reimbursable up to ₹1,500 (60>50 km); rail guideline applies under 400 km; matches reference."
+ },
+ "TE-046": {
+  "label": "correct",
+  "reason": "Cost-per-hire Rs 2 lakh is 2x."
+ },
+ "TE-047": {
+  "label": "correct",
+  "reason": "CHRO+CEO higher; trip approvers match."
+ },
+ "TE-048": {
+  "label": "correct",
+  "reason": "Bulk drive 20 higher than group 5."
+ },
+ "TE-049": {
+  "label": "correct",
+  "reason": "Probation continues; about 3 months left."
+ },
+ "TE-050": {
+  "label": "correct",
+  "reason": "Background check faster by 5 working days."
+ },
+ "TE-051": {
+  "label": "correct",
+  "reason": "Both about 6 months; coincidental."
+ },
+ "TE-052": {
+  "label": "correct",
+  "reason": "12 months; permanent cabin ~110 sq ft."
+ },
+ "TE-053": {
+  "label": "correct",
+  "reason": "Both 6 months; coincidental."
+ },
+ "TE-054": {
+  "label": "correct",
+  "reason": "Career break 12 months, 2x EAP 6 months."
+ },
+ "TE-055": {
+  "label": "correct",
+  "reason": "Number 15 shared (days vs minutes); no relation."
+ },
+ "TE-056": {
+  "label": "correct",
+  "reason": "One week before; within 90 days."
+ },
+ "TE-057": {
+  "label": "correct",
+  "reason": "Buyback applies; gross/30 x shortfall days."
+ },
+ "TE-058": {
+  "label": "correct",
+  "reason": "20-day shortfall; Rs 50,000."
+ },
+ "TE-059": {
+  "label": "correct",
+  "reason": "10% CHRO; Rs 5 lakh Finance head; threshold escalation."
+ },
+ "TE-060": {
+  "label": "correct",
+  "reason": "F&F 95% stricter by 7 points."
+ },
+ "TE-061": {
+  "label": "correct",
+  "reason": "Pre-booked vehicle with placard driver; free reserved slot."
+ },
+ "TE-062": {
+  "label": "correct",
+  "reason": "Not same; arrangements match gold."
+ },
+ "TE-063": {
+  "label": "correct",
+  "reason": "Travel upgrade 3 working days faster."
+ },
+ "TE-064": {
+  "label": "correct",
+  "reason": "Itinerary-level opt-in app; CCTV 24x7, 90 days."
+ },
+ "TE-065": {
+  "label": "correct",
+  "reason": "Red-zone CXO approval higher; CID by HoD/HRBP."
+ },
+ "TE-066": {
+  "label": "correct",
+  "reason": "Both 24x7; different scope."
+ },
+ "TE-067": {
+  "label": "correct",
+  "reason": "EAP 3 minutes faster by 12."
+ },
+ "TE-068": {
+  "label": "correct",
+  "reason": "150 days difference."
+ },
+ "TE-069": {
+  "label": "correct",
+  "reason": "No company cover on extension; medical ends at last-day midnight."
+ },
+ "TE-070": {
+  "label": "correct",
+  "reason": "Employee bears; higher of depreciated or replacement value."
+ },
+ "TE-071": {
+  "label": "correct",
+  "reason": "3 working days pre-departure; 10 working days post last day."
+ },
+ "TE-072": {
+  "label": "correct",
+  "reason": "Visa KPI stricter, half."
+ },
+ "TE-073": {
+  "label": "correct",
+  "reason": "9am-7pm; 14 hours gap; EAP available."
+ },
+ "TE-074": {
+  "label": "correct",
+  "reason": "Results to employee only; EAP needs consent; confidentiality principle."
+ },
+ "TE-075": {
+  "label": "correct",
+  "reason": "10% staff coverage; 20 CPD hours yearly."
+ },
+ "TE-076": {
+  "label": "correct",
+  "reason": "April and October; coincidental."
+ },
+ "TE-077": {
+  "label": "correct",
+  "reason": "Last working day; 45 days; gap ~45 days."
+ },
+ "TE-078": {
+  "label": "correct",
+  "reason": "Rs 500, 24 hours; higher of depreciated/replacement."
+ },
+ "TE-079": {
+  "label": "correct",
+  "reason": "F&F 8 years longer by 6."
+ },
+ "TE-080": {
+  "label": "correct",
+  "reason": "Gratuity 98% stricter by 18 points."
+ },
+ "TE-081": {
+  "label": "correct",
+  "reason": "No EAP at day 45; 15-day gap."
+ },
+ "TE-082": {
+  "label": "correct",
+  "reason": "F&F 8 years longer by 1."
+ },
+ "TE-083": {
+  "label": "correct",
+  "reason": "Both 30 days; coincidental."
+ },
+ "TE-084": {
+  "label": "correct",
+  "reason": "Within 2 years, 3 sessions; 5-year rule applies."
+ },
+ "TE-085": {
+  "label": "correct",
+  "reason": "First level, manager+HRBP; 18 days annual leave."
+ },
+ "TE-086": {
+  "label": "correct",
+  "reason": "5 working days; first 90 days premium."
+ },
+ "TE-087": {
+  "label": "correct",
+  "reason": "5 years service; 12-month bond."
+ },
+ "TE-088": {
+  "label": "correct",
+  "reason": "6 months to Dec 31; backfill by June 1."
+ },
+ "TE-089": {
+  "label": "correct",
+  "reason": "Insufficient (60% needed); about 1 year left."
+ },
+ "TE-090": {
+  "label": "correct",
+  "reason": "75%; gratuity eligible via waiver."
+ },
+ "TE-091": {
+  "label": "correct",
+  "reason": "Two consecutive unsatisfactory cycles; 75 days."
+ },
+ "TE-092": {
+  "label": "correct",
+  "reason": "PIP day 35 and 44 calendar days from notice match."
+ },
+ "TE-093": {
+  "label": "correct",
+  "reason": "5 check-ins + 3 skip-level = 8."
+ },
+ "TE-094": {
+  "label": "correct",
+  "reason": "6 months cooling."
+ },
+ "TE-095": {
+  "label": "correct",
+  "reason": "Retake after 2 weeks; must pass, KPI 100%."
+ },
+ "TE-096": {
+  "label": "correct",
+  "reason": "25 working days."
+ },
+ "TE-097": {
+  "label": "correct",
+  "reason": "Grade 6+; CHRO + CEO approval."
+ },
+ "TE-098": {
+  "label": "correct",
+  "reason": "Rs 12.5-16.5 lakh; exceeds Rs 75,000."
+ },
+ "TE-099": {
+  "label": "correct",
+  "reason": "60/100 minimum, 65 composite, yes higher scores needed elsewhere; matches."
+ },
+ "TE-100": {
+  "label": "correct",
+  "reason": "25% weightage; 20 > 15 so third evaluator needed; matches."
+ },
+ "TE-101": {
+  "label": "correct",
+  "reason": "10 working days, 95%, 5% penalty after two consecutive quarters; matches."
+ },
+ "TE-102": {
+  "label": "correct",
+  "reason": "Offer lapses after 7+7 days; withdrawal after 45 days; matches."
+ },
+ "TE-103": {
+  "label": "correct",
+  "reason": "3 working days minus 4 hours remain; matches reference."
+ },
+ "TE-104": {
+  "label": "correct",
+  "reason": "Dept head + HR head approval, employee pays; booking not confirmed; matches."
+ },
+ "TE-105": {
+  "label": "correct",
+  "reason": "Yes (>3 trips); 15-18 trips/year, 3 years, Platinum Elite; matches."
+ },
+ "TE-106": {
+  "label": "correct",
+  "reason": "Normal approval insufficient; whole trip needs red-tier/CXO process; matches."
+ },
+ "TE-107": {
+  "label": "correct",
+  "reason": "16% discount, 4 points above 12% KPI; matches."
+ },
+ "TE-108": {
+  "label": "correct",
+  "reason": "Dept head + HR head + finance head signature; manager written pre-booking approval; matches."
+ },
+ "TE-109": {
+  "label": "correct",
+  "reason": "Permanent cabin ~110 sq ft; free assigned slot near entrance; matches."
+ },
+ "TE-110": {
+  "label": "correct",
+  "reason": "Rs 3,000, no carry-forward, flagged for 6 transactions; matches."
+ },
+ "TE-111": {
+  "label": "correct",
+  "reason": "1,800 capacity, yes, three rooms on different floors; matches."
+ },
+ "TE-112": {
+  "label": "correct",
+  "reason": "9 campuses in 6 cities; 2 pending by March 2026; matches."
+ },
+ "TE-113": {
+  "label": "correct",
+  "reason": "24 seats, top of 12-24 range; matches."
+ },
+ "TE-114": {
+  "label": "correct",
+  "reason": "40/35/25 weights; not renewed (65 < 70); matches."
+ },
+ "TE-115": {
+  "label": "correct",
+  "reason": "Senior crisis counsellor; minimal info only on imminent serious harm; matches."
+ },
+ "TE-116": {
+  "label": "correct",
+  "reason": "8 sessions, 2 more than 6, no approval needed; matches."
+ },
+ "TE-117": {
+  "label": "correct",
+  "reason": "Eligible from day one; Rs 400 co-pay per extra session; matches."
+ },
+ "TE-118": {
+  "label": "correct",
+  "reason": "90 days from appointment; affects 95% KPI; matches."
+ },
+ "TE-119": {
+  "label": "correct",
+  "reason": "4 sessions within 6 months; not counted as family share (15% target); matches."
+ },
+ "TE-120": {
+  "label": "correct",
+  "reason": "4 of 6 quorum; 5% penalty after 2 quarters >20% breach; matches."
+ },
+ "TE-121": {
+  "label": "correct",
+  "reason": "60 days max; Rs 25 lakh lifetime limit, exempt within it; matches."
+ },
+ "TE-122": {
+  "label": "correct",
+  "reason": "No bonus; gratuity forfeiture and vested ESOP cancellation possible; matches."
+ },
+ "TE-123": {
+  "label": "correct",
+  "reason": "45-day deadline, interest at 10% p.a. pro-rata for 15 days matches."
+ },
+ "TE-124": {
+  "label": "correct",
+  "reason": "Form F; within 30 calendar days of receiving documents; matches."
+ },
+ "TE-125": {
+  "label": "correct",
+  "reason": "Some options vested after cliff; 90 calendar days to exercise; matches."
+ },
+ "TE-126": {
+  "label": "correct",
+  "reason": "Yes, exceeds Rs 5 lakh; Settlement Review Committee reviews; matches."
+ },
+ "XL-DIS-001": {
+  "label": "correct",
+  "reason": "10 + 3 = 13 working days; matches."
+ },
+ "XL-DIS-002": {
+  "label": "correct",
+  "reason": "5 + 5 = 10 working days; matches."
+ },
+ "XL-DIS-003": {
+  "label": "correct",
+  "reason": "360 vs 90 days; 4 times; matches."
+ },
+ "XL-DIS-004": {
+  "label": "correct",
+  "reason": "180 - 120 = 60 days; matches."
+ },
+ "XL-DIS-005": {
+  "label": "correct",
+  "reason": "5 vs 28; difference 23; roles distinguished; matches."
+ },
+ "XL-DIS-006": {
+  "label": "correct",
+  "reason": "Both 2-year cycles; different subjects; matches."
+ },
+ "XL-DIS-007": {
+  "label": "correct",
+  "reason": "30 vs 7 days; 23 more; matches."
+ },
+ "XL-DIS-008": {
+  "label": "correct",
+  "reason": "Both 7; calendar vs working days; matches."
+ },
+ "XL-DIS-009": {
+  "label": "correct",
+  "reason": "12:24 months = 1:2; matches."
+ },
+ "XL-DIS-010": {
+  "label": "correct",
+  "reason": "6:18 = 1:3; matches."
+ },
+ "XL-DIS-011": {
+  "label": "correct",
+  "reason": "48 hours; two absences; custody as reasonable cause; consistent."
+ },
+ "XL-DIS-012": {
+  "label": "correct",
+  "reason": "3 x 15 = 45 vs 90 days; Hindi larger; matches."
+ },
+ "XL-DIS-013": {
+  "label": "correct",
+  "reason": "45 / 15 = 3 times; matches."
+ },
+ "XL-DIS-014": {
+  "label": "correct",
+  "reason": "Both 10 working days; matches."
+ },
+ "XL-DIS-015": {
+  "label": "correct",
+  "reason": "10 working days; no numeric limit; access-to-records right; matches."
+ },
+ "XL-DIS-016": {
+  "label": "correct",
+  "reason": "Management witnesses first; quorum 3 with chair and member-secretary; matches."
+ },
+ "XL-DIS-017": {
+  "label": "correct",
+  "reason": "3 minor penalties vs more than 2 active inquiries; principles distinguished; matches."
+ },
+ "XL-DIS-018": {
+  "label": "correct",
+  "reason": "Both 5 working days; unrelated; matches."
+ },
+ "XL-DIS-019": {
+  "label": "correct",
+  "reason": "30 working vs 30 calendar days; HR head approval; matches."
+ },
+ "XL-DIS-020": {
+  "label": "correct",
+  "reason": "85% vs 90%; Hindi stricter; matches."
+ },
+ "XL-REC-001": {
+  "label": "correct",
+  "reason": "14 vs 10 working days, 4 more; matches."
+ },
+ "XL-REC-002": {
+  "label": "correct",
+  "reason": "Both 2 references; match confirmed."
+ },
+ "XL-REC-003": {
+  "label": "correct",
+  "reason": "3 referees in both; match confirmed."
+ },
+ "XL-REC-004": {
+  "label": "correct",
+  "reason": "Group 6-8, panel max 5, no direct relation; matches."
+ },
+ "XL-REC-005": {
+  "label": "correct",
+  "reason": "5 vs 8-12; difference 3 to 7; matches."
+ },
+ "XL-REC-006": {
+  "label": "correct",
+  "reason": "45 and 90 days; ratio 1:2 equivalent to gold's 90:45."
+ },
+ "XL-REC-007": {
+  "label": "correct",
+  "reason": "24 months, twice 12 months; matches."
+ },
+ "XL-REC-008": {
+  "label": "correct",
+  "reason": "12 vs 18 months, 6-month difference; matches."
+ },
+ "XL-REC-009": {
+  "label": "correct",
+  "reason": "Both 7 working days; equal."
+ },
+ "XL-REC-010": {
+  "label": "correct",
+  "reason": "6 and 18 months; ratio 1:3; matches."
+ },
+ "XL-REC-011": {
+  "label": "correct",
+  "reason": "18 months vs 6 months; 3 times; matches."
+ },
+ "XL-REC-012": {
+  "label": "correct",
+  "reason": "60% vs 68%; 8 points difference; matches."
+ },
+ "XL-REC-013": {
+  "label": "correct",
+  "reason": "20 working days vs 35-day target; notes differing scope; consistent."
+ },
+ "XL-REC-014": {
+  "label": "correct",
+  "reason": "21 and 120 days; ~5.7, 5 full times; matches."
+ },
+ "XL-REC-015": {
+  "label": "correct",
+  "reason": "5 + 2 = 7 working days; matches."
+ },
+ "XL-REC-016": {
+  "label": "correct",
+  "reason": "7 vs 4 working days; difference 3; matches."
+ },
+ "XL-REC-017": {
+  "label": "correct",
+  "reason": "8 days vs 5 working days; notes unit difference; matches."
+ },
+ "XL-REC-018": {
+  "label": "correct",
+  "reason": "6 months vs 180 days; nearly equal; matches."
+ },
+ "XL-REC-019": {
+  "label": "correct",
+  "reason": "5 years vs 12 months; 5 times; matches."
+ },
+ "XL-REC-020": {
+  "label": "correct",
+  "reason": "2 years = 24 months; match confirmed."
+ },
+ "XL-SEP-001": {
+  "label": "correct",
+  "reason": "6 working days vs 45 days; difference 39, units noted; matches."
+ },
+ "XL-SEP-002": {
+  "label": "correct",
+  "reason": "63:90 = 7:10; matches."
+ },
+ "XL-SEP-003": {
+  "label": "correct",
+  "reason": "60:30 = 2:1; matches."
+ },
+ "XL-SEP-004": {
+  "label": "correct",
+  "reason": "90 days vs 12 working days; no meaningful relation; matches."
+ },
+ "XL-SEP-005": {
+  "label": "correct",
+  "reason": "37 vs 45 days; Bengali stricter; matches."
+ },
+ "XL-SEP-006": {
+  "label": "correct",
+  "reason": "10% p.a., 23 days, interest only after 45 days, not immediately; matches."
+ },
+ "XL-SEP-007": {
+  "label": "correct",
+  "reason": "Both 90 days; coincidental, no relation; matches."
+ },
+ "XL-SEP-008": {
+  "label": "correct",
+  "reason": "Both 6 months; no meaningful relation; matches."
+ },
+ "XL-SEP-009": {
+  "label": "correct",
+  "reason": "60:180 = 1:3; matches."
+ },
+ "XL-SEP-010": {
+  "label": "correct",
+  "reason": "Both 8 years; match confirmed."
+ },
+ "XL-SEP-011": {
+  "label": "correct",
+  "reason": "Both 30 days; not causally linked; matches."
+ },
+ "XL-SEP-012": {
+  "label": "correct",
+  "reason": "365 days ~12 months vs 6 months; double; matches."
+ },
+ "XL-SEP-013": {
+  "label": "correct",
+  "reason": "112:1460 ~ 1:13; matches."
+ },
+ "XL-SEP-014": {
+  "label": "correct",
+  "reason": "45 days vs 45 minutes; coincidental; matches."
+ },
+ "XL-SEP-015": {
+  "label": "correct",
+  "reason": "Both 15 working days; match."
+ },
+ "XL-SEP-016": {
+  "label": "correct",
+  "reason": "Cover ends midnight of last day; 3-month outplacement without cover; matches."
+ },
+ "XL-SEP-017": {
+  "label": "correct",
+  "reason": "80%, higher of depreciated/replacement cost, (a) no liability, (b) recovery, no conflict; matches."
+ },
+ "XL-SEP-018": {
+  "label": "correct",
+  "reason": "Form 16 by June 15 (months later) vs 5 working days; matches."
+ },
+ "XL-SEP-019": {
+  "label": "correct",
+  "reason": "Both 5 working days; match."
+ },
+ "XL-SEP-020": {
+  "label": "correct",
+  "reason": "Both ~12 months; matches."
+ },
+ "XL-TRN-001": {
+  "label": "correct",
+  "reason": "Rs 1,100/hour; counselling first; rate unaffected; matches."
+ },
+ "XL-TRN-002": {
+  "label": "correct",
+  "reason": "5 criteria, 10-point scale; 80 hours max; matches."
+ },
+ "XL-TRN-003": {
+  "label": "correct",
+  "reason": "6 hours x 90% = 5.4 hours; matches."
+ },
+ "XL-TRN-004": {
+  "label": "correct",
+  "reason": "Rs 3 lakh; 2.2%; no direct relation; matches."
+ },
+ "XL-TRN-005": {
+  "label": "correct",
+  "reason": "48 hours; 30/60/90 days; no direct relation; matches."
+ },
+ "XL-TRN-006": {
+  "label": "correct",
+  "reason": "70%, two retakes 24h apart; 12 hours cap; matches."
+ },
+ "XL-TRN-007": {
+  "label": "correct",
+  "reason": "25% cap; written note below 7.0; matches."
+ },
+ "XL-TRN-008": {
+  "label": "correct",
+  "reason": "3 languages; Rs 35,000; coincidental section match; matches."
+ },
+ "XL-TRN-009": {
+  "label": "correct",
+  "reason": "Rs 1,15,000 vs Rs 3 lakh; bond threshold lower; matches."
+ },
+ "XL-TRN-010": {
+  "label": "correct",
+  "reason": "Both 36 months; unrelated; matches."
+ },
+ "XL-TRN-011": {
+  "label": "correct",
+  "reason": "8 vs 10 years; ROI sheet kept longer; matches."
+ },
+ "XL-TRN-012": {
+  "label": "correct",
+  "reason": "Both 7 members; no stated reason; matches."
+ },
+ "XL-TRN-013": {
+  "label": "correct",
+  "reason": "1 per 60; 6 members, third Thursday of quarter's first month; matches."
+ },
+ "XL-TRN-014": {
+  "label": "correct",
+  "reason": "Both 120 days; coincidental; matches."
+ },
+ "XL-TRN-015": {
+  "label": "correct",
+  "reason": "Both 90% contact hours; match."
+ },
+ "XL-TRN-016": {
+  "label": "correct",
+  "reason": "Twice (8 and 15 questions); 4-hour online cap; yes; matches."
+ },
+ "XL-TRN-017": {
+  "label": "correct",
+  "reason": "180 days; six months ~180 days; matches."
+ },
+ "XL-TRN-018": {
+  "label": "correct",
+  "reason": "Rs 1-3 lakh band; 2.2% budget; share not determinable; matches."
+ },
+ "XL-TRN-019": {
+  "label": "correct",
+  "reason": "Rs 34,800 within Rs 90,000; counselling first; unaffected; matches."
+ },
+ "XL-TRN-020": {
+  "label": "correct",
+  "reason": "5 and 3 working days; 15 days grace; 10 more; matches."
+ },
+ "XL-TRV-001": {
+  "label": "correct",
+  "reason": "No; 80 km vs 500 km threshold; matches."
+ },
+ "XL-TRV-002": {
+  "label": "correct",
+  "reason": "March 31 first, May 1 review 31 days later; matches."
+ },
+ "XL-TRV-003": {
+  "label": "correct",
+  "reason": "Both 7; working vs calendar days; matches."
+ },
+ "XL-TRV-004": {
+  "label": "correct",
+  "reason": "Both 15 working days; before vs after trip; matches."
+ },
+ "XL-TRV-005": {
+  "label": "correct",
+  "reason": "Rs 75,000 vs 25,000; 3 times; matches."
+ },
+ "XL-TRV-006": {
+  "label": "correct",
+  "reason": "Rs 1,00,000 and 2,50,000; 2.5 times; matches."
+ },
+ "XL-TRV-007": {
+  "label": "correct",
+  "reason": "250 x 12 = Rs 3,000, equal to eSIM cap; matches."
+ },
+ "XL-TRV-008": {
+  "label": "correct",
+  "reason": "5 x 650 = Rs 3,250; twice per quarter; matches."
+ },
+ "XL-TRV-009": {
+  "label": "correct",
+  "reason": "75,000 / 0.82 = ~Rs 91,463; matches."
+ },
+ "XL-TRV-010": {
+  "label": "correct",
+  "reason": "60 x 2,200 = Rs 1,32,000; discount irrelevant; matches."
+ },
+ "XL-TRV-011": {
+  "label": "correct",
+  "reason": "No; 0.80E vs 0.85E, 5% shortfall; matches."
+ },
+ "XL-TRV-012": {
+  "label": "correct",
+  "reason": "15 working days after return; blesure days don't reduce it; matches."
+ },
+ "XL-TRV-013": {
+  "label": "correct",
+  "reason": "$170/night vs Rs 50 lakh; not comparable; matches."
+ },
+ "XL-TRV-014": {
+  "label": "correct",
+  "reason": "Both 3 working days; independent processes; matches."
+ },
+ "XL-TRV-015": {
+  "label": "correct",
+  "reason": "Both 10 working days; different processes; matches."
+ },
+ "XL-TRV-016": {
+  "label": "correct",
+  "reason": "Both 92%; measure different things; matches."
+ },
+ "XL-TRV-017": {
+  "label": "correct",
+  "reason": "8 vs 7 years; Hindi longer by 1 year; matches."
+ },
+ "XL-TRV-018": {
+  "label": "correct",
+  "reason": "7 > 4 nights but no laundry reimbursement for blesure days; matches."
+ },
+ "XL-TRV-019": {
+  "label": "correct",
+  "reason": "No; Rs 25,000 exceeds Rs 10,000 supervisor limit; matches."
+ },
+ "XL-TRV-020": {
+  "label": "correct",
+  "reason": "45 vs 15 days; 45 = 3 x 15; matches."
+ }
+}

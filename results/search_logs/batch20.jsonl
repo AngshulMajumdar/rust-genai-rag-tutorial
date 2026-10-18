@@ -1,0 +1,101 @@
+{"t": 1792140609.099727, "query": "ప్రతిపాదిత వేతనం ఆమోదిత వేతన శ్రేణి మించితే CHRO ప్రత్యేక ఆమోదం", "get": null, "lang": null, "doc": null, "k": 4}
+{"t": 1792140609.6021059, "query": "నికర తుది చెల్లింపు ఫైనాన్స్ అధిపతి వ్యక్తిగత ఆమోదం", "get": null, "lang": null, "doc": null, "k": 4}
+{"t": 1792140613.7610085, "query": "తొలి సంవత్సర నిలుపుదల రేటు KPI లక్ష్యం కొత్త నియామకాలు", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1792140614.347628, "query": "F&F డిస్బర్స్‌మెంట్ టైమ్‌లైన్ కంప్లయన్స్ రేటు KPI", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1792140614.8948352, "query": "గ్రేడ్ G7 విమానాశ్రయం రవాణా ట్రావెల్ డెస్క్", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1792140615.4387918, "query": "పార్కింగ్ M2 గ్రేడ్ కేటాయింపు", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1792140622.3844514, "query": "మహిళా ఉద్యోగి రాత్రి విమానాశ్రయ రాక భద్రత ట్రావెల్ డెస్క్", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140622.9217207, "query": "రాత్రి క్యాబ్ చివరిగా దిగే ఒంటరి మహిళా ఉద్యోగి సెక్యూరిటీ గార్డు", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 3}
+{"t": 1792140627.4060707, "query": "వైకల్యం గల ఉద్యోగి ప్రయాణ తరగతి పెంపు అభ్యర్థన పనిదినాలలో పరిష్కరించబడుతుంది", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140628.2218645, "query": "సహేతుకమైన వసతి అభ్యర్థన మదింపు అమలు ప్రణాళిక పనిదినాలు", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 3}
+{"t": 1792140632.117166, "query": "SIS సేఫ్ ట్రావెల్ యాప్ ట్రాకింగ్ తప్పనిసరి", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792140632.6825905, "query": "ప్రధాన ద్వారం CCTV ఫుటేజీ రోజులు భద్రపరచబడుతుంది", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 3}
+{"t": 1792140636.549366, "query": "సేఫ్ ట్రావెల్ మొబైల్ యాప్ నగర స్థాయి లొకేషన్ ఇన్‌స్టాల్", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140641.0059326, "query": "SIS Safe Travel app GPS దేశ స్థాయి ట్రాకింగ్ ఐచ్ఛికం", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1792140645.48644, "query": "ఎరుపు-శ్రేణి గమ్యస్థానం ప్రయాణం అదనపు ఆమోదం తప్పనిసరి", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140645.998923, "query": "క్రిటికల్ ఇన్సిడెంట్ డీబ్రీఫింగ్ CID అభ్యర్థన సమర్పించే అధికారం", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 3}
+{"t": 1792140649.652552, "query": "SIS ట్రావెల్ అసిస్టెన్స్ హాట్‌లైన్ 24x7 నిర్వహిస్తుంది", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140650.268813, "query": "EAP హెల్ప్‌లైన్ 24 గంటలు 365 రోజులు అందుబాటులో", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 3}
+{"t": 1792140654.8711505, "query": "తీవ్ర సంక్షోభ స్థాయి సంక్షోభ నిర్వహణ బృందం సక్రియం నిమిషాలలో", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140655.40024, "query": "సంక్షోభ కాల్ సీనియర్ క్రైసిస్ కౌన్సెలర్ టేక్ ఓవర్ నిమిషాలలోపు", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 3}
+{"t": 1792140658.5018396, "query": null, "get": "TE:06_employee_assistance_programme:0016", "lang": null, "doc": null, "k": 6}
+{"t": 1792140662.739328, "query": "నిష్క్రమించిన ఉద్యోగి EAP అర్హత రోజుల పాటు కొనసాగుతుంది", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 3}
+{"t": 1792140663.2811325, "query": "నిష్క్రమణ ప్రయాణ ప్రొఫైల్ నిష్క్రియం కార్పొరేట్ కార్డు", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140667.402431, "query": "ఉద్యోగి సంస్థను విడిచిపెట్టినప్పుడు క్రియాశీల ప్రయాణ ప్రొఫైల్ బుకింగ్‌లు రద్దు పనిదినాలలో", "get": null, "lang": null, "doc": null, "k": 4}
+{"t": 1792140667.9798577, "query": "travel profile deactivate exit separation ట్రావెల్ పోర్టల్ నిష్క్రియం", "get": null, "lang": null, "doc": null, "k": 4}
+{"t": 1792140672.028035, "query": "ప్రయాణ ప్రొఫైల్ నిష్క్రియం", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 4}
+{"t": 1792140672.6272852, "query": "నిష్క్రమించే ఉద్యోగి ప్రయాణ ప్రొఫైల్ పెండింగ్ ట్రిప్ అడ్వాన్స్", "get": null, "lang": null, "doc": "04_travel_policy", "k": 4}
+{"t": 1792140677.5316558, "query": "క్రియాశీల ప్రయాణ ప్రొఫైల్ డీయాక్టివేట్", "get": null, "lang": null, "doc": null, "k": 5}
+{"t": 1792140678.07628, "query": "రాజీనామా చేసిన ఉద్యోగి ట్రావెల్ పోర్టల్ ఖాతా చివరి పనిదినం", "get": null, "lang": null, "doc": null, "k": 5}
+{"t": 1792140678.7100847, "query": "నిష్క్రమణ క్లియరెన్స్ ట్రావెల్ డెస్క్ అడ్వాన్స్ సెటిల్", "get": null, "lang": null, "doc": null, "k": 5}
+{"t": 1792140681.7851973, "query": null, "get": "TE:04_travel_policy:0005", "lang": null, "doc": null, "k": 6}
+{"t": 1792140682.376551, "query": null, "get": "TE:04_travel_policy:0008", "lang": null, "doc": null, "k": 6}
+{"t": 1792140687.6241875, "query": "నోటీసు కాలంలో ఉన్న ఉద్యోగి ప్రయాణం ప్రొఫైల్", "get": null, "lang": null, "doc": "04_travel_policy", "k": 5}
+{"t": 1792140688.1870546, "query": "ఉద్యోగి సంస్థ విడిచిన తర్వాత ప్రొఫైల్ రోజులలోపు నిష్క్రియం చేయబడుతుంది", "get": null, "lang": null, "doc": "04_travel_policy", "k": 5}
+{"t": 1792140688.7457173, "query": "ప్రయాణికుల ప్రొఫైల్ డేటా నిలుపుదల తొలగింపు", "get": null, "lang": null, "doc": "04_travel_policy", "k": 5}
+{"t": 1792140692.993806, "query": "బ్లెజర్ వ్యక్తిగత పొడిగింపు రోజులు ప్రయాణ బీమా వర్తించదు", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140693.5416057, "query": "గ్రూప్ మెడికల్ ఇన్సూరెన్స్ కవరేజ్ చివరి పని దినం ముగుస్తుంది కన్వర్షన్", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 3}
+{"t": 1792140698.2198005, "query": null, "get": "TE:07_final_settlement_exit:0036", "lang": null, "doc": null, "k": 6}
+{"t": 1792140698.736597, "query": "వ్యక్తిగత కారణాల ట్రిప్ రద్దు అదనపు ఖర్చు ఉద్యోగి భరించాలి జీతం నుండి", "get": null, "lang": null, "doc": "04_travel_policy", "k": 3}
+{"t": 1792140699.4268327, "query": "ల్యాప్‌టాప్ తిరిగి ఇవ్వకపోతే తుది చెల్లింపు నుండి వసూలు", "get": null, "lang": null, "doc": null, "k": 3}
+{"t": 1792140705.219875, "query": "3.4 కంపెనీ సొత్తు తిరిగి ఇవ్వకపోవడం డిప్రీసియేటెడ్ విలువ భర్తీ వ్యయం", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792140705.781815, "query": "SIS గ్లోబల్ ఫారెక్స్ కార్డు లోడ్ పనిదినాల ముందు", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792140706.4179518, "query": "డేట్ ఆఫ్ ఎగ్జిట్ EPFO నమోదు చివరి పని దినం నుండి", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 3}
+{"t": 1792140711.1335382, "query": "ఫారెక్స్ కార్డు బయలుదేరడానికి కనీసం పనిదినాల ముందు ఆర్థిక విభాగం లోడ్", "get": null, "lang": null, "doc": "04_travel_policy", "k": 4}
+{"t": 1792140711.7377822, "query": null, "get": "TE:07_final_settlement_exit:0034", "lang": null, "doc": null, "k": 6}
+{"t": 1792140712.3188915, "query": "వీసా ప్రాసెసింగ్ సగటు సమయం KPI లక్ష్యం", "get": null, "lang": null, "doc": "04_travel_policy", "k": 2}
+{"t": 1792140715.6963096, "query": null, "get": "TE:04_travel_policy:0067", "lang": null, "doc": null, "k": 6}
+{"t": 1792140719.172054, "query": null, "get": "TE:04_travel_policy:0066", "lang": null, "doc": null, "k": 6}
+{"t": 1792140725.3568313, "query": "ఆన్-సైట్ మెడికల్ రూమ్ నర్సు అందుబాటులో ఉదయం సాయంత్రం", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 3}
+{"t": 1792140725.8770466, "query": "వార్షిక ఆరోగ్య తనిఖీ ఫలితాలు నేరుగా ఉద్యోగికి గోప్యంగా", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 3}
+{"t": 1792140726.4094975, "query": "EAP వినియోగం మేనేజర్ HR కు అనుమతి లేకుండా తెలియజేయబడదు గోప్యత", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 2}
+{"t": 1792140731.1482878, "query": "CPR AED శిక్షణ పొందిన సిబ్బంది ప్రతి అంతస్తు కనీసం", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 3}
+{"t": 1792140731.6848066, "query": "కౌన్సెలర్ వార్షిక CPD శిక్షణ గంటలు కనీసం", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 2}
+{"t": 1792140735.9448621, "query": "సౌకర్యాల తృప్తి సర్వే ద్వి-వార్షిక నెలలు", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 3}
+{"t": 1792140736.5157034, "query": "EAP పర్యవేక్షణ కమిటీ త్రైమాసిక సమావేశాలు నెలలు", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 3}
+{"t": 1792140740.264008, "query": "తృప్తి సర్వే జనవరి జూలై నిర్వహించబడుతుంది సౌకర్యాల", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 4}
+{"t": 1792140744.2230277, "query": null, "get": "TE:05_workplace_facilities:0083", "lang": null, "doc": null, "k": 6}
+{"t": 1792140744.798134, "query": null, "get": "TE:05_workplace_facilities:0060", "lang": null, "doc": null, "k": 6}
+{"t": 1792140745.3675628, "query": null, "get": "TE:05_workplace_facilities:0082", "lang": null, "doc": null, "k": 6}
+{"t": 1792140745.9073148, "query": null, "get": "TE:05_workplace_facilities:0085", "lang": null, "doc": null, "k": 6}
+{"t": 1792140750.667312, "query": "ఉద్యోగి సౌకర్యాల తృప్తి సర్వే ప్రతి ఆరు నెలలకు", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 5}
+{"t": 1792140751.2146022, "query": "satisfaction survey ఏప్రిల్ అక్టోబర్ సౌకర్యాలు ఫీడ్‌బ్యాక్", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 5}
+{"t": 1792140751.8014405, "query": "ఫీడ్‌బ్యాక్ సర్వే ఫలితాలు సౌకర్యాల అధిపతి", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 5}
+{"t": 1792140757.2013752, "query": null, "get": "TE:05_workplace_facilities:0025", "lang": null, "doc": null, "k": 6}
+{"t": 1792140757.7032907, "query": "తుది చెల్లింపు చివరి పని దినం నుండి 45 రోజుల్లోపు డిస్బర్స్‌మెంట్ అంతర్గత విధానం", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 3}
+{"t": 1792140758.2622738, "query": "యాక్సెస్ కార్డు పోగొట్టుకుంటే పునఃస్థాపన రుసుము మూడవసారి", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 2}
+{"t": 1792140763.3384376, "query": "కార్డు పోయినట్లయితే ₹ రుసుము కొత్త కార్డు జారీ గంటలలో", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 4}
+{"t": 1792140768.6627488, "query": "అగ్నిమాపక విద్యుత్ బాహ్య భద్రతా ఆడిట్ సంవత్సరాలకు ఒకసారి", "get": null, "lang": null, "doc": "05_workplace_facilities", "k": 3}
+{"t": 1792140769.2287762, "query": "F&F ఆర్థిక గణన పత్రాలు ఫైనాన్స్ ఆర్కైవ్ 8 సంవత్సరాలు నిలుపుదల", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 2}
+{"t": 1792140773.383076, "query": null, "get": "TE:07_final_settlement_exit:0054", "lang": null, "doc": null, "k": 6}
+{"t": 1792140773.9312832, "query": "EAP కేసు రికార్డులు నిల్వ సంవత్సరాలు శాశ్వతంగా తొలగింపు", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 3}
+{"t": 1792140778.1284962, "query": "డేటా నిల్వ కేసు రికార్డులు మనోమిత్ర తుడిచివేయబడతాయి", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 4}
+{"t": 1792140784.7732918, "query": "పదవీ-పూర్వ విరమణ కౌన్సెలింగ్ ప్యాకేజీ సెషన్లు నెలల ముందు", "get": null, "lang": null, "doc": "06_employee_assistance_programme", "k": 2}
+{"t": 1792140785.3013031, "query": "గ్రాట్యుటీ కనీస నిరంతర సర్వీసు 5 సంవత్సరాలు పదవీ విరమణ మినహాయింపు మరణం అశక్తత", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 3}
+{"t": 1792140789.9576263, "query": "గ్రాట్యుటీ అర్హత కనీసం 5 సంవత్సరాల నిరంతర సర్వీసు రాజీనామా పదవీ విరమణ అశక్తత మినహాయింపు", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 4}
+{"t": 1792140794.1743987, "query": "6. గ్రాట్యుటీ గణన అర్హత పేమెంట్ ఆఫ్ గ్రాట్యుటీ చట్టం నిరంతర సర్వీసు", "get": null, "lang": null, "doc": "07_final_settlement_exit", "k": 4}
+{"t": 1792140885.254839, "query": "వేతనరహిత సెలవు LOA ఆమోద స్థాయి రోజులు వరకు ఆమోదం", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 4}
+{"t": 1792140889.33909, "query": "మొదటి స్థాయి 30-90 రోజులు రిపోర్టింగ్ మేనేజర్ HRBP ఆమోదం నిర్ణయం పనిదినాలలో", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 4}
+{"t": 1792140889.9277403, "query": "ప్రామాణిక వార్షిక సెలవు కోటా క్యాలెండర్ సంవత్సరం రోజులు", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 3}
+{"t": 1792140895.1168637, "query": "LOA కాలంలో గ్రూప్ మెడికల్ ఇన్సూరెన్స్ ప్రీమియం కంపెనీ పూర్తిగా భరిస్తుంది మొదటి 90 రోజులు", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 3}
+{"t": 1792140895.6502113, "query": "పునరుజ్జీవన సబాటికల్ అర్హత కనీస నిరంతర సేవ సంవత్సరాలు సర్వీస్ బాండ్", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 4}
+{"t": 1792140899.809551, "query": "సబాటికల్ సర్వీస్ బాండ్ తిరిగి వచ్చిన తర్వాత కనీసం నెలలు కొనసాగాలి", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 3}
+{"t": 1792140900.3432827, "query": "సబాటికల్ గరిష్ట వ్యవధి నెలలు బ్యాక్‌ఫిల్ ఏర్పాటు ప్రారంభానికి ముందు ఖరారు", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 4}
+{"t": 1792140905.4093845, "query": "అధ్యయన సెలవు సెమిస్టర్ పురోగతి నివేదిక హాజరు కనీసం శాతం", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 3}
+{"t": 1792140905.9455307, "query": "మొదటి సబాటికల్ అవకాశం ఉపయోగించకపోతే రద్దు సంవత్సరాల సర్వీసులోపు", "get": null, "lang": null, "doc": "01_long_leave_sabbatical", "k": 4}
+{"t": 1792140912.3174882, "query": "PIP తప్పనిసరి రేటింగ్ వరుసగా రెండు చక్రాలు మేనేజర్ విచక్షణ లేకుండా", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792140912.898702, "query": "ప్రామాణిక PIP వ్యవధి రోజులు మధ్యంతర సమీక్ష రోజున", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792140918.498335, "query": "PIP ప్రారంభ సమావేశం ముందస్తు నోటీసు కనీసం పనిదినాలు", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792140919.1149192, "query": "స్కిప్-లెవెల్ మేనేజరు ప్రమేయం దశలు ఆమోదం", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 4}
+{"t": 1792140925.6808572, "query": "విజయవంతమైన పూర్తి శాతం తర్వాత కొత్త PIP కనీసం నెలల పాటు పెట్టకూడదు", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 4}
+{"t": 1792140929.312201, "query": "7. ఫలితాలు విజయవంతమైన పూర్తి 85% కూలింగ్ పీరియడ్ కొత్త PIP", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792140933.2737741, "query": null, "get": "TE:02_performance_improvement_plan:0014", "lang": null, "doc": null, "k": 6}
+{"t": 1792140937.7578828, "query": "కూలింగ్ పీరియడ్ అర్థం కొత్త PIP ప్రారంభించలేరు", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 4}
+{"t": 1792140941.5549617, "query": null, "get": "TE:02_performance_improvement_plan:0018", "lang": null, "doc": null, "k": 6}
+{"t": 1792140942.091942, "query": null, "get": "TE:02_performance_improvement_plan:0035", "lang": null, "doc": null, "k": 6}
+{"t": 1792140947.5788534, "query": "ధృవీకరణ పరీక్ష విఫలమైతే రెండవ ప్రయత్నం రోజుల తర్వాత", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792140948.1452363, "query": "మేనేజరు ధృవీకరణ అనుసరణ రేటు KPI లక్ష్యం", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792140952.3716986, "query": "ప్రక్రియాపరమైన లోపం PIP సమీక్షా బృందం అప్పీలు సంఘటన తేదీ నుండి 10 పనిదినాలు", "get": null, "lang": null, "doc": "02_performance_improvement_plan", "k": 3}
+{"t": 1792140958.232598, "query": "వేతన శ్రేణి వెల్లడింపు పరిశ్రమ ప్రమాణాలకు అనుగుణంగా పోటీతత్వ వేతనం గ్రేడ్", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792140958.7593095, "query": "అపెక్స్‌ఫైండ్ కన్సల్టింగ్ రిటైనర్ ఫీజు వార్షిక CTC శాతం", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
+{"t": 1792140959.3613071, "query": "ఒకే పోస్టుకు ప్రకటన ఖర్చు మించితే CHRO అదనపు ఆమోదం", "get": null, "lang": null, "doc": "03_recruitment_advertising_selection", "k": 3}
